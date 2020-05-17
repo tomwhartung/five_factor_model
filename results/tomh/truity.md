@@ -47,6 +47,18 @@ Neuroticism describes a person’s tendency to experience negative emotions, inc
 
 This trait can be thought of as an alarm system. People experience negative emotions as a sign that something is wrong in the world. You may be in danger, so you feel fear. Or you may have done something morally wrong, so you feel guilty. However, not everyone has the same reaction to a given situation. High Neuroticism scorers are more likely to react to a situation with fear, anger, sadness, and the like. Low Neuroticism scorers are more likely to brush off their misfortune and move on.
 
+## Teasers
+
+There are a few sections with partially-explained results that they want you to "Unlock your full Report" to see.
+
+- Your Traits in Depth
+  - They start with my Openness but I can't see much
+- Your Personality Patterns
+  - They say my core pattern is an Empathic Idealist (EI), but I can't see much
+- Your Traits in Action
+  - About my Inner Life and how my mind works, but I can't see much
+
+Not going to pay anything to them - at least not today.
 
 ## Comments
 
@@ -57,4 +69,7 @@ The questions on the last page contain just single words.
 
 They want me to "Unlock Your Full Report," but I am going to pass on that because it sounds like they want $$$.
 
+Resolution appears to be 2%.
+That is, I picked the middle answer for all questions but 5, for which I picked just slightly agree or disagree.
+The results came out to be either 48% or 52%.
 
