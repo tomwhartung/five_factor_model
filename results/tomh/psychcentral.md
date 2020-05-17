@@ -61,3 +61,5 @@ The pandemic has me on edge.  I am trying to ignore this temporary state of affa
 
 Avoiding the middle, "Neither agree nor disagree" options, because I feel it is a total cop-out.
 
+Tried to share on Facebook but I don't think it worked.  Probably just as well.
+
