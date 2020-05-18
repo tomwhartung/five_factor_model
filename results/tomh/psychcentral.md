@@ -5,6 +5,12 @@ Results from questionnaire at:
 
 - https://psychcentral.com/personality-test/start.php
 
+# 1st Questionnaire
+
+Going through these in the sequence in which they are listed in `questionnaires/list_of_questionnaires.md` .
+
+That means I took this one first.
+
 ## Results
 
 There were 50 questions, and it looks like these numbers are in the range between 0 and 50.
@@ -53,6 +59,8 @@ Neuroticism (23) - This trait reflects the tendency for a person to experience n
 Openness (46) - This trait reflects a person's open-mindedness, and interest in culture and art. People who score high on this trait tend to be imaginative, creative, and to seek out cultural and educational experiences. People who score lower on this trait tend to be more down-to-earth, less interested in art and more practical in nature.
 
 ## Comments
+
+Questions are prsented on five pages, each containing 10 questions.
 
 Many questions are negative, which means when looking at a "Disagree" option, I must consider a double negative,
 which could just as easily be expressed as a positive -- and hence easier to process -- if the question was positive.
