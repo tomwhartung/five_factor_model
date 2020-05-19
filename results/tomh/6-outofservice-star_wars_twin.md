@@ -1,15 +1,15 @@
 
-# 8-outofservice-star_wars_twin.md
+# 6-outofservice-star_wars_twin.md
 
 Results of taking the personality assessment at:
 
 - https://www.outofservice.com/starwars/
 
-# 8th Questionnaire
+# 6th Questionnaire
 
 Going through these in the sequence in which they are listed in `questionnaires/list_of_questionnaires.md` .
 
-That means I took this one eighth.
+That means I took this one sixth.
 
 ## Results
 
@@ -57,6 +57,6 @@ Interesting, but I expected just one character, not five of them.
 Perma-link to results:
 
 ```
-<a href="http://www.outofservice.com/starwars/results/?o=70&amp;c=83&amp;e=5&amp;a=69&amp;n=9">Click to see my Star Wars Personality!!</a>
+<a href="http://www.outofservice.com/starwars/results/?o=70&c=83&e=5&a=69&n=9">Click to see my Star Wars Personality!!</a>
 ```
 
