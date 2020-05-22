@@ -1,15 +1,15 @@
 
-# 9-hexaco.md
+# 10-hexaco.md
 
 Results of taking the personality assessment at:
 
 - http://hexaco.org/hexaco-online
 
-# 9th Questionnaire
+# 10th Questionnaire
 
 Going through these in the sequence in which they are listed in `questionnaires/list_of_questionnaires.md` .
 
-That means I took this one ninth.
+That means I took this one tenth.
 
 ## Results
 
