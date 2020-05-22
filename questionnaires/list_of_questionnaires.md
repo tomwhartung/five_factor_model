@@ -39,12 +39,20 @@ These are links to the questionnaires I answered for my research into the FFM, a
    - **I feel the 300-item version is MORE accurate than the 120-item version, but some of the questions were rather redundant.**
 9. [bigfive-test.com](https://bigfive-test.com/)
    - Found by following a link on the IPIP site - see below for details
+   - 120 questions, "estimated to take you about 10 minutes to complete"
+     - Very reactive - three questions per page, with a progress bar at the top that reflects every question answered - unique!
+   - "Important!  Save the following ID to see the results later or compare yourself to others"
+     - 5ec805799c0db30007ed2251
+   - Permalink to results page:
+     - https://bigfive-test.com/result/5ec805799c0db30007ed2251
 10. [hexaco.org](http://hexaco.org/hexaco-online)
   - 100 questions, "usually takes about 15 minutes"
   - Includes Honesty
   - Taking the HEXACO-PI-R will cause your responses to "be combined with those of many other respondents and used for research..."
 
 Results are in the `../results/tomh` directory.
+
+**Note: I never pick the middle option because it seems like a cop-out!**
 
 # The International Personality Item Pool (IPIP)
 
