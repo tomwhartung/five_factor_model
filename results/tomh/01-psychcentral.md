@@ -7,7 +7,7 @@ Results from questionnaire at:
 
 # 1st Questionnaire
 
-Going through these in the sequence in which they are listed in `questionnaires/list_of_questionnaires.md` .
+Going through these in the sequence in which they are listed in `online-questionnaires/list_of_questionnaires.md` .
 
 That means I took this one first.
 

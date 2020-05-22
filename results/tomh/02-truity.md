@@ -7,7 +7,9 @@ Results of taking the personality assessment at:
 
 # 2nd Questionnaire
 
-Note: took this one second.
+Going through these in the sequence in which they are listed in `online-questionnaires/list_of_questionnaires.md` .
+
+That means I took this one second.
 
 ## Results
 
