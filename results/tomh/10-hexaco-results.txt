@@ -1,0 +1,172 @@
+Your HEXACO-PI-R Results
+Shown below are your scores on the six broad "factor" scales and the 25 narrow "facet" scales of the HEXACO-PI-R. (Each factor scale is listed
+in bold, with its four facet scales indented below it. An additional facet scale, Altruism, is related to several factors and is listed separately.)
+                                                                             Median Score                    Middle 80% of Scores
+                                              Your Score
+                                                                             (50th percentile) *             (10th to 90th percentiles) *
+  Honesty-Humility                            3.94                           3.22                            2.41 - 3.97
+   Sincerity                                  4.25                           3.25                            2.13 - 4.25
+   Fairness                                   3.50                           3.38                            2.13 - 4.63
+   Greed-Avoidance                            4.00                           2.63                            1.38 - 4.00
+   Modesty                                    4.00                           3.63                            2.50 - 4.50
+  Emotionality                                3.13                           3.34                            2.63 - 3.97
+   Fearfulness                                4.50                           3.00                            1.88 - 4.00
+   Anxiety                                    2.50                           3.75                            2.63 - 4.63
+   Dependence                                 2.00                           3.25                            2.00 - 4.25
+   Sentimentality                             3.50                           3.50                            2.38 - 4.38
+  eXtraversion                                2.88                           3.50                            2.72 - 4.22
+   Social Self-Esteem                         4.00                           4.00                            3.00 - 4.63
+   Social Boldness                            1.50                           3.13                            1.88 - 4.25
+   Sociability                                2.50                           3.63                            2.50 - 4.50
+   Liveliness                                 3.50                           3.63                            2.50 - 4.50
+  Agreeableness                               3.63                           3.00                            2.22 - 3.72
+   Forgivingness                              2.50                           2.75                            1.75 - 3.88
+   Gentleness                                 4.00                           3.25                            2.25 - 4.13
+   Flexibility                                4.00                           2.75                            1.75 - 3.75
+   Patience                                   4.00                           3.25                            2.00 - 4.38
+  Conscientiousness                           4.06                           3.47                            2.72 - 4.16
+   Organization                               3.50                           3.38                            2.13 - 4.38
+   Diligence                                  4.00                           3.88                            2.88 - 4.71
+   Perfectionism                              4.75                           3.63                            2.38 - 4.38
+   Prudence                                   4.00                           3.25                            2.13 - 4.00
+  Openness to Experience                      4.06                           3.31                            2.50 - 4.13
+   Aesthetic Appreciation                     3.00                           3.25                            2.00 - 4.38
+   Inquisitiveness                            4.50                           3.13                            1.88 - 4.38
+   Creativity                                 4.75                           3.63                            2.25 - 4.63
+   Unconventionality                          4.00                           3.38                            2.63 - 4.25
+  Altruism                                    3.50                           3.88                            3.00 - 4.63
+                                                                                                             * from a university student sample.
+Frequently Asked Questions
+                                          Copyright © 2020 Kibeom Lee, Ph.D., & Michael C. Ashton, Ph.D.
+                                     Please visit http://hexaco.org for more information about the HEXACO-PI-R.
+What do the "percentile" numbers mean?
+The percentiles indicate the percentage of respondents whose scores are below a given number. So, 10% of respondents are below the 10th
+percentile, 50% of respondents are below the 50th percentile, and 90% of respondents are below the 90th percentile. The 50th percentile (or
+"median") represents the typical or average respondent.
+Where did these percentile results come from?
+The percentiles are taken from large samples of Canadian university students (men and women) who provided self-reports while participating in
+academic research studies. These percentiles might not apply to samples from other populations.
+What do each of these traits mean?
+See the descriptions provided here.
+Why are some traits given in bold, and why are others indented?
+The traits given in bold are the six broad HEXACO personality factors. The four indented traits below each of these six are the narrower "facet"-
+level traits that belong to each factor. The remaining trait, Altruism, is a facet that is related to three of the broad factors (Honesty-Humility,
+Emotionality, and Agreeableness).
+Is a higher score better?
+Not necessarily. People differ in their views about the "ideal" level of a given personality trait. Also, the decision to call one end of a personality
+trait the "high" end and the other end the "low" end is largely arbitrary. For example, we could have reversed the Extraversion dimension and
+called it Introversion, in which case people with "low" scores for Extraversion would have "high" scores for Introversion, and vice versa.
+Am I really above/below average on [this trait]?
+Not necessarily. First of all, one can never precisely "know" anyone's level of a personality trait, which is a hypothetical entity.
+Personality inventories are used to estimate a person's level of a trait, by averaging out responses to many statements (or "items") that are
+relevant to that trait. But if the trait were measured by a different set of items, a person's score would likely be at least slightly different, and
+could even be much different. These differences would tend to be larger for the narrower traits ("facets") of the HEXACO-PI-R, which here are
+measured by four items each; the broader traits ("factors") are measured by 16 items each (i.e., four facets with four items each).
+A person's score will also differ depending on who provides responses about the person. A person's own self-reports would likely be at least
+slightly different (and could be much different) from the reports provided about that person by his or her spouse or family member or close
+friend. It isn't always obvious whose responses would give the more accurate description of the person.
+What should I conclude from my results?
+Your profile of results is meant to give you some insight into your basic personality dispositions. But you shouldn't overinterpret your results or
+treat them as a kind of "prophecy" for your future. If you're disappointed with your score for a certain trait, you can still try to change some of
+your attitudes and behaviors related to that trait, and you can still find ways to make your level of this trait less of a problem for you (or for
+others).
+How can I learn more about trait theory and personality psychology?
+We'd suggest our books. (You don't have to buy them - you could borrow them from a library!) Individual Differences and Personality is a
+textbook for university students, and gives a systematic introduction to the field. The H Factor of Personality is aimed at the general reader, and
+describes our own research with explanations about the field more generally.
+Can I make a small donation to support the hexaco.org website and academic research about personality?
+You certainly don't have to, but if you'd like to make a small donation, please feel free to do so at http://hexaco.org/donation.
+                                            Copyright © 2020 Kibeom Lee, Ph.D., & Michael C. Ashton, Ph.D.
+                                       Please visit http://hexaco.org for more information about the HEXACO-PI-R.
+Scale Descriptions
+Domain-Level Scales
+Honesty-Humility: Persons with very high scores on the Honesty-Humility scale avoid manipulating others for personal gain, feel little
+temptation to break rules, are uninterested in lavish wealth and luxuries, and feel no special entitlement to elevated social status. Conversely,
+persons with very low scores on this scale will flatter others to get what they want, are inclined to break rules for personal profit, are motivated
+by material gain, and feel a strong sense of self-importance.
+Emotionality: Persons with very high scores on the Emotionality scale experience fear of physical dangers, experience anxiety in response to
+life's stresses, feel a need for emotional support from others, and feel empathy and sentimental attachments with others. Conversely, persons with
+very low scores on this scale are not deterred by the prospect of physical harm, feel little worry even in stressful situations, have little need to
+share their concerns with others, and feel emotionally detached from others.
+eXtraversion: Persons with very high scores on the Extraversion scale feel positively about themselves, feel confident when leading or addressing
+groups of people, enjoy social gatherings and interactions, and experience positive feelings of enthusiasm and energy. Conversely, persons with
+very low scores on this scale consider themselves unpopular, feel awkward when they are the center of social attention, are indifferent to social
+activities, and feel less lively and optimistic than others do.
+Agreeableness (versus Anger): Persons with very high scores on the Agreeableness scale forgive the wrongs that they suffered, are lenient in
+judging others, are willing to compromise and cooperate with others, and can easily control their temper. Conversely, persons with very low
+scores on this scale hold grudges against those who have harmed them, are rather critical of others' shortcomings, are stubborn in defending their
+point of view, and feel anger readily in response to mistreatment.
+Conscientiousness: Persons with very high scores on the Conscientiousness scale organize their time and their physical surroundings, work in a
+disciplined way toward their goals, strive for accuracy and perfection in their tasks, and deliberate carefully when making decisions. Conversely,
+persons with very low scores on this scale tend to be unconcerned with orderly surroundings or schedules, avoid difficult tasks or challenging
+goals, are satisfied with work that contains some errors, and make decisions on impulse or with little reflection.
+Openness to Experience: Persons with very high scores on the Openness to Experience scale become absorbed in the beauty of art and nature, are
+inquisitive about various domains of knowledge, use their imagination freely in everyday life, and take an interest in unusual ideas or people.
+Conversely, persons with very low scores on this scale are rather unimpressed by most works of art, feel little intellectual curiosity, avoid
+creative pursuits, and feel little attraction toward ideas that may seem radical or unconventional.
+Facet-Level Scales
+Honesty-Humility Domain
+The Sincerity scale assesses a tendency to be genuine in interpersonal relations. Low scorers will flatter others or pretend to like them in order to
+obtain favors, whereas high scorers are unwilling to manipulate others.
+The Fairness scale assesses a tendency to avoid fraud and corruption. Low scorers are willing to gain by cheating or stealing, whereas high
+scorers are unwilling to take advantage of other individuals or of society at large.
+The Greed Avoidance scale assesses a tendency to be uninterested in possessing lavish wealth, luxury goods, and signs of high social status. Low
+scorers want to enjoy and to display wealth and privilege, whereas high scorers are not especially motivated by monetary or social-status
+considerations.
+The Modesty scale assesses a tendency to be modest and unassuming. Low scorers consider themselves as superior and as entitled to privileges
+that others do not have, whereas high scorers view themselves as ordinary people without any claim to special treatment.
+Emotionality Domain
+The Fearfulness scale assesses a tendency to experience fear. Low scorers feel little fear of injury and are relatively tough, brave, and insensitive
+to physical pain, whereas high scorers are strongly inclined to avoid physical harm.
+The Anxiety scale assesses a tendency to worry in a variety of contexts. Low scorers feel little stress in response to difficulties, whereas high
+scorers tend to become preoccupied even by relatively minor problems.
+The Dependence scale assesses one's need for emotional support from others. Low scorers feel self-assured and able to deal with problems
+without any help or advice, whereas high scorers want to share their difficulties with those who will provide encouragement and comfort.
+The Sentimentality scale assesses a tendency to feel strong emotional bonds with others. Low scorers feel little emotion when saying good-bye or
+in reaction to the concerns of others, whereas high scorers feel strong emotional attachments and an empathic sensitivity to the feelings of others.
+Extraversion Domain
+                                            Copyright © 2020 Kibeom Lee, Ph.D., & Michael C. Ashton, Ph.D.
+                                      Please visit http://hexaco.org for more information about the HEXACO-PI-R.
+The Social Self-Esteem scale assesses a tendency to have positive self-regard, particularly in social contexts. High scorers are generally satisfied
+with themselves and consider themselves to have likable qualities, whereas low scorers tend to have a sense of personal worthlessness and to see
+themselves as unpopular.
+The Social Boldness scale assesses one's comfort or confidence within a variety of social situations. Low scorers feel shy or awkward in positions
+of leadership or when speaking in public, whereas high scorers are willing to approach strangers and are willing to speak up within group settings.
+The Sociability scale assesses a tendency to enjoy conversation, social interaction, and parties. Low scorers generally prefer solitary activities and
+do not seek out conversation, whereas high scorers enjoy talking, visiting, and celebrating with others.
+The Liveliness scale assesses one's typical enthusiasm and energy. Low scorers tend not to feel especially cheerful or dynamic, whereas high
+scorers usually experience a sense of optimism and high spirits.
+Agreeableness Domain
+The Forgivingness scale assesses one's willingness to feel trust and liking toward those who may have caused one harm. Low scorers tend "hold
+a grudge" against those who have offended them, whereas high scorers are usually ready to trust others again and to re-establish friendly relations
+after having been treated badly.
+The Gentleness scale assesses a tendency to be mild and lenient in dealings with other people. Low scorers tend to be critical in their evaluations
+of others, whereas high scorers are reluctant to judge others harshly.
+The Flexibility scale assesses one's willingness to compromise and cooperate with others. Low scorers are seen as stubborn and are willing to
+argue, whereas high scorers avoid arguments and accommodate others' suggestions, even when these may be unreasonable.
+The Patience scale assesses a tendency to remain calm rather than to become angry. Low scorers tend to lose their tempers quickly, whereas high
+scorers have a high threshold for feeling or expressing anger.
+Conscientiousness Domain
+The Organization scale assesses a tendency to seek order, particularly in one's physical surroundings. Low scorers tend to be sloppy and
+haphazard, whereas high scorers keep things tidy and prefer a structured approach to tasks.
+The Diligence scale assesses a tendency to work hard. Low scorers have little self-discipline and are not strongly motivated to achieve, whereas
+high scorers have a strong "'work ethic" and are willing to exert themselves.
+The Perfectionism scale assesses a tendency to be thorough and concerned with details. Low scorers tolerate some errors in their work and tend
+to neglect details, whereas high scorers check carefully for mistakes and potential improvements.
+The Prudence scale assesses a tendency to deliberate carefully and to inhibit impulses. Low scorers act on impulse and tend not to consider
+consequences, whereas high scorers consider their options carefully and tend to be cautious and self-controlled.
+Openness to Experience Domain
+The Aesthetic Appreciation scale assesses one's enjoyment of beauty in art and in nature. Low scorers tend not to become absorbed in works of
+art or in natural wonders, whereas high scorers have a strong appreciation of various art forms and of natural wonders.
+The Inquisitiveness scale assesses a tendency to seek information about, and experience with, the natural and human world. Low scorers have
+little curiosity about the natural or social sciences, whereas high scorers read widely and are interested in travel.
+The Creativity scale assesses one's preference for innovation and experiment. Low scorers have little inclination for original thought, whereas
+high scorers actively seek new solutions to problems and express themselves in art.
+The Unconventionality scale assesses a tendency to accept the unusual. Low scorers avoid eccentric or nonconforming persons, whereas high
+scorers are receptive to ideas that might seem strange or radical.
+Interstitial Scale
+The Altruism (versus Antagonism) scale assesses a tendency to be sympathetic and soft-hearted toward others. High scorers avoid causing harm
+and react with generosity toward those who are weak or in need of help, whereas low scorers are not upset by the prospect of hurting others and
+may be seen as hard-hearted.
+                                          Copyright © 2020 Kibeom Lee, Ph.D., & Michael C. Ashton, Ph.D.
+                                     Please visit http://hexaco.org for more information about the HEXACO-PI-R.
