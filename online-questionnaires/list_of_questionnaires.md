@@ -8,18 +8,22 @@ A list of Five Factor Model (FFM) questionnaires that I have found online.
 These are links to the questionnaires I answered for my research into the FFM, along with my comments on each.
 
 1. [psychcentral.com](https://psychcentral.com/personality-test/start.php)
-   - 50 questions, should take about 7 minutes
-   - Says it is similar to the MBTI but actually measures the big five personality attributes
+-  50 questions, should take about 7 minutes
+-  Says it is similar to the MBTI but actually measures the big five personality attributes
+
 2. [truity.com](https://www.truity.com/test/big-five-personality-test)
-   - "See exactly how you score for [OCEAN traits] with this scientific personality assessment."
+-  "See exactly how you score for [OCEAN traits] with this scientific personality assessment."
+
 3. [openpsychometrics.org](https://openpsychometrics.org/tests/IPIP-BFFM/)
-   - 50 questions, should take 3-8 minutes to complete
+-  50 questions, should take 3-8 minutes to complete
+
 4. [scienceofpeople.com](https://www.scienceofpeople.com/personality/#personality-test)
-   - 44 questions, should take about 10 minutes
-   - Actually there were 45 questions, oops on them, but that makes more sense
-   - This page has lots of helpful information about the Big Five traits and politics, teamwork, etc.
-     - Also, facial recognition?!?
-   - To take the quiz, click on the "TAKE THE QUIZ" button near the top
+-  44 questions, should take about 10 minutes
+-  Actually there were 45 questions, oops on them, but that makes more sense
+-  This page has lots of helpful information about the Big Five traits and politics, teamwork, etc.
+   -  Also, facial recognition?!?
+-  To take the quiz, click on the "TAKE THE QUIZ" button near the top
+
 5. [personal.psu.edu](http://www.personal.psu.edu/%7Ej5j/IPIP/)
    - Found the link to this site further down in this list, [ipip.ori.org](https://ipip.ori.org/New_IPIP-50-item-scale.htm)
    - Contains two versions of the IPIP-NEO
