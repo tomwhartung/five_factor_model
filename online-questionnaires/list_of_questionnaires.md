@@ -25,34 +25,34 @@ These are links to the questionnaires I answered for my research into the FFM, a
 -  To take the quiz, click on the "TAKE THE QUIZ" button near the top
 
 5. [personal.psu.edu](http://www.personal.psu.edu/%7Ej5j/IPIP/)
-   - Found the link to this site further down in this list, [ipip.ori.org](https://ipip.ori.org/New_IPIP-50-item-scale.htm)
-   - Contains two versions of the IPIP-NEO
-     - New short version: contains 120 items, takes 10-20 minutes
-       - http://www.personal.psu.edu/%7Ej5j/IPIP/ipipneo120.htm
-   - **I feel the 120-item version is LESS accurate than the 300-item version, but some of the questions were rather redundant.**
+-  Found the link to this site further down in this list, [ipip.ori.org](https://ipip.ori.org/New_IPIP-50-item-scale.htm)
+-  Contains two versions of the IPIP-NEO
+   -  New short version: contains 120 items, takes 10-20 minutes
+     -  http://www.personal.psu.edu/%7Ej5j/IPIP/ipipneo120.htm
+-  **I feel the 120-item version is LESS accurate than the 300-item version, but some of the questions were rather redundant.**
 6. [outofservice.com - Star Wars Twin](https://www.outofservice.com/starwars/)
-   - Find Your Star Wars Twin, really just did this for fun
-     - **Based on the Big Five traits**
-   - Rather disappointed it matched each trait to a different character
+-  Find Your Star Wars Twin, really just did this for fun
+   -  **Based on the Big Five traits**
+-  Rather disappointed it matched each trait to a different character
 7. [outofservice.com - Big Five](https://www.outofservice.com/bigfive/)
-   - The Big Five Personality Test
+-  The Big Five Personality Test
 8. [personal.psu.edu](http://www.personal.psu.edu/%7Ej5j/IPIP/)
-   - Found the link to this site further down in this list, [ipip.ori.org](https://ipip.ori.org/New_IPIP-50-item-scale.htm)
-   - Contains two versions of the IPIP-NEO
-     - Original: contains 300 items, takes 30-40 minutes
-   - **I feel the 300-item version is MORE accurate than the 120-item version, but some of the questions were rather redundant.**
+-  Found the link to this site further down in this list, [ipip.ori.org](https://ipip.ori.org/New_IPIP-50-item-scale.htm)
+-  Contains two versions of the IPIP-NEO
+   -  Original: contains 300 items, takes 30-40 minutes
+-  **I feel the 300-item version is MORE accurate than the 120-item version, but some of the questions were rather redundant.**
 9. [bigfive-test.com](https://bigfive-test.com/)
-   - Found by following a link on the IPIP site - see below for details
-   - 120 questions, "estimated to take you about 10 minutes to complete"
-     - Very reactive - three questions per page, with a progress bar at the top that reflects every question answered - unique!
-   - "Important!  Save the following ID to see the results later or compare yourself to others"
-     - 5ec805799c0db30007ed2251
-   - Permalink to results page:
-     - https://bigfive-test.com/result/5ec805799c0db30007ed2251
+-  Found by following a link on the IPIP site - see below for details
+-  120 questions, "estimated to take you about 10 minutes to complete"
+   -  Very reactive - three questions per page, with a progress bar at the top that reflects every question answered - unique!
+-  "Important!  Save the following ID to see the results later or compare yourself to others"
+   -  5ec805799c0db30007ed2251
+-  Permalink to results page:
+   -  https://bigfive-test.com/result/5ec805799c0db30007ed2251
 10. [hexaco.org](http://hexaco.org/hexaco-online)
-  - 100 questions, "usually takes about 15 minutes"
-  - Includes Honesty
-  - Taking the HEXACO-PI-R will cause your responses to "be combined with those of many other respondents and used for research..."
+- 100 questions, "usually takes about 15 minutes"
+- Includes Honesty
+- Taking the HEXACO-PI-R will cause your responses to "be combined with those of many other respondents and used for research..."
 
 Results are in the `../results/tomh` directory.
 
