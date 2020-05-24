@@ -1,0 +1,101 @@
+instrument,alpha,key,text,label
+NEO5-20,0.85,1,Have a good word for everyone.,Agreeableness
+NEO5-20,0.85,1,Believe that others have good intentions.,Agreeableness
+NEO5-20,0.85,1,Respect others.,Agreeableness
+NEO5-20,0.85,1,Accept people as they are.,Agreeableness
+NEO5-20,0.85,1,Make people feel at ease.,Agreeableness
+NEO5-20,0.85,1,Am concerned about others.,Agreeableness
+NEO5-20,0.85,1,Trust what people say.,Agreeableness
+NEO5-20,0.85,1,Sympathize with others' feelings.,Agreeableness
+NEO5-20,0.85,1,Am easy to satisfy.,Agreeableness
+NEO5-20,0.85,1,Treat all people equally.,Agreeableness
+NEO5-20,0.85,-1,Have a sharp tongue.,Agreeableness
+NEO5-20,0.85,-1,Cut others to pieces.,Agreeableness
+NEO5-20,0.85,-1,Suspect hidden motives in others.,Agreeableness
+NEO5-20,0.85,-1,Get back at others.,Agreeableness
+NEO5-20,0.85,-1,Insult people.,Agreeableness
+NEO5-20,0.85,-1,Believe that I am better than others.,Agreeableness
+NEO5-20,0.85,-1,Contradict others.,Agreeableness
+NEO5-20,0.85,-1,Make demands on others.,Agreeableness
+NEO5-20,0.85,-1,Hold a grudge.,Agreeableness
+NEO5-20,0.85,-1,Am out for my own personal gain.,Agreeableness
+NEO5-20,0.90,1,Am always prepared.,Conscientiousness
+NEO5-20,0.90,1,Pay attention to details.,Conscientiousness
+NEO5-20,0.90,1,Get chores done right away.,Conscientiousness
+NEO5-20,0.90,1,Carry out my plans.,Conscientiousness
+NEO5-20,0.90,1,Make plans and stick to them.,Conscientiousness
+NEO5-20,0.90,1,Complete tasks successfully.,Conscientiousness
+NEO5-20,0.90,1,Do things according to a plan.,Conscientiousness
+NEO5-20,0.90,1,Am exacting in my work.,Conscientiousness
+NEO5-20,0.90,1,Finish what I start.,Conscientiousness
+NEO5-20,0.90,1,Follow through with my plans.,Conscientiousness
+NEO5-20,0.90,-1,Waste my time.,Conscientiousness
+NEO5-20,0.90,-1,Find it difficult to get down to work.,Conscientiousness
+NEO5-20,0.90,-1,Do just enough work to get by.,Conscientiousness
+NEO5-20,0.90,-1,Don't see things through.,Conscientiousness
+NEO5-20,0.90,-1,Shirk my duties.,Conscientiousness
+NEO5-20,0.90,-1,Mess things up.,Conscientiousness
+NEO5-20,0.90,-1,Leave things unfinished.,Conscientiousness
+NEO5-20,0.90,-1,Don't put my mind on the task at hand.,Conscientiousness
+NEO5-20,0.90,-1,Make a mess of things.,Conscientiousness
+NEO5-20,0.90,-1,Need a push to get started.,Conscientiousness
+NEO5-20,0.91,1,Feel comfortable around people.,Extraversion
+NEO5-20,0.91,1,Make friends easily.,Extraversion
+NEO5-20,0.91,1,Am skilled in handling social situations.,Extraversion
+NEO5-20,0.91,1,Am the life of the party.,Extraversion
+NEO5-20,0.91,1,Know how to captivate people.,Extraversion
+NEO5-20,0.91,1,Start conversations.,Extraversion
+NEO5-20,0.91,1,Warm up quickly to others.,Extraversion
+NEO5-20,0.91,1,Talk to a lot of different people at parties.,Extraversion
+NEO5-20,0.91,1,Don't mind being the center of attention.,Extraversion
+NEO5-20,0.91,1,Cheer people up.,Extraversion
+NEO5-20,0.91,-1,Have little to say.,Extraversion
+NEO5-20,0.91,-1,Keep in the background.,Extraversion
+NEO5-20,0.91,-1,Would describe my experiences as somewhat dull.,Extraversion
+NEO5-20,0.91,-1,Don't like to draw attention to myself.,Extraversion
+NEO5-20,0.91,-1,Don't talk a lot.,Extraversion
+NEO5-20,0.91,-1,Avoid contacts with others.,Extraversion
+NEO5-20,0.91,-1,Am hard to get to know.,Extraversion
+NEO5-20,0.91,-1,Retreat from others.,Extraversion
+NEO5-20,0.91,-1,Find it difficult to approach others.,Extraversion
+NEO5-20,0.91,-1,Keep others at a distance.,Extraversion
+NEO5-20,0.91,1,Often feel blue.,Neuroticism
+NEO5-20,0.91,1,Dislike myself.,Neuroticism
+NEO5-20,0.91,1,Am often down in the dumps.,Neuroticism
+NEO5-20,0.91,1,Have frequent mood swings.,Neuroticism
+NEO5-20,0.91,1,Panic easily.,Neuroticism
+NEO5-20,0.91,1,Am filled with doubts about things.,Neuroticism
+NEO5-20,0.91,1,Feel threatened easily.,Neuroticism
+NEO5-20,0.91,1,Get stressed out easily.,Neuroticism
+NEO5-20,0.91,1,Fear for the worst.,Neuroticism
+NEO5-20,0.91,1,Worry about things.,Neuroticism
+NEO5-20,0.91,-1,Seldom feel blue.,Neuroticism
+NEO5-20,0.91,-1,Feel comfortable with myself.,Neuroticism
+NEO5-20,0.91,-1,Rarely get irritated.,Neuroticism
+NEO5-20,0.91,-1,Am not easily bothered by things.,Neuroticism
+NEO5-20,0.91,-1,Am very pleased with myself.,Neuroticism
+NEO5-20,0.91,-1,Am relaxed most of the time.,Neuroticism
+NEO5-20,0.91,-1,Seldom get mad.,Neuroticism
+NEO5-20,0.91,-1,Am not easily frustrated.,Neuroticism
+NEO5-20,0.91,-1,Remain calm under pressure.,Neuroticism
+NEO5-20,0.91,-1,Rarely lose my composure.,Neuroticism
+NEO5-20,0.89,1,Believe in the importance of art.,Openness To Experience
+NEO5-20,0.89,1,Have a vivid imagination.,Openness To Experience
+NEO5-20,0.89,1,Tend to vote for liberal political candidates.,Openness To Experience
+NEO5-20,0.89,1,Carry the conversation to a higher level.,Openness To Experience
+NEO5-20,0.89,1,Enjoy hearing new ideas.,Openness To Experience
+NEO5-20,0.89,1,Enjoy thinking about things.,Openness To Experience
+NEO5-20,0.89,1,Can say things beautifully.,Openness To Experience
+NEO5-20,0.89,1,Enjoy wild flights of fantasy.,Openness To Experience
+NEO5-20,0.89,1,Get excited by new ideas.,Openness To Experience
+NEO5-20,0.89,1,Have a rich vocabulary.,Openness To Experience
+NEO5-20,0.89,-1,Am not interested in abstract ideas.,Openness To Experience
+NEO5-20,0.89,-1,Do not like art.,Openness To Experience
+NEO5-20,0.89,-1,Avoid philosophical discussions.,Openness To Experience
+NEO5-20,0.89,-1,Do not enjoy going to art museums.,Openness To Experience
+NEO5-20,0.89,-1,Tend to vote for conservative political candidates.,Openness To Experience
+NEO5-20,0.89,-1,Do not like poetry.,Openness To Experience
+NEO5-20,0.89,-1,Rarely look for a deeper meaning in things.,Openness To Experience
+NEO5-20,0.89,-1,Believe that too much tax money goes to support artists.,Openness To Experience
+NEO5-20,0.89,-1,Am not interested in theoretical discussions.,Openness To Experience
+NEO5-20,0.89,-1,Have difficulty understanding abstract ideas.,Openness To Experience
