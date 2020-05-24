@@ -3,17 +3,36 @@
 
 These are some high-level ideas I have for creating my own Big Five (BF) "OCEAN" Five Factor Model (FFM) questionnaire.
 
+# Resources
+
+The [International Personality Item Pool](https://ipip.ori.org) at ipip.ori.org site provides many resources.
+
+- https://ipip.ori.org/
+  - Home page with list of resources
+- https://ipip.ori.org/New_IPIP-50-item-scale.htm
+  - Sample 50-item questionnaire with instructions on how to use it
+- https://ipip.ori.org/ItemAssignmentTable.htm
+  - Linked to on the Home page as "A table showing which IPIP items are currently assigned to which scales"
+  - The spreadsheet is linked to as "This is the link to the Excel workbook containing the item assignment table."
+  - A copy of the spreadsheet is in this repo, in `downloaded/ipip/TedoneItemAssignmentTable.ods`
+  - NEO-specific questions from the spreadsheet are in .csv files in directory `0-open_source_items` .
+
+For more about the International Personality Item Pool, see the file `ipip.md` in this directory.
+
 # Phases
 
 High-level thoughts about having three phases:
 
 - Phase 1: Use the 50-item sample questionnaire from ipip.ori.org
   - This is free to use any way I want
-- Phase 2: Use the 300 items from the spreadsheet downloaded from ipip.ori.org
-  - The spread is in this repo, in `downloaded/ipip/TedoneItemAssignmentTable.ods`
-- Phase 3: Somehow modify or add questions to the 300 item questionnaire so it can also yield Jungian Archetype results
-- Phase 4: ??????????
-- Phase 5: PROFIT!!!!
+- Phase 2: Update the 50-item sample questionnaire with questions from the `TedoneItemAssignmentTable` spreadsheet
+- Phase 3: Use the 300 items from the spreadsheet downloaded from ipip.ori.org
+  - The spreadsheet is in this repo, in `downloaded/ipip/TedoneItemAssignmentTable.ods`
+- Phase 4: Somehow modify or add questions to the 300 item questionnaire so it can also yield Jungian Archetype results
+  - Intuitively this seems possible, in reality it might not be
+  - It will absolutely be rather fun to try!
+- Phase 5: ??????????
+- Phase 6: PROFIT!!!!
 
 ## Phase 1
 
@@ -52,23 +71,37 @@ From the "Scoring Instructions" page (https://ipip.ori.org/newScoringInstruction
 
 ## Phase 2
 
+1. Review the 50 sample questions.
+2. Review the 100 additional sample questions from the spreadsheet.
+3. Update the sample questionnaire's questions, adding new and replacing existing questions with new items from the spreadsheet.
+4. Maybe, ideally, have a spreasheet with about 100 total items I can start using right away?
+
+Concerns:
+
+- Won't know until I review the sample items
+- Some items may appear in both the sample questionnaire and the spreadsheet
+- Definitely want between 60-120 questions
+- Around 100 would be good!
+
+## Phase 3
+
 Work area is in directory `2-...` .
 
 See how Phase 1 goes, then try this.
 
-## Phase 3
+## Phase 4
 
 Work area is in directory `3-...` .
 
 Possibly try this later.
 
-## Phase 4
+## Phase 5
 
 Work area is in directory `4-...` .
 
 ?????????????????????
 
-## Phase 5
+## Phase 6
 
 Work area is in directory `5-...` .
 
