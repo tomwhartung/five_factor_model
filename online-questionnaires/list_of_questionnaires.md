@@ -10,37 +10,53 @@ These are links to the questionnaires I answered for my research into the FFM, a
 1. [psychcentral.com](https://psychcentral.com/personality-test/start.php)
 -  50 questions, should take about 7 minutes
 -  Says it is similar to the MBTI but actually measures the big five personality attributes
+-  See screenshot of results in this directory
 
 2. [truity.com](https://www.truity.com/test/big-five-personality-test)
 -  "See exactly how you score for [OCEAN traits] with this scientific personality assessment."
+-  See screenshot of results in this directory
 
 3. [openpsychometrics.org](https://openpsychometrics.org/tests/IPIP-BFFM/)
 -  50 questions, should take 3-8 minutes to complete
+-  Answered a few other questionnaires on this site, out of curiosity and for fun
+   -  See screenshots of results in this directory
 
 4. [scienceofpeople.com](https://www.scienceofpeople.com/personality/#personality-test)
 -  44 questions, should take about 10 minutes
 -  Actually there were 45 questions, oops on them, but that makes more sense
 -  This page has lots of helpful information about the Big Five traits and politics, teamwork, etc.
-   -  Also, facial recognition?!?
+   -  Also, facial recognition?!?  More likely facial expressions. Skipping that for now.
 -  To take the quiz, click on the "TAKE THE QUIZ" button near the top
+-  Downloaded chapter 1 of her book for free, saved in this directory
+-  See email containing results in this directory
 
 5. [personal.psu.edu](http://www.personal.psu.edu/%7Ej5j/IPIP/)
 -  Found the link to this site further down in this list, [ipip.ori.org](https://ipip.ori.org/New_IPIP-50-item-scale.htm)
 -  Contains two versions of the IPIP-NEO
    -  New short version: contains 120 items, takes 10-20 minutes
      -  http://www.personal.psu.edu/%7Ej5j/IPIP/ipipneo120.htm
--  **I feel the 120-item version is LESS accurate than the 300-item version, but some of the questions were rather redundant.**
+-  Also took the 300-item version, see #8 below for results
+
 6. [outofservice.com - Star Wars Twin](https://www.outofservice.com/starwars/)
 -  Find Your Star Wars Twin, really just did this for fun
    -  **Based on the Big Five traits**
 -  Rather disappointed it matched each trait to a different character
+-  The results file contains a permalink to the results
+-  See screenshots of results in this directory
+
 7. [outofservice.com - Big Five](https://www.outofservice.com/bigfive/)
 -  The Big Five Personality Test
+-  Warning: percentages seem to reflect the score, not where you fall with respect to other people
+   - The nice results I got from the HEXACO site make this apparent
+-  See screenshots of results in this directory
+
 8. [personal.psu.edu](http://www.personal.psu.edu/%7Ej5j/IPIP/)
 -  Found the link to this site further down in this list, [ipip.ori.org](https://ipip.ori.org/New_IPIP-50-item-scale.htm)
 -  Contains two versions of the IPIP-NEO
    -  Original: contains 300 items, takes 30-40 minutes
--  **I feel the 300-item version is MORE accurate than the 120-item version, but some of the questions were rather redundant.**
+-  I feel this 300-item version is MORE accurate than the 120-item version
+   -  Some of the questions were definitely rather redundant
+
 9. [bigfive-test.com](https://bigfive-test.com/)
 -  Found by following a link on the IPIP site - see below for details
 -  120 questions, "estimated to take you about 10 minutes to complete"
@@ -49,6 +65,9 @@ These are links to the questionnaires I answered for my research into the FFM, a
    -  5ec805799c0db30007ed2251
 -  Permalink to results page:
    -  https://bigfive-test.com/result/5ec805799c0db30007ed2251
+-  See screenshots of results in this directory
+-  **I do like this one the best!**
+
 10. [hexaco.org](http://hexaco.org/hexaco-online)
 - 100 questions, "usually takes about 15 minutes"
 - Includes Honesty
@@ -57,54 +76,6 @@ These are links to the questionnaires I answered for my research into the FFM, a
 Results are in the `../results/tomh` directory.
 
 **Note: I never pick the middle option because it seems like a cop-out!**
-
-# The International Personality Item Pool (IPIP)
-
-**I am thinking about using this as my initial FFM Questionnaire, and putting the questions in a spreadsheet....**
-
-This content has been copied and pasted, with annotated links.
-
-## From the "Site Overview:" Section
-
-- "This is the official website for the International Personality Item Pool (IPIP)."
-- "The items and scales are **in the public domain,** which means that one can copy, edit, translate, or use them for any purpose without asking permission and without paying a fee."  [Emphasis added.]
-
-## From the "Warning about the nature of this site" Section:
-
-- "BEWARE: This site includes highly technical scientific information, and NO PERSONALITY TESTS ARE ADMINISTERED HERE."
-- "If you are looking to take an on-line personality questionnaire based on IPIP items, try the following site: [The IPIP-NEO](http://www.personal.psu.edu/~j5j/IPIP/)
-  - **This links to site #8 in the list above, and is how I found it**
-- "If you are looking for software to administer personality questionnaires based on IPIP items on your own computer, try the following site: [maccyber/bigfive-web](https://github.com/Alheimsins/bigfive-web)."
-  - The link is to the "bigfive-web" repo on github, which is JavaScript code for the site [bigfive-test.com](https://bigfive-test.com/):
-  - For details, see 'The "bigfive-web" Repo on Github' section below
-
-From the "Are you not sure how to use the IPIP? A step-by-step, how-to guide" Section:
-
-- "[Obtaining permission to use IPIP items and scales](https://ipip.ori.org/newPermission.htm)"
-  - The questions are open sourced and it is ok for me to use them for any reason I want to whatsoever!  Yay!!
-- "[How to format and administer IPIP measures, with a 50-item sample questionnaire](https://ipip.ori.org/New_IPIP-50-item-scale.htm)"
-  - Contains suggestions on how to administer the questionnaire and 50 sample questions
-  - This is not really a questionnaire that you can answer!
-  - Again, **"the IPIP is in the public domain"**
-  - **Spoiler Alert:** these questions are **keyed to + or - each of the 5 OCEAN traits**
-  - **These are the questions I am thinking about using this as my initial FFM Questionnaire**
-
-# The "bigfive-web" Repo on Github
-
-This is JavaScript code for the site [bigfive-test.com](https://bigfive-test.com/):
-
-- The dates on the files and directories run from 2 years ago to yesterday
-- From the README.md:
-  - "Website for five factor model of personality based on work from [IPIP-NEO-PI](https://github.com/kholia/IPIP-NEO-PI)"
-    - More info on this below (*)
-  - "Tests and evaluation is gathered from [ipip.ori.org](http://ipip.ori.org/)."
-    - Links back to where we came from
-  - "See it live @ [bigfive-test.com](https://bigfive-test.com/)"
-    - **This links to site #9 in the list above, and is how I found it**
-  - "Written in nodejs using next.js and micro framework"
-  - (*) The "IPIP-NEO-IP" link takes you to this repo: [github.com/kholia/IPIP-NEO-PI](https://github.com/kholia/IPIP-NEO-PI)
-    - This site contains instructions to install the code on Windows and run with python2(!)
-    - Files and directories are all dated 5-7 years ago(!)
 
 # The Real NEO PI-R
 
