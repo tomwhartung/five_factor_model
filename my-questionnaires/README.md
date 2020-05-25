@@ -25,14 +25,19 @@ High-level thoughts about having three phases:
 
 - Phase 1: Use the 50-item sample questionnaire from ipip.ori.org
   - This is free to use any way I want
-- Phase 2: Update the 50-item sample questionnaire with questions from the `TedoneItemAssignmentTable` spreadsheet
-- Phase 3: Use the 300 items from the spreadsheet downloaded from ipip.ori.org
+- Phase 2: Use the 100 "NEO5-20" items from the `TedoneItemAssignmentTable` spreadsheet downloaded from ipip.ori.org
+  - The ipip items are also free to use any way I want!
   - The spreadsheet is in this repo, in `downloaded/ipip/TedoneItemAssignmentTable.ods`
-- Phase 4: Somehow modify or add questions to the 300 item questionnaire so it can also yield Jungian Archetype results
+- Phase 3: Use the 300 "NEO" items from the `TedoneItemAssignmentTable` spreadsheet downloaded from ipip.ori.org
+  - I can't believe the ipip items are also free to use any way I want!
+  - The spreadsheet is in this repo, in `downloaded/ipip/TedoneItemAssignmentTable.ods`
+- Phase 4: Optionally combine questions from the 50, 100, and 300 item questionnaires to make it my own
+  - Not sure about doing this, we will see...
+- Phase 5: Somehow modify or add questions to the 300 item questionnaire so it can also yield Jungian Archetype results
   - Intuitively this seems possible, in reality it might not be
   - It will absolutely be rather fun to try!
-- Phase 5: ??????????
-- Phase 6: PROFIT!!!!
+- Phase 6: ??????????
+- Phase 7: PROFIT!!!!
 
 ## Phase 1
 
@@ -69,7 +74,34 @@ From the "Scoring Instructions" page (https://ipip.ori.org/newScoringInstruction
 >
 > Once numbers are assigned for all of the items in the scale, just sum all the values to obtain a total scale score.
 
-## Phase 2
+## Phase 2: 100 Items
+
+Work area is in directory `2-ipip-100_item-NEO5-20` .
+
+Use the 100 "NEO5-20" items from the `TedoneItemAssignmentTable` spreadsheet downloaded from ipip.ori.org .
+
+- Use `0-open_source_items/TedoneItemAssignmentTable-NEO5-20_items.csv` as the starting point
+
+Having already done Phase 1 and gotten a functional spreadsheet, I now feel more comfortable with this step
+and am not sure I need a big plan or anything.
+
+## Phase 3: 300 Items
+
+Work area is in directory `3-ipip-300_item-NEO` .
+
+Use the 300 "NEO" items from the `TedoneItemAssignmentTable` spreadsheet downloaded from ipip.ori.org .
+
+- Use `0-open_source_items/TedoneItemAssignmentTable-NEO_items.csv` as the starting point
+
+Having already done Phases 1 and 2 and gotten functional spreadsheets, I now feel more comfortable with this step
+and am not sure I need a big plan or anything.
+
+## Phase 4 - Optional
+
+Work area is in directory `4-...` .
+
+The steps for this Phase are very fuzzy at this time.
+Not 100% sure what I want for this.
 
 1. Review the 50 sample questions.
 2. Review the 100 additional sample questions from the spreadsheet.
@@ -83,27 +115,23 @@ Concerns:
 - Definitely want between 60-120 questions
 - Around 100 would be good!
 
-## Phase 3
-
-Work area is in directory `2-...` .
-
-See how Phase 1 goes, then try this.
-
-## Phase 4
-
-Work area is in directory `3-...` .
-
 Possibly try this later.
 
 ## Phase 5
 
-Work area is in directory `4-...` .
+Work area is in directory `5-...` .
 
-?????????????????????
+Possibly try this later.
 
 ## Phase 6
 
-Work area is in directory `5-...` .
+Work area is in directory `6-...` .
+
+?????????????????????
+
+## Phase 7
+
+Work area is in directory `7-...` .
 
 PROFIT!!!!!!!
 
