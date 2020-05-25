@@ -1,0 +1,301 @@
+instrument,alpha,key,text,label
+NEO,0.78,1,Go straight for the goal.,Achievement-Striving
+NEO,0.78,1,Plunge into tasks with all my heart.,Achievement-Striving
+NEO,0.78,1,Demand quality.,Achievement-Striving
+NEO,0.78,1,Set high standards for myself and others.,Achievement-Striving
+NEO,0.78,1,Turn plans into actions.,Achievement-Striving
+NEO,0.78,1,Do more than what's expected of me.,Achievement-Striving
+NEO,0.78,1,Work hard.,Achievement-Striving
+NEO,0.78,-1,Do just enough work to get by.,Achievement-Striving
+NEO,0.78,-1,Am not highly motivated to succeed.,Achievement-Striving
+NEO,0.78,-1,Put little time and effort into my work.,Achievement-Striving
+NEO,0.71,1,Am always on the go.,Activity-Level
+NEO,0.71,1,Am always busy.,Activity-Level
+NEO,0.71,1,React quickly.,Activity-Level
+NEO,0.71,1,Can manage many things at the same time.,Activity-Level
+NEO,0.71,1,Do a lot in my spare time.,Activity-Level
+NEO,0.71,-1,React slowly.,Activity-Level
+NEO,0.71,-1,Like to take my time.,Activity-Level
+NEO,0.71,-1,Like a leisurely lifestyle.,Activity-Level
+NEO,0.71,-1,Like to take it easy.,Activity-Level
+NEO,0.71,-1,Let things proceed at their own pace.,Activity-Level
+NEO,0.77,1,Like to visit new places.,Adventurousness
+NEO,0.77,1,Interested in many things.,Adventurousness
+NEO,0.77,1,Prefer variety to routine.,Adventurousness
+NEO,0.77,1,Like to begin new things.,Adventurousness
+NEO,0.77,-1,Don't like the idea of change.,Adventurousness
+NEO,0.77,-1,Prefer to stick with things that I know.,Adventurousness
+NEO,0.77,-1,Dislike changes.,Adventurousness
+NEO,0.77,-1,Am a creature of habit.,Adventurousness
+NEO,0.77,-1,Am attached to conventional ways.,Adventurousness
+NEO,0.77,-1,Dislike new foods.,Adventurousness
+NEO,0.84,1,Love flowers.,Aesthetic Appreciation/Artistic Interests
+NEO,0.84,1,Like music.,Aesthetic Appreciation/Artistic Interests
+NEO,0.84,1,See beauty in things that others might not notice.,Aesthetic Appreciation/Artistic Interests
+NEO,0.84,1,Believe in the importance of art.,Aesthetic Appreciation/Artistic Interests
+NEO,0.84,1,Enjoy the beauty of nature.,Aesthetic Appreciation/Artistic Interests
+NEO,0.84,-1,Do not like poetry.,Aesthetic Appreciation/Artistic Interests
+NEO,0.84,-1,Do not enjoy watching dance performances.,Aesthetic Appreciation/Artistic Interests
+NEO,0.84,-1,Do not enjoy going to art museums.,Aesthetic Appreciation/Artistic Interests
+NEO,0.84,-1,Do not like art.,Aesthetic Appreciation/Artistic Interests
+NEO,0.84,-1,Do not like concerts.,Aesthetic Appreciation/Artistic Interests
+NEO,0.77,1,Anticipate the needs of others.,Altruism
+NEO,0.77,1,Love to help others.,Altruism
+NEO,0.77,1,Have a good word for everyone.,Altruism
+NEO,0.77,1,Make people feel welcome.,Altruism
+NEO,0.77,1,Am concerned about others.,Altruism
+NEO,0.77,-1,Am indifferent to the feelings of others.,Altruism
+NEO,0.77,-1,Turn my back on others.,Altruism
+NEO,0.77,-1,Make people feel uncomfortable.,Altruism
+NEO,0.77,-1,Look down on others.,Altruism
+NEO,0.77,-1,Take no time for others.,Altruism
+NEO,0.88,1,Get irritated easily.,Anger
+NEO,0.88,1,Am often in a bad mood.,Anger
+NEO,0.88,1,Get angry easily.,Anger
+NEO,0.88,1,Lose my temper.,Anger
+NEO,0.88,1,Get upset easily.,Anger
+NEO,0.88,-1,Am not easily annoyed.,Anger
+NEO,0.88,-1,Rarely get irritated.,Anger
+NEO,0.88,-1,Seldom get mad.,Anger
+NEO,0.88,-1,Keep my cool.,Anger
+NEO,0.88,-1,Rarely complain.,Anger
+NEO,0.83,1,Am afraid of many things.,Anxiety
+NEO,0.83,1,Get stressed out easily.,Anxiety
+NEO,0.83,1,Get caught up in my problems.,Anxiety
+NEO,0.83,1,Worry about things.,Anxiety
+NEO,0.83,1,Fear for the worst.,Anxiety
+NEO,0.83,-1,Adapt easily to new situations.,Anxiety
+NEO,0.83,-1,Am relaxed most of the time.,Anxiety
+NEO,0.83,-1,Am not easily disturbed by events.,Anxiety
+NEO,0.83,-1,Am not easily bothered by things.,Anxiety
+NEO,0.83,-1,Don't worry about things that have already happened.,Anxiety
+NEO,0.84,1,Take charge.,Assertiveness
+NEO,0.84,1,Can talk others into doing things.,Assertiveness
+NEO,0.84,1,Try to lead others.,Assertiveness
+NEO,0.84,1,Take control of things.,Assertiveness
+NEO,0.84,1,Seek to influence others.,Assertiveness
+NEO,0.84,-1,Hold back my opinions.,Assertiveness
+NEO,0.84,-1,Keep in the background.,Assertiveness
+NEO,0.84,-1,Have little to say.,Assertiveness
+NEO,0.84,-1,Don't like to draw attention to myself.,Assertiveness
+NEO,0.84,-1,Wait for others to lead the way.,Assertiveness
+NEO,0.76,1,Stick to my chosen path.,Cautiousness
+NEO,0.76,1,Avoid mistakes.,Cautiousness
+NEO,0.76,1,Choose my words with care.,Cautiousness
+NEO,0.76,-1,Make rash decisions.,Cautiousness
+NEO,0.76,-1,Act without thinking.,Cautiousness
+NEO,0.76,-1,Jump into things without thinking.,Cautiousness
+NEO,0.76,-1,Rush into things.,Cautiousness
+NEO,0.76,-1,Like to act on a whim.,Cautiousness
+NEO,0.76,-1,Often make last-minute plans.,Cautiousness
+NEO,0.76,-1,Do crazy things.,Cautiousness
+NEO,0.81,1,Amuse my friends.,Cheerfulness
+NEO,0.81,1,Look at the bright side of life.,Cheerfulness
+NEO,0.81,1,Love life.,Cheerfulness
+NEO,0.81,1,Laugh aloud.,Cheerfulness
+NEO,0.81,1,Express childlike joy.,Cheerfulness
+NEO,0.81,1,Radiate joy.,Cheerfulness
+NEO,0.81,1,Laugh my way through life.,Cheerfulness
+NEO,0.81,1,Have a lot of fun.,Cheerfulness
+NEO,0.81,-1,Seldom joke around.,Cheerfulness
+NEO,0.81,-1,Am not easily amused.,Cheerfulness
+NEO,0.73,1,Am easy to satisfy.,Cooperation
+NEO,0.73,1,Can't stand confrontations.,Cooperation
+NEO,0.73,1,Hate to seem pushy.,Cooperation
+NEO,0.73,-1,Insult people.,Cooperation
+NEO,0.73,-1,Yell at people.,Cooperation
+NEO,0.73,-1,Hold a grudge.,Cooperation
+NEO,0.73,-1,Love a good fight.,Cooperation
+NEO,0.73,-1,Contradict others.,Cooperation
+NEO,0.73,-1,Have a sharp tongue.,Cooperation
+NEO,0.73,-1,Get back at others.,Cooperation
+NEO,0.88,1,Feel that my life lacks direction.,Depression
+NEO,0.88,1,Am often down in the dumps.,Depression
+NEO,0.88,1,Have frequent mood swings.,Depression
+NEO,0.88,1,Dislike myself.,Depression
+NEO,0.88,1,Often feel blue.,Depression
+NEO,0.88,1,Have a low opinion of myself.,Depression
+NEO,0.88,1,Feel desperate.,Depression
+NEO,0.88,-1,Seldom feel blue.,Depression
+NEO,0.88,-1,Feel comfortable with myself.,Depression
+NEO,0.88,-1,Am very pleased with myself.,Depression
+NEO,0.71,1,Keep my promises.,Dutifulness
+NEO,0.71,1,Tell the truth.,Dutifulness
+NEO,0.71,1,Pay my bills on time.,Dutifulness
+NEO,0.71,1,Listen to my conscience.,Dutifulness
+NEO,0.71,1,Try to follow the rules.,Dutifulness
+NEO,0.71,-1,Break rules.,Dutifulness
+NEO,0.71,-1,Misrepresent the facts.,Dutifulness
+NEO,0.71,-1,Break my promises.,Dutifulness
+NEO,0.71,-1,Do the opposite of what is asked.,Dutifulness
+NEO,0.71,-1,Get others to do my duties.,Dutifulness
+NEO,0.81,1,Experience my emotions intensely.,Emotionality
+NEO,0.81,1,Feel others' emotions.,Emotionality
+NEO,0.81,1,Try to understand myself.,Emotionality
+NEO,0.81,1,Am passionate about causes.,Emotionality
+NEO,0.81,1,Enjoy examining myself and my life.,Emotionality
+NEO,0.81,-1,Seldom get emotional.,Emotionality
+NEO,0.81,-1,Experience very few emotional highs and lows.,Emotionality
+NEO,0.81,-1,Am not easily affected by my emotions.,Emotionality
+NEO,0.81,-1,Don't understand people who get emotional.,Emotionality
+NEO,0.81,-1,Rarely notice my emotional reactions.,Emotionality
+NEO,0.78,1,Love excitement.,Excitement-Seeking
+NEO,0.78,1,Enjoy being part of a loud crowd.,Excitement-Seeking
+NEO,0.78,1,Seek danger.,Excitement-Seeking
+NEO,0.78,1,Act wild and crazy.,Excitement-Seeking
+NEO,0.78,1,Willing to try anything once.,Excitement-Seeking
+NEO,0.78,1,Seek adventure.,Excitement-Seeking
+NEO,0.78,1,Love action.,Excitement-Seeking
+NEO,0.78,1,Enjoy being reckless.,Excitement-Seeking
+NEO,0.78,-1,Dislike loud music.,Excitement-Seeking
+NEO,0.78,-1,Would never go hang gliding or bungee jumping.,Excitement-Seeking
+NEO,0.87,1,Make friends easily.,Friendliness
+NEO,0.87,1,Act comfortably with others.,Friendliness
+NEO,0.87,1,Feel comfortable around people.,Friendliness
+NEO,0.87,1,Cheer people up.,Friendliness
+NEO,0.87,1,Warm up quickly to others.,Friendliness
+NEO,0.87,-1,Keep others at a distance.,Friendliness
+NEO,0.87,-1,Often feel uncomfortable around others.,Friendliness
+NEO,0.87,-1,Avoid contacts with others.,Friendliness
+NEO,0.87,-1,Am not really interested in others.,Friendliness
+NEO,0.87,-1,Am hard to get to know.,Friendliness
+NEO,0.79,1,Enjoy being part of a group.,Gregariousness
+NEO,0.79,1,Involve others in what I am doing.,Gregariousness
+NEO,0.79,1,Love surprise parties.,Gregariousness
+NEO,0.79,1,Talk to a lot of different people at parties.,Gregariousness
+NEO,0.79,1,Love large parties.,Gregariousness
+NEO,0.79,-1,Prefer to be alone.,Gregariousness
+NEO,0.79,-1,Seek quiet.,Gregariousness
+NEO,0.79,-1,Don't like crowded events.,Gregariousness
+NEO,0.79,-1,Avoid crowds.,Gregariousness
+NEO,0.79,-1,Want to be left alone.,Gregariousness
+NEO,0.83,1,Like to get lost in thought.,Imagination
+NEO,0.83,1,Enjoy wild flights of fantasy.,Imagination
+NEO,0.83,1,Love to daydream.,Imagination
+NEO,0.83,1,Indulge in my fantasies.,Imagination
+NEO,0.83,1,Have a vivid imagination.,Imagination
+NEO,0.83,1,Spend time reflecting on things.,Imagination
+NEO,0.83,-1,Seldom daydream.,Imagination
+NEO,0.83,-1,Have difficulty imagining things.,Imagination
+NEO,0.83,-1,Seldom get lost in thought.,Imagination
+NEO,0.83,-1,Do not have a good imagination.,Imagination
+NEO,0.77,1,Love to eat.,Immoderation
+NEO,0.77,1,Often eat too much.,Immoderation
+NEO,0.77,1,Don't know why I do some of the things I do.,Immoderation
+NEO,0.77,1,Do things I later regret.,Immoderation
+NEO,0.77,1,Go on binges.,Immoderation
+NEO,0.77,-1,Rarely overindulge.,Immoderation
+NEO,0.77,-1,Am able to control my cravings.,Immoderation
+NEO,0.77,-1,Never splurge.,Immoderation
+NEO,0.77,-1,Never spend more than I can afford.,Immoderation
+NEO,0.77,-1,Easily resist temptations.,Immoderation
+NEO,0.86,1,Can handle a lot of information.,Intellect
+NEO,0.86,1,Enjoy thinking about things.,Intellect
+NEO,0.86,1,Have a rich vocabulary.,Intellect
+NEO,0.86,1,Like to solve complex problems.,Intellect
+NEO,0.86,1,Love to read challenging material.,Intellect
+NEO,0.86,-1,Am not interested in theoretical discussions.,Intellect
+NEO,0.86,-1,Have difficulty understanding abstract ideas.,Intellect
+NEO,0.86,-1,Avoid difficult reading material.,Intellect
+NEO,0.86,-1,Am not interested in abstract ideas.,Intellect
+NEO,0.86,-1,Avoid philosophical discussions.,Intellect
+NEO,0.86,1,Believe that there is no absolute right or wrong.,Liberalism
+NEO,0.86,1,Tend to vote for liberal political candidates.,Liberalism
+NEO,0.86,1,Believe that criminals should receive help rather than punishment.,Liberalism
+NEO,0.86,-1,Believe laws should be strictly enforced.,Liberalism
+NEO,0.86,-1,Believe that we coddle criminals too much.,Liberalism
+NEO,0.86,-1,Tend to vote for conservative political candidates.,Liberalism
+NEO,0.86,-1,Believe that too much tax money goes to support artists.,Liberalism
+NEO,0.86,-1,Believe that we should be tough on crime.,Liberalism
+NEO,0.86,-1,Like to stand during the national anthem.,Liberalism
+NEO,0.86,-1,Believe in one true religion.,Liberalism
+NEO,0.77,1,Dislike being the center of attention.,Modesty/Humility
+NEO,0.77,1,Dislike talking about myself.,Modesty/Humility
+NEO,0.77,1,Seldom toot my own horn.,Modesty/Humility
+NEO,0.77,1,Consider myself an average person.,Modesty/Humility
+NEO,0.77,-1,Believe that I am better than others.,Modesty/Humility
+NEO,0.77,-1,Think highly of myself.,Modesty/Humility
+NEO,0.77,-1,Boast about my virtues.,Modesty/Humility
+NEO,0.77,-1,Have a high opinion of myself.,Modesty/Humility
+NEO,0.77,-1,Know the answers to many questions.,Modesty/Humility
+NEO,0.77,-1,Make myself the center of attention.,Modesty/Humility
+NEO,0.75,1,Would never cheat on my taxes.,Morality
+NEO,0.75,1,Stick to the rules.,Morality
+NEO,0.75,-1,Take advantage of others.,Morality
+NEO,0.75,-1,Use flattery to get ahead.,Morality
+NEO,0.75,-1,Know how to get around the rules.,Morality
+NEO,0.75,-1,Put people under pressure.,Morality
+NEO,0.75,-1,Obstruct others' plans.,Morality
+NEO,0.75,-1,Use others for my own ends.,Morality
+NEO,0.75,-1,Cheat to get ahead.,Morality
+NEO,0.75,-1,Pretend to be concerned for others.,Morality
+NEO,0.82,1,Like order.,Orderliness
+NEO,0.82,1,Do things according to a plan.,Orderliness
+NEO,0.82,1,Want everything to be just right.,Orderliness
+NEO,0.82,1,Love order and regularity.,Orderliness
+NEO,0.82,1,Like to tidy up.,Orderliness
+NEO,0.82,-1,Often forget to put things back in their proper place.,Orderliness
+NEO,0.82,-1,Leave a mess in my room.,Orderliness
+NEO,0.82,-1,Am not bothered by messy people.,Orderliness
+NEO,0.82,-1,Am not bothered by disorder.,Orderliness
+NEO,0.82,-1,Leave my belongings around.,Orderliness
+NEO,0.80,1,Find it difficult to approach others.,Self-consciousness
+NEO,0.80,1,Am easily intimidated.,Self-consciousness
+NEO,0.80,1,Only feel comfortable with friends.,Self-consciousness
+NEO,0.80,1,Stumble over my words.,Self-consciousness
+NEO,0.80,1,Am afraid to draw attention to myself.,Self-consciousness
+NEO,0.80,1,Am afraid that I will do the wrong thing.,Self-consciousness
+NEO,0.80,-1,Am not embarrassed easily.,Self-consciousness
+NEO,0.80,-1,Am able to stand up for myself.,Self-consciousness
+NEO,0.80,-1,Am comfortable in unfamiliar situations.,Self-consciousness
+NEO,0.80,-1,Am not bothered by difficult social situations.,Self-consciousness
+NEO,0.85,1,Get chores done right away.,Self-Discipline
+NEO,0.85,1,Am always prepared.,Self-Discipline
+NEO,0.85,1,Get to work at once.,Self-Discipline
+NEO,0.85,1,Carry out my plans.,Self-Discipline
+NEO,0.85,1,Start tasks right away.,Self-Discipline
+NEO,0.85,-1,Find it difficult to get down to work.,Self-Discipline
+NEO,0.85,-1,Need a push to get started.,Self-Discipline
+NEO,0.85,-1,Have difficulty starting tasks.,Self-Discipline
+NEO,0.85,-1,Postpone decisions.,Self-Discipline
+NEO,0.85,-1,Waste my time.,Self-Discipline
+NEO,0.78,1,Excel in what I do.,Self-Efficacy
+NEO,0.78,1,Come up with good solutions.,Self-Efficacy
+NEO,0.78,1,Know how to get things done.,Self-Efficacy
+NEO,0.78,1,Complete tasks successfully.,Self-Efficacy
+NEO,0.78,1,Handle tasks smoothly.,Self-Efficacy
+NEO,0.78,1,Am sure of my ground.,Self-Efficacy
+NEO,0.78,-1,Misjudge situations.,Self-Efficacy
+NEO,0.78,-1,Don't understand things.,Self-Efficacy
+NEO,0.78,-1,Don't see the consequences of things.,Self-Efficacy
+NEO,0.78,-1,Have little to contribute.,Self-Efficacy
+NEO,0.75,1,Feel sympathy for those who are worse off than myself.,Sympathy
+NEO,0.75,1,Value cooperation over competition.,Sympathy
+NEO,0.75,1,Sympathize with the homeless.,Sympathy
+NEO,0.75,1,Suffer from others' sorrows.,Sympathy
+NEO,0.75,-1,Believe people should fend for themselves.,Sympathy
+NEO,0.75,-1,Try not to think about the needy.,Sympathy
+NEO,0.75,-1,Tend to dislike soft-hearted people.,Sympathy
+NEO,0.75,-1,Believe in an eye for an eye.,Sympathy
+NEO,0.75,-1,Can't stand weak people.,Sympathy
+NEO,0.75,-1,Am not interested in other people's problems.,Sympathy
+NEO,0.82,1,Believe that people are basically moral.,Trust
+NEO,0.82,1,Believe that others have good intentions.,Trust
+NEO,0.82,1,Trust others.,Trust
+NEO,0.82,1,Believe in human goodness.,Trust
+NEO,0.82,1,Think that all will be well.,Trust
+NEO,0.82,1,Trust what people say.,Trust
+NEO,0.82,-1,Believe that people are essentially evil.,Trust
+NEO,0.82,-1,Distrust people.,Trust
+NEO,0.82,-1,Suspect hidden motives in others.,Trust
+NEO,0.82,-1,Am wary of others.,Trust
+NEO,0.82,1,Panic easily.,Vulnerability
+NEO,0.82,1,Get overwhelmed by emotions.,Vulnerability
+NEO,0.82,1,Feel that I'm unable to deal with things.,Vulnerability
+NEO,0.82,1,Can't make up my mind.,Vulnerability
+NEO,0.82,1,Become overwhelmed by events.,Vulnerability
+NEO,0.82,-1,Remain calm under pressure.,Vulnerability
+NEO,0.82,-1,Am calm even in tense situations.,Vulnerability
+NEO,0.82,-1,Can handle complex problems.,Vulnerability
+NEO,0.82,-1,Readily overcome setbacks.,Vulnerability
+NEO,0.82,-1,Know how to cope.,Vulnerability
