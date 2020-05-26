@@ -1,0 +1,35 @@
+Neuroticism
+   Anger
+   Anxiety
+   Depression
+   Immoderation
+   Self-consciousness
+   Vulnerability
+Extraversion
+   Activity-Level
+   Assertiveness
+   Cheerfulness
+   Excitement-Seeking
+   Friendliness
+   Gregariousness
+Openness
+   Adventurousness
+   Aesthetic Appreciation/Artistic Interests
+   Emotionality
+   Imagination
+   Intellect
+   Liberalism
+Agreeableness
+   Altruism
+   Cooperation
+   Modesty/Humility
+   Morality
+   Sympathy
+   Trust
+Conscientiousness
+   Achievement-Striving
+   Cautiousness
+   Dutifulness
+   Orderliness
+   Self-Discipline
+   Self-Efficacy
