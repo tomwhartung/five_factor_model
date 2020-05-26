@@ -80,7 +80,15 @@ Work area is in directory `2-ipip-100_item-NEO5-20` .
 
 Use the 100 "NEO5-20" items from the `TedoneItemAssignmentTable` spreadsheet downloaded from ipip.ori.org .
 
-- Use `0-open_source_items/TedoneItemAssignmentTable-NEO5-20_items.csv` as the starting point
+- Start with `0-open_source_items/TedoneItemAssignmentTable-NEO5-20_items.csv` as the starting point
+- Run the awk command below to:
+  - Extract just the fields we need
+  - Sorting is a quick way to randomize the questions
+    - Questions appear in sequence by Factor then Key -- Yikes!
+
+```
+awk -F',' '{ printf "%s,%s,%s,%s\n", $4, $3, $5, $2; }' ipip-100_items_NEO5-20.csv | sort -R > ipip-100_items_NEO5-20-fields_4_3_5_2-random.csv
+```
 
 Having already done Phase 1 and gotten a functional spreadsheet, I now feel more comfortable with this step
 and am not sure I need a big plan or anything.
@@ -91,7 +99,15 @@ Work area is in directory `3-ipip-300_item-NEO` .
 
 Use the 300 "NEO" items from the `TedoneItemAssignmentTable` spreadsheet downloaded from ipip.ori.org .
 
-- Use `0-open_source_items/TedoneItemAssignmentTable-NEO_items.csv` as the starting point
+- Start with `0-open_source_items/TedoneItemAssignmentTable-NEO_items.csv` as the starting point
+- Run the awk command below to:
+  - Extract just the fields we need
+  - Sorting is a quick way to randomize the questions
+    - Questions appear in sequence by Factor then Key -- Yikes!
+
+```
+awk -F',' '{ printf "%s,%s,%s,%s\n", $4, $3, $5, $2; }' ipip-300_items-NEO.csv | sort -R > ipip-300_items-NEO-fields_4_3_5_2-random.csv
+```
 
 Having already done Phases 1 and 2 and gotten functional spreadsheets, I now feel more comfortable with this step
 and am not sure I need a big plan or anything.
