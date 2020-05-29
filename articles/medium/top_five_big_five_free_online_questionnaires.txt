@@ -6,7 +6,29 @@ list_of_questionnaires.md https://github.com/tomwhartung/five_factor_model/blob/
 on github.
 In this list they appear in the sequence in which I took them.
 
+The Real, Non-Free Deal
+
+Anyone willing to pay for an official Big Five Questionnaire should head to
+parinc.com https://www.parinc.com
+and take the
+NEO PI-R https://www.parinc.com/Products/Pkey/276
+
+Written by Paul T. Costa and Robert R. McCrae, the NEO PI-R is the gold standard -- the MBTI (r), if you will -- of
+Big Five Personality Questionnaires.
+
+It costs just $92 and if you're going to spend it, I recommend going in with as little information as possible,
+to help minimize any possible bias.
+
+The wikipedia page for
+the NEO PI-R https://en.wikipedia.org/wiki/Revised_NEO_Personality_Inventory
+is an excellent source of background information on the questionnaire, but beware, it is rife with spoilers!
+
 Runners Up
+
+The questionnaires on these are all excellent and well worth your time.
+But if you are just starting out or your time is limited, you may want to skip them for now.
+
+
 
 Honorable Mention
 
@@ -17,16 +39,35 @@ The Top Five
 #5: 
 #4: 
 #3: 
-#2: 
+
+#2: Personal.PSU.edu - 300-Item IPIP-NEO
+
+For me, the more items a questionnaire has, the better the results.
+Of course, your mileage may vary!
+
+http://www.personal.psu.edu/%7Ej5j/IPIP/ipipneo300.htm
+
+What the 300-Item IPIP-NEO questionnaire lacks in spit-and-polish it more than makes up for in substance.
+And for me, substance beats superficial appearances every time!
+
+Instead of hosting questionnaires you can take, 
+The International Personality Item Pool (IPIP) site
+links to
+a
+page that links to 
+
+For more about the IPIP see the section "Move Along, No Questionnaires Here" below.
 
 #1: BigFive-Test.com
 
 My favorite Big Five "OCEAN" questionnaire is at
 bigfive-test.com. https://bigfive-test.com/
-It is very responsive and contains a nice, Goldilocks-y 120 questions -- not too many, not too few -- along with other nicities.
+The site has a very responsive, modern feel and contains a nice, Goldilocks-y 120 questions -- not too many, not too few -- along
+with other nicities.
 A big reason I like it the best because it gives results for the six facets of each of the Big Five.
-Another reason is the graphs are quite pretty.
-In additon to the summary graph of the Big Five, it gives you a graph of the six facets comprising each of these scores.
+Another reason is the graphs are frankly beautiful.  I just love bright shiny colors!
+In additon to the summary graph of the Big Five, it gives you a bright shiny graph of your score on the six facets
+that comprise each of the summary Big Five scores.
 Also, it allows you to post your results to Facebook and Twitter.
 Who knows, maybe if you post your results, one of your friends will take the test,
 and you will finally understand each other and become friends for life!?!
