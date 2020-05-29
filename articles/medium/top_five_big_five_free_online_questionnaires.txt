@@ -1,0 +1,45 @@
+
+Top Five Big Five "OCEAN" Free Online Questionnaires
+
+The list of the ten or so questionnaires I took is in a file named
+list_of_questionnaires.md https://github.com/tomwhartung/five_factor_model/blob/master/online-questionnaires/list_of_questionnaires.md
+on github.
+In this list they appear in the sequence in which I took them.
+
+Runners Up
+
+Honorable Mention
+
+HEXACO
+
+The Top Five
+
+#5: 
+#4: 
+#3: 
+#2: 
+
+#1: BigFive-Test.com
+
+My favorite Big Five "OCEAN" questionnaire is at
+bigfive-test.com. https://bigfive-test.com/
+It is very responsive and contains a nice, Goldilocks-y 120 questions -- not too many, not too few -- along with other nicities.
+A big reason I like it the best because it gives results for the six facets of each of the Big Five.
+Another reason is the graphs are quite pretty.
+In additon to the summary graph of the Big Five, it gives you a graph of the six facets comprising each of these scores.
+Also, it allows you to post your results to Facebook and Twitter.
+Who knows, maybe if you post your results, one of your friends will take the test,
+and you will finally understand each other and become friends for life!?!
+Hey, it's worth a try!  In my mind you have nothing to lose and everything to gain.
+
+Move Along, No Questionnaires Here
+
+To complete this list I must add
+
+ipip
+
+This site does not contain a questionnaire you can answer, but it does contain an open source list or "pool" of
+items that appear in all manner of questionnaires.
+
+For someone like me, this site is a gold mine!
+
