@@ -6,37 +6,71 @@ list_of_questionnaires.md https://github.com/tomwhartung/five_factor_model/blob/
 on github.
 In this list they appear in the sequence in which I took them.
 
-The Real, Non-Free Deal
+The Real, but Non-Free, Deal
 
-Anyone willing to pay for an official Big Five Questionnaire should head to
+Anyone willing to pay $92 for an official Big Five Questionnaire should head to
 parinc.com https://www.parinc.com
 and take the
 NEO PI-R https://www.parinc.com/Products/Pkey/276
+as soon as possible.
 
 Written by Paul T. Costa and Robert R. McCrae, the NEO PI-R is the gold standard -- the MBTI (r), if you will -- of
 Big Five Personality Questionnaires.
+These guys have been working with the Five Factor Model for decades and everything I've read about the Big Five refers to their work.
 
-It costs just $92 and if you're going to spend it, I recommend going in with as little information as possible,
-to help minimize any possible bias.
+If you're going to spend the $92, I recommend going in with as little information as possible, to help minimize any possible bias.
 
 The wikipedia page for
 the NEO PI-R https://en.wikipedia.org/wiki/Revised_NEO_Personality_Inventory
 is an excellent source of background information on the questionnaire, but beware, it is rife with spoilers!
+
+For cheapskates who want something close to the NEO PI-R, I am sure that questionnaire #2 on the list below is very close to this one.
 
 Runners Up
 
 The questionnaires on these are all excellent and well worth your time.
 But if you are just starting out or your time is limited, you may want to skip them for now.
 
+- https://psychcentral.com/personality-test/start.php
+  - Only 50 questions.
+  - Site has additonal questionnaires at https://psychcentral.com/quizzes/
+- https://www.truity.com/test/big-five-personality-test
+  - They really want to sell you a "Full Report"
+- https://www.scienceofpeople.com/personality/#personality-test
+  - Only 44 questions.
+  - She really wants to sell her book
+- https://www.outofservice.com/starwars/
+  - Disappointed that it gives one match per trait
+  - I would expect it to match a single character with all five traits
+  - However, anything related to Star Wars is fun!
 
 
 Honorable Mention
 
-HEXACO
+#6: HEXACO
+
+The sixth site in this list of the Top Five Big Five "OCEAN" is not really a Big Five Online Questionnaire.
+
+The
+HEXACO questionnaire http://hexaco.org/hexaco-online
+adds Honesty/Humility to the list.
+Most of the items are similar to the items in the other questionnaires, but it contains some additional items
+
+It's great because it shows you how you score relative to everyone else who has completed the questionnaire.
+
+[screenshot]
+
+Answering this questionnaire helps the primary researchers with their work.
+
+If you are interested in learning more about the HEXACO questionnaire, they have a
+page in the wikipedia https://en.wikipedia.org/wiki/HEXACO_model_of_personality_structure
+and a couple of books for sale on their site.
 
 The Top Five
 
 #5: 
+- https://www.outofservice.com/bigfive/
+  - Site has additonal questionnaires on the home page at https://www.outofservice.com/
 #4: 
 #3: 
 
