@@ -44,7 +44,6 @@ But if you are just starting out or your time is limited, you may want to skip t
   - I would expect it to match a single character with all five traits
   - However, anything related to Star Wars is fun!
 
-
 Honorable Mention
 
 #6: HEXACO
@@ -68,11 +67,37 @@ and a couple of books for sale on their site.
 
 The Top Five
 
-#5: 
-- https://www.outofservice.com/bigfive/
-  - Site has additonal questionnaires on the home page at https://www.outofservice.com/
-#4: 
-#3: 
+#5: OutOfService.com
+https://www.outofservice.com/bigfive/
+
+Only 50 questions.
+
+Nice graphical results.
+
+[screenshot]
+
+Site has additonal questionnaires on the home page at https://www.outofservice.com/
+
+#4: OpenPsychometrics.org
+https://openpsychometrics.org/tests/IPIP-BFFM/
+
+Only 50 questions.
+
+Site has additonal questionnaires on the home page at https://openpsychometrics.org/
+
+This site seems a bit more serious than than OutOfService.com.
+
+#3: Personal.PSU.edu - 120-Item Short Version of the IPIP-NEO
+
+http://www.personal.psu.edu/%7Ej5j/IPIP/ipipneo120.htm
+
+What this questionnaire lacks in style and flash, it more than makes up for in content.
+I found the link to this site on the International Personality Item Pool (IPIP) site.
+Instead of hosting questionnaires you can take, the IPIP site links to
+a page http://www.personal.psu.edu/%7Ej5j/IPIP/
+that, in turn, links to this questionnaire and the next one.
+
+For more about the IPIP site, see the section "Move Along, No Questionnaires Here" below.
 
 #2: Personal.PSU.edu - 300-Item IPIP-NEO
 
@@ -81,14 +106,15 @@ Of course, your mileage may vary!
 
 http://www.personal.psu.edu/%7Ej5j/IPIP/ipipneo300.htm
 
-What the 300-Item IPIP-NEO questionnaire lacks in spit-and-polish it more than makes up for in substance.
+Like the site in the #3 slot above, the 300-Item IPIP-NEO questionnaire may lack spit-and-polish, but it compensates for this in its substance.
 And for me, substance beats superficial appearances every time!
 
-Instead of hosting questionnaires you can take, 
-The International Personality Item Pool (IPIP) site
-links to
-a
-page that links to 
+A major reason I like this questionnaire is because, in addition to giving results for each of the Big Five Factors it also includes scores
+for the six facets of each of the Big Five.
+Containing 300 items, that makes 10 items per facet.  Nice!
+
+I have never taken Costa and McCrae's NEO PI-R -- which I mentioned at the beginning of this article -- but I am confident
+this questionnaire is as close as you can get for it
 
 For more about the IPIP see the section "Move Along, No Questionnaires Here" below.
 
@@ -98,10 +124,15 @@ My favorite Big Five "OCEAN" questionnaire is at
 bigfive-test.com. https://bigfive-test.com/
 The site has a very responsive, modern feel and contains a nice, Goldilocks-y 120 questions -- not too many, not too few -- along
 with other nicities.
+
 A big reason I like it the best because it gives results for the six facets of each of the Big Five.
+
+[screenshot]
+
 Another reason is the graphs are frankly beautiful.  I just love bright shiny colors!
 In additon to the summary graph of the Big Five, it gives you a bright shiny graph of your score on the six facets
 that comprise each of the summary Big Five scores.
+
 Also, it allows you to post your results to Facebook and Twitter.
 Who knows, maybe if you post your results, one of your friends will take the test,
 and you will finally understand each other and become friends for life!?!
@@ -109,11 +140,10 @@ Hey, it's worth a try!  In my mind you have nothing to lose and everything to ga
 
 Move Along, No Questionnaires Here
 
-To complete this list I must add
+To complete this list I must add The International Personality Item Pool (IPIP)
 
-ipip
-
-This site does not contain a questionnaire you can answer, but it does contain an open source list or "pool" of
+This site http://www.personal.psu.edu/%7Ej5j/IPIP/
+does not contain a questionnaire you can answer, but it does contain an open source list or "pool" of
 items that appear in all manner of questionnaires.
 
 For someone like me, this site is a gold mine!
