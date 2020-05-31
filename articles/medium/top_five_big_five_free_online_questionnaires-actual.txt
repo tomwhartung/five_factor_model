@@ -1,0 +1,57 @@
+
+The Top Five Big Five "OCEAN" Free Online Questionnaires
+Recently I completed about ten online questionnaires that test for the Big Five set of personality traits. The acronym "OCEAN" provides an easy way to remember these traits, which are Openness, Conscientiousness, Extraversion, Agreeableness, and Neuroticism. 
+For anyone familiar with the Jungian Archetype traits popularized by the Myers-Briggs Type Indicator or MBTI (r), these questionnaires are similar. Indeed, four of the Big Five traits - all but Neuroticism -  do in fact correlate with Jungian Archetypes to a certain degree.
+The NEO PI-R Is the Real, but Non-Free, Deal
+Anyone willing to pay $92 for an official Big Five Questionnaire should head to parinc.com and take the NEO PI-R as soon as possible. I say "as soon as possible" because if you're going to spend $92, I recommend going in with as little information as possible, to help minimize possible bias.
+Written by Paul T. Costa and Robert R. McCrae, the NEO PI-R is the gold standard for Big Five questionnaires. Intended for use in clinical environments, you will need to find a psychiatrist to administer it.
+Costa and McCrae have been working with the Five Factor Model of Personality for decades and everything I've read about the Big Five refers to them and their work at some point.
+The wikipedia page for the NEO PI-R is an excellent source of background information on the questionnaire but beware, it is rife with spoilers!
+For cheapskates like me who want something as close as possible to the NEO PI-R without the expense, I suggest checking out #2 in my list below.
+Runners Up
+Before getting to the Top Five, I will list the questionnaires that were fun, but didn't make it to the list. As a Big Fan of these sorts of questionnaires I believe it's important to take as many as possible and see where the results agree, rather than take the word of just one set of results.
+If you're in a rush, feel free to skip this section.
+The Psych Central Personality Test at psychcentral.com contains just 50 questions and is friendly enough. The results include a nice graph and the site has other questionnaires at https://psychcentral.com/quizzes/.
+The Big Five Personality Test at truity.com presents its 60 questions on three pages, each containing 20 items. The site is styled nicely, and it's home page includes links to other quizzes, but they are constantly bugging you to buy their Full Report.
+The Free Personality Quiz at scienceofpeople.com contains just 44 questions, making it the shortest one of all those I tried. The site is more personal than the others, and it's clear the goal of it is to sell Vanessa Van Edwards' book Captivate, The Science of Succeeding with People. This is the first Big Five site I've seen to discuss Facial Mapping, which is something I personally am not interested in right now, but may want to come back to.
+The last but not least runner up site is the Find Your Star Wars Twin quiz at outofservice.com. It contains just 45 questions making it the second-shortest quiz in this list. I was a little disappointed that it matched me up with not just one but five characters - one for each of the Big Five Traits. However, as far as I'm concerned, anything related to Star Wars is fun!
+Before getting to the Top Five List properly, there is one site that deserves Honorable Mention.
+Honorable Mention
+#6 HEXACO
+I'm putting the Hexaco Personality Inventory - Revised at Hexaco.org in the #6 slot of my Top Five list because it is not really a Big Five Questionnaire.
+The researchers behind this site are interested in a sixth factor in addition to the Big Five: Honesty/Humility. HEXACO is their acronym for Honesty, Emotional Stability - the opposite of the Big Five's Neuroticism, eXtraversion, Agreeableness, Conscientiousness, and Openness. The questionnaire includes very Goldilocksy - not too many, not too few - 100 items, and the addition of the Honesty and Humility trait makes it a little different from the others.
+In addition to scoring you on their Big Five Plus One Traits, this questionnaire also scores you on some of the facets of these traits. This allows you to drill down into more detail about why your score is what it is.
+However the nicest thing about the Hexaco Questionnaire is the graph of the results. Where the graphs on the other sites show your score in absolute terms, the researchers provide your results as measures relative to the other people who have answered the questionnaire. This is easiest to understand by looking at a screenshot of the results.
+The red lines shows the median results of others who have answered the questionnaire, and the gray band shows you the median 80% of scores, which range from the bottom 10% to the upper 90%.
+As the screenshot shows, I am not just "high" in Honesty-Humility, Sincerity, Greed-Avoidance, and Fearfulness, I am what you could call "off the charts high!"
+In the interest of full disclosure, at this time, in late May of 2020, I am experiencing a high level of fearfulness because I am 65 and have high blood pressure, making me more at risk of developing complications from the coronavirus than most other people. It is very interesting that I am "off the charts low" on Anxiety. This makes perfect sense because, although I am at risk of complications, I also am Introverted and so happy to be alone, have enough savings to get by, and have a great project (visualizing personalities)to take my mind off things.
+Having results for the facets is a very nice feature, indeed.
+Answering this questionnaire adds your results - anonymously, of course - to the database of respondents, thus helping the researchers, so I encourage everyone to give it a try.
+If you are interested in learning more about the Hexaco questionnaire, there is a page in the wikipedia about it, and the researchers' books on the subject are for sale on their site.
+The Top Five
+Finally, here is the promised list of the Top Five Big Five "OCEAN" Free Online Questionnaires!
+#5 OutOfService.com
+The Big Five Project Personality Test at outofservice.com is a quick-and-easy single page test containing only 61 items. As is frequently the case, there are a few additional questions they like to ask, but it's the second-shortest one in this list.
+The screenshot shows a graph of my results, and they're consistent with how I did on the others.
+The site's home page links to other Personality Tests, including the Find Your Star Wars Twin test mentioned as a runner up. That's the only other one of these I did. They appear to mostly be more fun than serious.
+#4 OpenPsychometrics.org
+The Big Five Personality Test at openpsychometrics.org is a bit shorter and more serious. Its 50 questions come from the International Personality Item Pool (IPIP), meaning they are open source - like Linux, LibreOffice, and the Gimp - and free for others to use.
+The OpenPsychometrics.org home page lists other open source questionnaires, including a Self-esteem scale, the business-oriented DISC assessment, an IQ Test, and a Short Dark Triad Test. I took a few of these and thoroughly enjoyed each and every one!
+This site has more quizzes than #5 OutOfService.com, and is a bit more serious about all this as well.
+#3 Personal.PSU.edu - 120-Item Short Version of the IPIP-NEO
+The International Personality Item Pool or IPIP does not contain any questionnaires you can answer. Rather, it serves as a sort of online warehouse for the open-source items that appear in these personality tests. For more about the IPIP, see the section entitled "Move Along, No Questionnaires Here" that follows this Top Five List.
+For people wanting to answer a questionnaire, the IPIP site refers them to a page giving visitors the option to take The IPIP-NEO. The short, 120-item version of this test comes in at #3 on my Top Five List.
+These two IPIP-NEO tests lack the style and flash of the other sites, but more than make up for that lack in their content.
+In fact, it looks like these tests are pretty "old school." The introductory pages include warnings that the test might not work, but it appears that these are out-dated caveats. I did not experience any issues, and got the impression the warnings are due to people trying with slow computers, slow connections, or both.
+If you want to try one of these, and are easily frustrated, you might want to try them on your computer at home with the high-speed connection, rather than on your phone out somewhere with spotty service. Just a hunch.
+#2 Personal.PSU.edu - 300-Item Original IPIP-NEO
+The Original IPIP-NEO is longer, 300-item of the two questionnaires referred to by the IPIP site, and it  comes in at #2 on my Top Five List.
+Again, what this questionnaire might lack in spit-and-polish is more than made up for by it's genuine content.
+Although I have never taken Costa and McCrae's NEO PI-R - discussed briefly at the start of this article - I feel confident that this questionnaire is about as close as you can get to it without shelling out the $92.
+The 300 questions allow the test to assess not just the five factors but also six facets of each factor, for a total of 30 traits - and  actually 35 total if you include each of the Big Five.
+These facets are similar to those used in the Hexaco test, honorably mentioned as #6 in this Top Five list, but differ slightly. As interesting as all this is, I leave comparing and contrasting these facets as an exercise for the reader!
+#1 BigFive-Test.com
+And the #1 best Big Five "OCEAN" Free Online Questionnaire I found is the Big Five Personality Test at bigfive-test.com!
+I like this one best because it is very nicely styled and has a very responsive, modern feel. I did all of these on my computer, but am sure you would be fine doing this one on your phone. That is definitely not true of some of these others!
+It has a nice, Goldilocks-y 120 questions - not too many, not too few - and gives the results in the most beautiful graphs. Yes that is "graphs" with an "s," because like the best of the other top sites it includes a graph of the facets for each of the Big Five Factors.
+
