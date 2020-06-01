@@ -1,6 +1,5 @@
 
-The Top Five Big Five "OCEAN" Free Online Questionnaires
-Recently I completed about ten online questionnaires that test for the Big Five set of personality traits. The acronym "OCEAN" provides an easy way to remember these traits, which are Openness, Conscientiousness, Extraversion, Agreeableness, and Neuroticism. 
+Spoiler Alert: This is a screen shot of #1, which you can find at https://bigfive-test.com/Recently I completed about ten online questionnaires that test for the Big Five set of personality traits. The acronym "OCEAN" provides an easy way to remember these traits, which are Openness, Conscientiousness, Extraversion, Agreeableness, and Neuroticism. 
 For anyone familiar with the Jungian Archetype traits popularized by the Myers-Briggs Type Indicator or MBTI (r), these questionnaires are similar. Indeed, four of the Big Five traits - all but Neuroticism -  do in fact correlate with Jungian Archetypes to a certain degree.
 The NEO PI-R Is the Real, but Non-Free, Deal
 Anyone willing to pay $92 for an official Big Five Questionnaire should head to parinc.com and take the NEO PI-R as soon as possible. I say "as soon as possible" because if you're going to spend $92, I recommend going in with as little information as possible, to help minimize possible bias.
@@ -35,9 +34,9 @@ The Big Five Project Personality Test at outofservice.com is a quick-and-easy si
 The screenshot shows a graph of my results, and they're consistent with how I did on the others.
 The site's home page links to other Personality Tests, including the Find Your Star Wars Twin test mentioned as a runner up. That's the only other one of these I did. They appear to mostly be more fun than serious.
 #4 OpenPsychometrics.org
-The Big Five Personality Test at openpsychometrics.org is a bit shorter and more serious. Its 50 questions come from the International Personality Item Pool (IPIP), meaning they are open source - like Linux, LibreOffice, and the Gimp - and free for others to use.
+The Big Five Personality Test at openpsychometrics.org is a bit shorter and more serious. Its 50 questions come from the International Personality Item Pool or IPIP, meaning they are open source - like Linux, LibreOffice, and the Gimp - and free for others to use.
 The OpenPsychometrics.org home page lists other open source questionnaires, including a Self-esteem scale, the business-oriented DISC assessment, an IQ Test, and a Short Dark Triad Test. I took a few of these and thoroughly enjoyed each and every one!
-This site has more quizzes than #5 OutOfService.com, and is a bit more serious about all this as well.
+This site contains more quizzes than the #5 ranked OutOfService.com, and is a bit more serious about all this as well. Interestingly, it recommends the Big Five Test for people more interested in "scientific validity," and a Jungian Type Scales test - which is similar to the MBTI (r) - for people more interested in "personal enjoyment."
 #3 Personal.PSU.edu - 120-Item Short Version of the IPIP-NEO
 The International Personality Item Pool or IPIP does not contain any questionnaires you can answer. Rather, it serves as a sort of online warehouse for the open-source items that appear in these personality tests. For more about the IPIP, see the section entitled "Move Along, No Questionnaires Here" that follows this Top Five List.
 For people wanting to answer a questionnaire, the IPIP site refers them to a page giving visitors the option to take The IPIP-NEO. The short, 120-item version of this test comes in at #3 on my Top Five List.
@@ -54,4 +53,10 @@ These facets are similar to those used in the Hexaco test, honorably mentioned a
 And the #1 best Big Five "OCEAN" Free Online Questionnaire I found is the Big Five Personality Test at bigfive-test.com!
 I like this one best because it is very nicely styled and has a very responsive, modern feel. I did all of these on my computer, but am sure you would be fine doing this one on your phone. That is definitely not true of some of these others!
 It has a nice, Goldilocks-y 120 questions - not too many, not too few - and gives the results in the most beautiful graphs. Yes that is "graphs" with an "s," because like the best of the other top sites it includes a graph of the facets for each of the Big Five Factors.
-
+Finally, it allows you to post your results to Facebook and Twitter. Who knows, maybe if you post your results, one of your friends will take the test, and you will finally and completely understand each other and become best friends for life!?! Hey, it's worth a try. Seems to me you have nothing to lose and everything to gain.
+Move Along, No Questionnaires Here
+To complete this list I need to mention the International Personality Item Pool or IPIP one last time. Rather than containing tests, it has a spreadsheet containing the items used on a wide variety of tests.
+It's very scientific and its home page contains the following caveat:
+For persons wandering into this site who have not completed a university course or two in psychological assessment, BEWARE: This site includes highly technical scientific information, and NO PERSONALITY TESTS ARE ADMINISTERED HERE.
+The site may not be very friendly, but for someone like me, it is a gold mine.
+If you are really interested in personality questionnaires, and maybe considering hosting your own site with one or more of them, this is the site for you!
