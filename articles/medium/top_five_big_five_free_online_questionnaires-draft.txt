@@ -70,7 +70,7 @@ The Top Five
 #5: OutOfService.com
 https://www.outofservice.com/bigfive/
 
-Only 50 questions.
+Only 61 questions.
 
 Nice graphical results.
 
@@ -142,8 +142,8 @@ Move Along, No Questionnaires Here
 
 To complete this list I must add The International Personality Item Pool (IPIP)
 
-This site http://www.personal.psu.edu/%7Ej5j/IPIP/
-does not contain a questionnaire you can answer, but it does contain an open source list or "pool" of
+The site, at https://ipip.ori.org/index.htm , does not contain any questionnaires
+you can answer, but it does contain an open source list or "pool" of
 items that appear in all manner of questionnaires.
 
 For someone like me, this site is a gold mine!
