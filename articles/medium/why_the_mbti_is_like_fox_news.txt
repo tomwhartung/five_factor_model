@@ -23,13 +23,16 @@ I see no reason to describe them here.
 Sanity Check
 
 Of course there are many ways in which the MBTI is obviously different from Fox!
+
 And I have no wish to denigrate Jung's insights or the work of the Myers-Briggs family.
 
 I only want to point out that, when it comes to personality assessments, there is now a better alternative.
 
 Why the MBTI (r) Is Like Fox News
 
-The MBTI and Fox News are similar in that they divide people, and I want to examine this a bit.
+The MBTI and Fox News are similar in that they divide people.
+
+This article examines this similarity, and suggests an alternative personality assessment: the Big Five "OCEAN" traits.
 
 The similarity hit me when I was reading Melinda Potter's enlightening response to the question
 "If you believe Fox news is "fake news", did you form your opinion by actually watching different Fox programs or by what you are told by other people and what you have read?"
@@ -41,19 +44,22 @@ It’s an alternate universe on Fox. A happier, simpler, more black or white uni
 [end quote]
 
 Now, despite what we see in movies and on TV, people in real life are rarely totally good or evil, but are rather somewhere in between.
-The undeniable reality of ambiguous morality makes the idea of good guys versus bad guys in movies and TV obsolete.
+The undeniable reality of this **ambiguous morality** makes the idea of good guys versus bad guys in movies and TV obsolete.
 
 This applies to politics as well.
-As an unaffiliated voter, I dare not say anything positive about a conservative when commenting on a liberal's post.
-The same is true about posting something positive about a Democrat when commenting on a Republican's post.
+As an unaffiliated voter, I dare not say anything positive about a conservative when commenting on a liberal's post,
+for fear of being taken for a conservative.
+The same is true about posting something positive about a Democrat when commenting on a Republican's post, for fear of being taken for a Democrat.
 
 [Key point]
 Political neutrality is difficult for partisan types to accept, because their partisanship distorts their perceptions.
 [End key point]
 
+Neither side is absolutely right or absolutely wrong, but our country requires both sides for balance.
+
 Freeing Oneself From Plato's Cave
 
-To drive home the point let's look inside
+To drive the point home, let's look inside
 Plato's Cave. https://en.wikipedia.org/wiki/Allegory_of_the_cave
 
 [start quote]
@@ -62,43 +68,58 @@ From "13. Sun, Line and Cave" in
 "Plato’s Middle Period Metaphysics and Epistemology" https://plato.stanford.edu/entries/plato-metaphysics/#13
 [end quote]
 
-No one should want to be imprisoned in Plato's Cave, yet plenty of people prefer embracing a partisan view to a more realistic, non-partisan view.
+Clearly no one wants to be imprisoned in Plato's Cave, yet plenty of people prefer embracing a partisan view to a more realistic, non-partisan view.
 
 Similarly, many people prefer the black-and-white, two dimensional either-or divisiveness of the MBTI (r), when there is a better alternative.
 
-Hello, My Name Is Tom Hartung
+Here in 2020, I am beyond frustrated with the current political situation, so you're on your own there.
+I could recommend you search out differing points of view, but I doubt anyone would take my advice.
 
-Hello, my name is Tom Hartung, and I want to help others see past the surface.
+However, I do have an alternative to the MBTI that I would like to share.
 
-Since the late 1980s I have been using the results of a questionnaire similar to the MBTI (r) to draw images of personalities.
+Freeing Yourself From the MBTI (r)
+
+Since the late 1980s I have been using the results of a questionnaire called the
+Keirsey Temperament Sorter, https://keirsey.com/temperament-overview/
+which is similar to the MBTI, to draw images of personalities.
 I have a program that uses the results of any questionnaire based on the Jungian Archetypes to produce an image.
 
-My favorite questionnaire is the
-Keirsey Temperament Sorter, https://keirsey.com/temperament-overview/
-but there are online versions, such as the one at
-humanmetrics.com, http://www.humanmetrics.com/cgi-win/jtypes2.asp
-that are arguably just as good.
-
-As you can see from my sites,
+You can see these colorful yet crude images on my sites,
 artsyvisions.com https://www.artsyvisions.com/
 seeourminds.com https://www.seeourminds.com/
 and
-groja.com https://www.groja.com/
-these images are crude.
+groja.com https://www.groja.com/ .
 
-Now that I am retired from corporate work and can spend all my energy on this project,
-this year I decided to step my game up and learn about the Big Five "OCEAN" personality types.
+This year I decided to step my game up and learn about the Big Five personality factors.
+The acronym "OCEAN" makes it easy to remember these key factors: Openness, Conscientiousness, Extraversion, Agreeableness, and Neuroticism.
 
-Compared to the MBTI (r), the Five Factor Model is a real eye-opener!
-So far I have read three books about it, and it has changed my outlook on life big time!
+Compared to the MBTI (r), the Five Factor Model is a real eye-opener.
+It's just like getting out of Plato's Cave, switching from old school cops-and-robbers movies to Film Noir, and
+realizing both Republicans and Democrats are full of it!
 
-Goodreads Review of Personality: What Makes You the Way You Are by Daniel Nettle https://bit.ly/gr-nettle
-Goodreads Review of Jesus Personality Theory: Exploring the Five-Factor Model https://bit.ly/gr-jesus
-Goodreads Review in progress of Personality in Adulthood: A Five-Factor Theory Perspective https://bit.ly/gr-adulthood
+Technological advances since the 1920s have led researchers to identify five factors - words, really - that identify
+most of what constitutes a person's personality.
 
-This is no easy task, and I assume it will take me years to figure out how to represent these Big Five "OCEAN" traits visually.
-Because our world looks to be totally falling apart here in late May, 2020, and I still have plenty of life left in me,
-it's nice to have a difficult problem to solve and take my mind off things.
+The idea behind these Big Five factors is similar to that behind the MBTI (r).
+However, the biggest difference between them is the researchers acknowledge these tendencies constitute a continuum.
+Most people lie someplace in the middle - are Ambiverts, for example, rather than always or even mostly Extraverted or Introverted.
+
+I don't want to dive into these Five Factors here.
+The goal of this article is to simply draw these
+
+I score very high on Openness, and this is what Open people do: find parallels between things that other, more Closed people tend to miss.
+
+My Mission
+
+Thus, I have a new progect: to convert my personality-visualizing program from using Jungian Archetypes to using the Five Factor Model.
+
+This will not be an easy task, and I am sure it will take me years to figure out how to do this.
+
+[Bold]
+Face it: helping others see past the surface is something we could all use in this day and age!
+[Unbold]
+
+It's nice to have a difficult problem to solve and take my mind off the world, which here in the late spring of 2020, seems to be falling apart.
 
 And as any MBTI (r) aficionado knows, there's nothing an INFP loves more than a mission!
 
