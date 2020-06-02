@@ -30,5 +30,15 @@ Writing this in Denver, Colorado  in the Spring of 2020, I am beyond frustrated 
 However, I do have an alternative to the MBTI that I would like to share.
 Freeing Yourself From the MBTI
 Since the late 1980s I have been using the results of a questionnaire called the
-Keirsey Temperament Sorter, which gives results similar to the MBTI, to draw images of personalities. I have a program that uses the results of any questionnaire based on the Jungian Archetypes to produce an image.
+Keirsey Temperament Sorter, which gives results similar to the MBTI (r), to draw images of personalities. I have a program that uses the results of any questionnaire based on the Jungian Archetypes to produce an image.
+You can see these colorful yet crude images on my web sites, artsyvisions.com, seeourminds.com, and groja.com.
+This year I decided to step my game up and learn about the Big Five personality factors. The acronym "OCEAN" makes it easy to remember these key factors: Openness, Conscientiousness, Extraversion, Agreeableness, and Neuroticism.
+Compared to Jungian Archetypes and the MBTI, the Five Factor Model is a real eye-opener. Technological advances since the 1920s have led researchers to identify five factors - words, really - that identify most of what constitutes a person's personality.
+The idea behind these Big Five factors is similar to that behind the MBTI, and there is some correlation between the two. One of the biggest differences between them is the researchers behind the Big Five acknowledge these tendencies constitute not a dichotomy but a continuum. For example, rather than being always or even mostly Extraverted or Introverted, most people lie someplace in the middle and are Ambiverts.
+I don't want to dive into these Five Factors here, but if you would like to learn more, a great place to start is by taking a questionnaire. If you would like a guided tour of several sites that offer free versions of the Big Five Personality Test, check out my latest listicle, The Top Five Big Five Free Online Questionnaires.
+My New Mission
+Thus, I've decided to take on a new project: to convert my program that draws personalities using Jungian Archetypes to one that  uses the Five Factor Model. This will not be an easy task, and I am sure it will take me years to figure out how to do this, but I'm very excited about it.
+Face it: helping others see past the surface is something we could all use in this day and age!
+It's nice to have a difficult problem to solve and take my mind off the world, which here in the late Spring of 2020, seems to be kind of falling apart.
+And as any MBTI aficionado knows, there's nothing an INFP loves more than a mission!
 
