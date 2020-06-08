@@ -1,0 +1,126 @@
+IPIP 100 Item Big Five Open Source Questionnaire,,,,,,,,,,,,,,,
+,Enter an “x” in Precisely One Column for Each Item,,,,,,,,,,,,,,
+"With Respect to the Person Being Analyzed,",Very,,,,Very,|,,,,,,,,,
+How Accurate Is Each Item?,Inaccurate,Inaccurate,Neutral,Accurate,Accurate,|,Factor,α,Key,Val,Val,Val,Val,Val,Score For This Item
+Trust what people say.,,,,x,,|,Agreeableness,0.85,1,1,2,3,4,5,4
+Pay attention to details.,,,,,x,|,Conscientiousness,0.90,1,1,2,3,4,5,5
+Have difficulty understanding abstract ideas.,x,,,,,|,Openness,0.89,-1,5,4,3,2,1,5
+Rarely lose my composure.,,,,x,,|,Neuroticism,0.91,-1,5,4,3,2,1,2
+Don't talk a lot.,,,,x,,|,Extraversion,0.91,-1,5,4,3,2,1,2
+Don't see things through.,,x,,,,|,Conscientiousness,0.90,-1,5,4,3,2,1,4
+Am often down in the dumps.,x,,,,,|,Neuroticism,0.91,1,1,2,3,4,5,1
+Find it difficult to approach others.,,,,x,,|,Extraversion,0.91,-1,5,4,3,2,1,2
+Believe in the importance of art.,,,,x,,|,Openness,0.89,1,1,2,3,4,5,4
+Have a sharp tongue.,,x,,,,|,Agreeableness,0.85,-1,5,4,3,2,1,4
+Keep others at a distance.,,,,x,,|,Extraversion,0.91,-1,5,4,3,2,1,2
+Remain calm under pressure.,,,,x,,|,Neuroticism,0.91,-1,5,4,3,2,1,2
+Hold a grudge.,,,,x,,|,Agreeableness,0.85,-1,5,4,3,2,1,2
+Do not enjoy going to art museums.,,x,,,,|,Openness,0.89,-1,5,4,3,2,1,4
+Am not easily bothered by things.,,,,x,,|,Neuroticism,0.91,-1,5,4,3,2,1,2
+Make plans and stick to them.,,,,x,,|,Conscientiousness,0.90,1,1,2,3,4,5,4
+Sympathize with others' feelings.,,,,x,,|,Agreeableness,0.85,1,1,2,3,4,5,4
+Have frequent mood swings.,,x,,,,|,Neuroticism,0.91,1,1,2,3,4,5,2
+Avoid contacts with others.,,,,x,,|,Extraversion,0.91,-1,5,4,3,2,1,2
+Am not easily frustrated.,,,,x,,|,Neuroticism,0.91,-1,5,4,3,2,1,2
+Need a push to get started.,,x,,,,|,Conscientiousness,0.90,-1,5,4,3,2,1,4
+Make demands on others.,,x,,,,|,Agreeableness,0.85,-1,5,4,3,2,1,4
+Seldom get mad.,,,,x,,|,Neuroticism,0.91,-1,5,4,3,2,1,2
+Am exacting in my work.,,,,,x,|,Conscientiousness,0.90,1,1,2,3,4,5,5
+Am out for my own personal gain.,x,,,,,|,Agreeableness,0.85,-1,5,4,3,2,1,5
+Enjoy hearing new ideas.,,,,,x,|,Openness,0.89,1,1,2,3,4,5,5
+Don't put my mind on the task at hand.,,x,,,,|,Conscientiousness,0.90,-1,5,4,3,2,1,4
+Panic easily.,x,,,,,|,Neuroticism,0.91,1,1,2,3,4,5,1
+Believe that others have good intentions.,,,,x,,|,Agreeableness,0.85,1,1,2,3,4,5,4
+Enjoy thinking about things.,,,,,x,|,Openness,0.89,1,1,2,3,4,5,5
+Carry out my plans.,,,,x,,|,Conscientiousness,0.90,1,1,2,3,4,5,4
+Have little to say.,,,,x,,|,Extraversion,0.91,-1,5,4,3,2,1,2
+Fear for the worst.,,x,,,,|,Neuroticism,0.91,1,1,2,3,4,5,2
+Make people feel at ease.,,,,x,,|,Agreeableness,0.85,1,1,2,3,4,5,4
+Do not like poetry.,,,,x,,|,Openness,0.89,-1,5,4,3,2,1,2
+Get stressed out easily.,,x,,,,|,Neuroticism,0.91,1,1,2,3,4,5,2
+Warm up quickly to others.,,,,x,,|,Extraversion,0.91,1,1,2,3,4,5,4
+Follow through with my plans.,,,,x,,|,Conscientiousness,0.90,1,1,2,3,4,5,4
+Enjoy wild flights of fantasy.,,,,x,,|,Openness,0.89,1,1,2,3,4,5,4
+Am concerned about others.,,,,x,,|,Agreeableness,0.85,1,1,2,3,4,5,4
+Know how to captivate people.,,x,,,,|,Extraversion,0.91,1,1,2,3,4,5,2
+Mess things up.,,x,,,,|,Conscientiousness,0.90,-1,5,4,3,2,1,4
+Am relaxed most of the time.,,,,x,,|,Neuroticism,0.91,-1,5,4,3,2,1,2
+Have a rich vocabulary.,,,,x,,|,Openness,0.89,1,1,2,3,4,5,4
+Accept people as they are.,,,,,x,|,Agreeableness,0.85,1,1,2,3,4,5,5
+Feel threatened easily.,,x,,,,|,Neuroticism,0.91,1,1,2,3,4,5,2
+Get excited by new ideas.,,,,,x,|,Openness,0.89,1,1,2,3,4,5,5
+Start conversations.,,x,,,,|,Extraversion,0.91,1,1,2,3,4,5,2
+Cut others to pieces.,x,,,,,|,Agreeableness,0.85,-1,5,4,3,2,1,5
+Have a vivid imagination.,,,,,x,|,Openness,0.89,1,1,2,3,4,5,5
+Would describe my experiences as somewhat dull.,,x,,,,|,Extraversion,0.91,-1,5,4,3,2,1,4
+Suspect hidden motives in others.,,x,,,,|,Agreeableness,0.85,-1,5,4,3,2,1,4
+Leave things unfinished.,,x,,,,|,Conscientiousness,0.90,-1,5,4,3,2,1,4
+Don't like to draw attention to myself.,,,,x,,|,Extraversion,0.91,-1,5,4,3,2,1,2
+Get chores done right away.,,,,x,,|,Conscientiousness,0.90,1,1,2,3,4,5,4
+Seldom feel blue.,,,,x,,|,Neuroticism,0.91,-1,5,4,3,2,1,2
+Complete tasks successfully.,,,,x,,|,Conscientiousness,0.90,1,1,2,3,4,5,4
+Respect others.,,,,x,,|,Agreeableness,0.85,1,1,2,3,4,5,4
+Retreat from others.,,,,x,,|,Extraversion,0.91,-1,5,4,3,2,1,2
+Dislike myself.,,x,,,,|,Neuroticism,0.91,1,1,2,3,4,5,2
+Believe that too much tax money goes to support artists.,,x,,,,|,Openness,0.89,-1,5,4,3,2,1,4
+Talk to a lot of different people at parties.,,x,,,,|,Extraversion,0.91,1,1,2,3,4,5,2
+Often feel blue.,,x,,,,|,Neuroticism,0.91,1,1,2,3,4,5,2
+Tend to vote for liberal political candidates.,,,,x,,|,Openness,0.89,1,1,2,3,4,5,4
+Finish what I start.,,,,x,,|,Conscientiousness,0.90,1,1,2,3,4,5,4
+Cheer people up.,,,,x,,|,Extraversion,0.91,1,1,2,3,4,5,4
+Believe that I am better than others.,,,,x,,|,Agreeableness,0.85,-1,5,4,3,2,1,2
+Can say things beautifully.,,,,x,,|,Openness,0.89,1,1,2,3,4,5,4
+Don't mind being the center of attention.,,x,,,,|,Extraversion,0.91,1,1,2,3,4,5,2
+Shirk my duties.,,x,,,,|,Conscientiousness,0.90,-1,5,4,3,2,1,4
+Am very pleased with myself.,,,,x,,|,Neuroticism,0.91,-1,5,4,3,2,1,2
+Rarely look for a deeper meaning in things.,,x,,,,|,Openness,0.89,-1,5,4,3,2,1,4
+Insult people.,,x,,,,|,Agreeableness,0.85,-1,5,4,3,2,1,4
+Am always prepared.,,,,x,,|,Conscientiousness,0.90,1,1,2,3,4,5,4
+Am hard to get to know.,,,,x,,|,Extraversion,0.91,-1,5,4,3,2,1,2
+Waste my time.,,x,,,,|,Conscientiousness,0.90,-1,5,4,3,2,1,4
+Tend to vote for conservative political candidates.,,x,,,,|,Openness,0.89,-1,5,4,3,2,1,4
+Feel comfortable around people.,,,,x,,|,Extraversion,0.91,1,1,2,3,4,5,4
+Get back at others.,,x,,,,|,Agreeableness,0.85,-1,5,4,3,2,1,4
+Do things according to a plan.,,,,x,,|,Conscientiousness,0.90,1,1,2,3,4,5,4
+Make friends easily.,,,,x,,|,Extraversion,0.91,1,1,2,3,4,5,4
+Do just enough work to get by.,,x,,,,|,Conscientiousness,0.90,-1,5,4,3,2,1,4
+Am filled with doubts about things.,,x,,,,|,Neuroticism,0.91,1,1,2,3,4,5,2
+Avoid philosophical discussions.,,x,,,,|,Openness,0.89,-1,5,4,3,2,1,4
+Have a good word for everyone.,,,,x,,|,Agreeableness,0.85,1,1,2,3,4,5,4
+Am skilled in handling social situations.,,x,,,,|,Extraversion,0.91,1,1,2,3,4,5,2
+Carry the conversation to a higher level.,,,,x,,|,Openness,0.89,1,1,2,3,4,5,4
+Am easy to satisfy.,,,,x,,|,Agreeableness,0.85,1,1,2,3,4,5,4
+Rarely get irritated.,,,,x,,|,Neuroticism,0.91,-1,5,4,3,2,1,2
+Am not interested in abstract ideas.,x,,,,,|,Openness,0.89,-1,5,4,3,2,1,5
+Make a mess of things.,,x,,,,|,Conscientiousness,0.90,-1,5,4,3,2,1,4
+Keep in the background.,,,,x,,|,Extraversion,0.91,-1,5,4,3,2,1,2
+Treat all people equally.,,,,x,,|,Agreeableness,0.85,1,1,2,3,4,5,4
+Worry about things.,,x,,,,|,Neuroticism,0.91,1,1,2,3,4,5,2
+Find it difficult to get down to work.,,x,,,,|,Conscientiousness,0.90,-1,5,4,3,2,1,4
+Am not interested in theoretical discussions.,x,,,,,|,Openness,0.89,-1,5,4,3,2,1,5
+Am the life of the party.,x,,,,,|,Extraversion,0.91,1,1,2,3,4,5,1
+Feel comfortable with myself.,,,,x,,|,Neuroticism,0.91,-1,5,4,3,2,1,2
+Contradict others.,,x,,,,|,Agreeableness,0.85,-1,5,4,3,2,1,4
+Do not like art.,x,,,,,|,Openness,0.89,-1,5,4,3,2,1,5
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------,,,,,,|,----------------------------------------------------------------------------------------------------------------------,,,,,,,,
+,,,,,,,,,,,,,,,
+"Items are from the TedoneItemAssignmentTable spreadsheet downloaded from the page at https://ipip.ori.org/ItemAssignmentTable.htm on May 23, 2020.",,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+Score:,Raw 20-100,Percent,Meaning,,,,,,,,,,,,
+Openness,86,76,High,,,,,,,,,,,,
+Conscientiousness,82,72,High,,,,,,,,,,,,
+Extraversion,49,39,Low,,,,,,,,,,,,
+Agreeableness,79,69,High,,,,,,,,,,,,
+Neuroticism,38,28,Low,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+The sheet uses these values to validate the input:,x,X,y,Y,,,,,,,,,,,
