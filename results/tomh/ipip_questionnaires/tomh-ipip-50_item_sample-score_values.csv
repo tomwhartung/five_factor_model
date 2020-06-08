@@ -1,0 +1,75 @@
+IPIP 50 Item Big Five Sample Questionnaire,,,,,,,,,,,,,,
+,Enter an “x” in Precisely One Column for Each Item,,,,,,,,,,,,,
+"With Respect to the Person Being Analyzed,",Very,,,,Very,|,,,,,,,,
+How Accurate Is Each Item?,Inaccurate,Inaccurate,Neutral,Accurate,Accurate,|,Factor,Key,Val,Val,Val,Val,Val,Score For This Item
+They are/I am the life of the party.,,x,,,,|,Extraversion, +,1,2,3,4,5,2
+Feel little concern for others.,,x,,,,|,Agreeableness, -,5,4,3,2,1,4
+They are/I am always prepared.,,,,x,,|,Conscientiousness, +,1,2,3,4,5,4
+Get stressed out easily.,,x,,,,|,Neuroticism, +,1,2,3,4,5,2
+Have a rich vocabulary.,,,,x,,|,Openness, +,1,2,3,4,5,4
+Don't talk a lot.,,,,,x,|,Extraversion, -,5,4,3,2,1,1
+They are/I am interested in people.,,,,x,,|,Agreeableness, +,1,2,3,4,5,4
+Leave their/my belongings around.,,x,,,,|,Conscientiousness, -,5,4,3,2,1,4
+They are/I am relaxed most of the time.,,,,x,,|,Neuroticism, -,5,4,3,2,1,2
+Have difficulty understanding abstract ideas.,x,,,,,|,Openness, -,5,4,3,2,1,5
+Feel comfortable around people.,,,,x,,|,Extraversion, +,1,2,3,4,5,4
+Insult people.,x,,,,,|,Agreeableness, -,5,4,3,2,1,5
+Pay attention to details.,,,,,x,|,Conscientiousness, +,1,2,3,4,5,5
+Worry about things.,,x,,,,|,Neuroticism, +,1,2,3,4,5,2
+Have a vivid imagination.,,,,x,,|,Openness, +,1,2,3,4,5,4
+Keep in the background.,,x,,,,|,Extraversion, -,5,4,3,2,1,4
+Sympathize with others' feelings.,,,,x,,|,Agreeableness, +,1,2,3,4,5,4
+Make a mess of things.,,x,,,,|,Conscientiousness, -,5,4,3,2,1,4
+Seldom feel blue.,,,,x,,|,Neuroticism, -,5,4,3,2,1,2
+They are/I am not interested in abstract ideas.,x,,,,,|,Openness, -,5,4,3,2,1,5
+Start conversations.,,x,,,,|,Extraversion, +,1,2,3,4,5,2
+They are/I am not interested in other people's problems.,,x,,,,|,Agreeableness, -,5,4,3,2,1,4
+Get chores done right away.,,,,x,,|,Conscientiousness, +,1,2,3,4,5,4
+They are/I am easily disturbed.,,x,,,,|,Neuroticism, +,1,2,3,4,5,2
+Have excellent ideas.,,,,,x,|,Openness, +,1,2,3,4,5,5
+Have little to say.,,,,x,,|,Extraversion, -,5,4,3,2,1,2
+Have a soft heart.,,,,x,,|,Agreeableness, +,1,2,3,4,5,4
+Often forget to put things back in their proper place.,x,,,,,|,Conscientiousness, -,5,4,3,2,1,5
+Get upset easily.,,x,,,,|,Neuroticism, +,1,2,3,4,5,2
+Do not have a good imagination.,,x,,,,|,Openness, -,5,4,3,2,1,4
+Talk to a lot of different people at parties.,,x,,,,|,Extraversion, +,1,2,3,4,5,2
+They are/I am not really interested in others.,,x,,,,|,Agreeableness, -,5,4,3,2,1,4
+Like order.,,,,x,,|,Conscientiousness, +,1,2,3,4,5,4
+Change their/my mood a lot.,,x,,,,|,Neuroticism, +,1,2,3,4,5,2
+They are/I am quick to understand things.,,,,x,,|,Openness, +,1,2,3,4,5,4
+Don't like to draw attention to myself.,,,,x,,|,Extraversion, -,5,4,3,2,1,2
+Take time out for others.,,,,x,,|,Agreeableness, +,1,2,3,4,5,4
+Shirk their/my duties.,x,,,,,|,Conscientiousness, -,5,4,3,2,1,5
+Have frequent mood swings.,x,,,,,|,Neuroticism, +,1,2,3,4,5,1
+Use difficult words.,,,,x,,|,Openness, +,1,2,3,4,5,4
+Don't mind being the center of attention.,,x,,,,|,Extraversion, +,1,2,3,4,5,2
+Feel others' emotions.,,,,x,,|,Agreeableness, +,1,2,3,4,5,4
+Follow a schedule.,,,,x,,|,Conscientiousness, +,1,2,3,4,5,4
+Get irritated easily.,,x,,,,|,Neuroticism, +,1,2,3,4,5,2
+Spend time reflecting on things.,,,,,x,|,Openness, +,1,2,3,4,5,5
+They are/I am quiet around strangers.,,,,x,,|,Extraversion, -,5,4,3,2,1,2
+Make people feel at ease.,,,,x,,|,Agreeableness, +,1,2,3,4,5,4
+They are/I am exacting in my work.,,,,,x,|,Conscientiousness, +,1,2,3,4,5,5
+Often feel blue.,,x,,,,|,Neuroticism, +,1,2,3,4,5,2
+They are/I am full of ideas.,,,,x,,|,Openness, +,1,2,3,4,5,4
+,,,,,,|,,,,,,,,
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------,,,,,,|,----------------------------------------------------------------------------------------------------,,,,,,,
+,,,,,,,,,,,,,,
+"Items were copied from https://ipip.ori.org/New_IPIP-50-item-scale.htm on May 23, 2020.",,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+Score:,Raw 10-50,Percent,Meaning,,,,,,,,,,,
+Extraversion,23,36,Low,,,,,,,,,,,
+Agreeableness,41,72,High,,,,,,,,,,,
+Conscientiousness,44,78,High,,,,,,,,,,,
+Neuroticism,19,28,Low,,,,,,,,,,,
+Openness,44,78,High,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+The sheet uses these values to validate the input:,x,X,y,Y,,,,,,,,,,
