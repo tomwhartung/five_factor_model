@@ -1,360 +1,40 @@
-IPIP 300 Item NEO-PI-R Open Source Questionnaire,,,,,,,,,,,,,,,
-,Enter an “x” in Precisely One Column for Each Item,,,,,,,,,,,,,,
-"With Respect to the Person Being Analyzed,",Very,,,,Very,|,,,,,,,,,
-How Accurate Is Each Item?,Inaccurate,Inaccurate,Neutral,Accurate,Accurate,|,Facet,α,Key,Val,Val,Val,Val,Val,Score For This Item
-Look at the bright side of life.,,,,x,,|,Cheerfulness,0.81,1,1,2,3,4,5,4
-Believe that criminals should receive help rather than punishment.,,,,x,,|,Liberalism,0.86,1,1,2,3,4,5,4
-Can't make up my mind.,,x,,,,|,Vulnerability,0.82,1,1,2,3,4,5,2
-Dislike talking about myself.,,,,x,,|,Modesty/Humility,0.77,1,1,2,3,4,5,4
-Am not bothered by messy people.,,x,,,,|,Orderliness,0.82,-1,5,4,3,2,1,4
-Obstruct others' plans.,x,,,,,|,Morality,0.75,-1,5,4,3,2,1,5
-Often feel blue.,,x,,,,|,Depression,0.88,1,1,2,3,4,5,2
-Rarely overindulge.,,,,x,,|,Immoderation,0.77,-1,5,4,3,2,1,2
-Would never go hang gliding or bungee jumping.,,,,,x,|,Excitement-Seeking,0.78,-1,5,4,3,2,1,1
-Fear for the worst.,,x,,,,|,Anxiety,0.83,1,1,2,3,4,5,2
-Turn my back on others.,,,,x,,|,Altruism,0.77,-1,5,4,3,2,1,2
-Enjoy thinking about things.,,,,,x,|,Intellect,0.86,1,1,2,3,4,5,5
-Demand quality.,,,,,x,|,Achievement-Striving,0.78,1,1,2,3,4,5,5
-Like to take my time.,,,,x,,|,Activity-Level,0.71,-1,5,4,3,2,1,2
-Trust what people say.,,,,x,,|,Trust,0.82,1,1,2,3,4,5,4
-Handle tasks smoothly.,,,,x,,|,Self-Efficacy,0.78,1,1,2,3,4,5,4
-Stick to my chosen path.,,,,x,,|,Cautiousness,0.76,1,1,2,3,4,5,4
-Do not like concerts.,x,,,,,|,Aesthetic Appreciation,0.84,-1,5,4,3,2,1,5
-Need a push to get started.,,x,,,,|,Self-Discipline,0.85,-1,5,4,3,2,1,4
-Readily overcome setbacks.,,,,x,,|,Vulnerability,0.82,-1,5,4,3,2,1,2
-Love surprise parties.,,x,,,,|,Gregariousness,0.79,1,1,2,3,4,5,2
-Am hard to get to know.,,,,x,,|,Friendliness,0.87,-1,5,4,3,2,1,2
-Get angry easily.,,x,,,,|,Anger,0.88,1,1,2,3,4,5,2
-Interested in many things.,,,,,x,|,Adventurousness,0.77,1,1,2,3,4,5,5
-Rarely notice my emotional reactions.,,x,,,,|,Emotionality,0.81,-1,5,4,3,2,1,4
-Feel that my life lacks direction.,x,,,,,|,Depression,0.88,1,1,2,3,4,5,1
-Do the opposite of what is asked.,,x,,,,|,Dutifulness,0.71,-1,5,4,3,2,1,4
-Love excitement.,,x,,,,|,Excitement-Seeking,0.78,1,1,2,3,4,5,2
-Find it difficult to approach others.,,,,x,,|,Self-consciousness,0.80,1,1,2,3,4,5,4
-Anticipate the needs of others.,,x,,,,|,Altruism,0.77,1,1,2,3,4,5,2
-Leave a mess in my room.,x,,,,,|,Orderliness,0.82,-1,5,4,3,2,1,5
-Make rash decisions.,x,,,,,|,Cautiousness,0.76,-1,5,4,3,2,1,5
-Tend to vote for liberal political candidates.,,,,,x,|,Liberalism,0.86,1,1,2,3,4,5,5
-Love life.,,,,x,,|,Cheerfulness,0.81,1,1,2,3,4,5,4
-Know how to get around the rules.,,x,,,,|,Morality,0.75,-1,5,4,3,2,1,4
-Don't worry about things that have already happened.,,,,x,,|,Anxiety,0.83,-1,5,4,3,2,1,2
-Spend time reflecting on things.,,,,,x,|,Imagination,0.83,1,1,2,3,4,5,5
-Distrust people.,,x,,,,|,Trust,0.82,-1,5,4,3,2,1,4
-Don't see the consequences of things.,,x,,,,|,Self-Efficacy,0.78,-1,5,4,3,2,1,4
-Like to solve complex problems.,,,,,x,|,Intellect,0.86,1,1,2,3,4,5,5
-Like to visit new places.,,x,,,,|,Adventurousness,0.77,1,1,2,3,4,5,2
-Work hard.,,,,x,,|,Achievement-Striving,0.78,1,1,2,3,4,5,4
-Often feel uncomfortable around others.,,x,,,,|,Friendliness,0.87,-1,5,4,3,2,1,4
-Get irritated easily.,,,,x,,|,Anger,0.88,1,1,2,3,4,5,4
-Am able to control my cravings.,,,,x,,|,Immoderation,0.77,-1,5,4,3,2,1,2
-Can manage many things at the same time.,,x,,,,|,Activity-Level,0.71,1,1,2,3,4,5,2
-Hate to seem pushy.,,,,,x,|,Cooperation,0.73,1,1,2,3,4,5,5
-Enjoy the beauty of nature.,,,,x,,|,Aesthetic Appreciation,0.84,1,1,2,3,4,5,4
-Seek adventure.,,x,,,,|,Excitement-Seeking,0.78,1,1,2,3,4,5,2
-Try not to think about the needy.,,,,x,,|,Sympathy,0.75,-1,5,4,3,2,1,2
-Keep in the background.,,,,x,,|,Assertiveness,0.84,-1,5,4,3,2,1,2
-Am concerned about others.,,,,x,,|,Altruism,0.77,1,1,2,3,4,5,4
-Get overwhelmed by emotions.,,,,x,,|,Vulnerability,0.82,1,1,2,3,4,5,4
-Dislike being the center of attention.,,,,,x,|,Modesty/Humility,0.77,1,1,2,3,4,5,5
-Experience my emotions intensely.,,,,x,,|,Emotionality,0.81,1,1,2,3,4,5,4
-Like to stand during the national anthem.,,,,x,,|,Liberalism,0.86,-1,5,4,3,2,1,2
-Talk to a lot of different people at parties.,,x,,,,|,Gregariousness,0.79,1,1,2,3,4,5,2
-Am able to stand up for myself.,,,,x,,|,Self-consciousness,0.80,-1,5,4,3,2,1,2
-Leave my belongings around.,,x,,,,|,Orderliness,0.82,-1,5,4,3,2,1,4
-Act comfortably with others.,,,,x,,|,Friendliness,0.87,1,1,2,3,4,5,4
-Suspect hidden motives in others.,,x,,,,|,Trust,0.82,-1,5,4,3,2,1,4
-Avoid philosophical discussions.,,x,,,,|,Intellect,0.86,-1,5,4,3,2,1,4
-Am not easily disturbed by events.,,,,x,,|,Anxiety,0.83,-1,5,4,3,2,1,2
-Take advantage of others.,x,,,,,|,Morality,0.75,-1,5,4,3,2,1,5
-Am not easily amused.,,x,,,,|,Cheerfulness,0.81,-1,5,4,3,2,1,4
-Choose my words with care.,,,,x,,|,Cautiousness,0.76,1,1,2,3,4,5,4
-Am calm even in tense situations.,,,,x,,|,Vulnerability,0.82,-1,5,4,3,2,1,2
-Take charge.,x,,,,,|,Assertiveness,0.84,1,1,2,3,4,5,1
-Do things I later regret.,,x,,,,|,Immoderation,0.77,1,1,2,3,4,5,2
-Am indifferent to the feelings of others.,x,,,,,|,Altruism,0.77,-1,5,4,3,2,1,5
-Am not highly motivated to succeed.,x,,,,,|,Achievement-Striving,0.78,-1,5,4,3,2,1,5
-Can't stand confrontations.,,,,,x,|,Cooperation,0.73,1,1,2,3,4,5,5
-Love to daydream.,,,,x,,|,Imagination,0.83,1,1,2,3,4,5,4
-Seldom feel blue.,,,,x,,|,Depression,0.88,-1,5,4,3,2,1,2
-Know how to get things done.,,,,x,,|,Self-Efficacy,0.78,1,1,2,3,4,5,4
-Am always busy.,,,,x,,|,Activity-Level,0.71,1,1,2,3,4,5,4
-Get chores done right away.,,,,x,,|,Self-Discipline,0.85,1,1,2,3,4,5,4
-Pay my bills on time.,,,,,x,|,Dutifulness,0.71,1,1,2,3,4,5,5
-Believe in an eye for an eye.,,x,,,,|,Sympathy,0.75,-1,5,4,3,2,1,4
-Seldom joke around.,,x,,,,|,Cheerfulness,0.81,-1,5,4,3,2,1,4
-Consider myself an average person.,,,,x,,|,Modesty/Humility,0.77,1,1,2,3,4,5,4
-Try to lead others.,x,,,,,|,Assertiveness,0.84,1,1,2,3,4,5,1
-Feel comfortable around people.,,,,x,,|,Friendliness,0.87,1,1,2,3,4,5,4
-Love to eat.,,x,,,,|,Immoderation,0.77,1,1,2,3,4,5,2
-Trust others.,,,,x,,|,Trust,0.82,1,1,2,3,4,5,4
-Look down on others.,,x,,,,|,Altruism,0.77,-1,5,4,3,2,1,4
-Cheat to get ahead.,x,,,,,|,Morality,0.75,-1,5,4,3,2,1,5
-Am not bothered by disorder.,,,,x,,|,Orderliness,0.82,-1,5,4,3,2,1,2
-Set high standards for myself and others.,,,,,x,|,Achievement-Striving,0.78,1,1,2,3,4,5,5
-Willing to try anything once.,,x,,,,|,Excitement-Seeking,0.78,1,1,2,3,4,5,2
-Stumble over my words.,,x,,,,|,Self-consciousness,0.80,1,1,2,3,4,5,2
-Am always on the go.,,x,,,,|,Activity-Level,0.71,1,1,2,3,4,5,2
-Seldom get mad.,,,,x,,|,Anger,0.88,-1,5,4,3,2,1,2
-Like music.,,,,,x,|,Aesthetic Appreciation,0.84,1,1,2,3,4,5,5
-Believe in one true religion.,x,,,,,|,Liberalism,0.86,-1,5,4,3,2,1,5
-Get others to do my duties.,x,,,,,|,Dutifulness,0.71,-1,5,4,3,2,1,5
-Get back at others.,,x,,,,|,Cooperation,0.73,-1,5,4,3,2,1,4
-Adapt easily to new situations.,,,,x,,|,Anxiety,0.83,-1,5,4,3,2,1,2
-Like to begin new things.,,,,x,,|,Adventurousness,0.77,1,1,2,3,4,5,4
-Amuse my friends.,,x,,,,|,Cheerfulness,0.81,1,1,2,3,4,5,2
-Enjoy examining myself and my life.,,,,x,,|,Emotionality,0.81,1,1,2,3,4,5,4
-Wait for others to lead the way.,,,,x,,|,Assertiveness,0.84,-1,5,4,3,2,1,2
-Complete tasks successfully.,,,,,x,|,Self-Efficacy,0.78,1,1,2,3,4,5,5
-Am always prepared.,,,,x,,|,Self-Discipline,0.85,1,1,2,3,4,5,4
-Rush into things.,,x,,,,|,Cautiousness,0.76,-1,5,4,3,2,1,4
-Avoid difficult reading material.,x,,,,,|,Intellect,0.86,-1,5,4,3,2,1,5
-Don't know why I do some of the things I do.,,x,,,,|,Immoderation,0.77,1,1,2,3,4,5,2
-React slowly.,,,,x,,|,Activity-Level,0.71,-1,5,4,3,2,1,2
-Love large parties.,,x,,,,|,Gregariousness,0.79,1,1,2,3,4,5,2
-Have difficulty imagining things.,,x,,,,|,Imagination,0.83,-1,5,4,3,2,1,4
-Am not embarrassed easily.,,,,x,,|,Self-consciousness,0.80,-1,5,4,3,2,1,2
-Believe that we should be tough on crime.,,,,x,,|,Liberalism,0.86,-1,5,4,3,2,1,2
-Am sure of my ground.,,,,x,,|,Self-Efficacy,0.78,1,1,2,3,4,5,4
-Often forget to put things back in their proper place.,,x,,,,|,Orderliness,0.82,-1,5,4,3,2,1,4
-Break rules.,,x,,,,|,Dutifulness,0.71,-1,5,4,3,2,1,4
-Dislike new foods.,,,,,x,|,Adventurousness,0.77,-1,5,4,3,2,1,1
-Suffer from others' sorrows.,,,,x,,|,Sympathy,0.75,1,1,2,3,4,5,4
-Don't like to draw attention to myself.,,,,,x,|,Assertiveness,0.84,-1,5,4,3,2,1,1
-Insult people.,x,,,,,|,Cooperation,0.73,-1,5,4,3,2,1,5
-Experience very few emotional highs and lows.,,,,x,,|,Emotionality,0.81,-1,5,4,3,2,1,2
-Would never cheat on my taxes.,,,,,x,|,Morality,0.75,1,1,2,3,4,5,5
-Believe in the importance of art.,,,,,x,|,Aesthetic Appreciation,0.84,1,1,2,3,4,5,5
-Am wary of others.,,,,x,,|,Trust,0.82,-1,5,4,3,2,1,2
-Am not bothered by difficult social situations.,,x,,,,|,Self-consciousness,0.80,-1,5,4,3,2,1,4
-React quickly.,,x,,,,|,Activity-Level,0.71,1,1,2,3,4,5,2
-Worry about things.,x,,,,,|,Anxiety,0.83,1,1,2,3,4,5,1
-Believe that I am better than others.,,x,,,,|,Modesty/Humility,0.77,-1,5,4,3,2,1,4
-Dislike myself.,,x,,,,|,Depression,0.88,1,1,2,3,4,5,2
-Get upset easily.,,x,,,,|,Anger,0.88,1,1,2,3,4,5,2
-Do more than what's expected of me.,,,,,x,|,Achievement-Striving,0.78,1,1,2,3,4,5,5
-Radiate joy.,,,,x,,|,Cheerfulness,0.81,1,1,2,3,4,5,4
-Seek to influence others.,,,,x,,|,Assertiveness,0.84,1,1,2,3,4,5,4
-Prefer to stick with things that I know.,,x,,,,|,Adventurousness,0.77,-1,5,4,3,2,1,4
-Act without thinking.,,x,,,,|,Cautiousness,0.76,-1,5,4,3,2,1,4
-Misrepresent the facts.,,x,,,,|,Dutifulness,0.71,-1,5,4,3,2,1,4
-Am not really interested in others.,,x,,,,|,Friendliness,0.87,-1,5,4,3,2,1,4
-Tend to dislike soft-hearted people.,x,,,,,|,Sympathy,0.75,-1,5,4,3,2,1,5
-Contradict others.,x,,,,,|,Cooperation,0.73,-1,5,4,3,2,1,5
-Have difficulty understanding abstract ideas.,x,,,,,|,Intellect,0.86,-1,5,4,3,2,1,5
-Love flowers.,,,,,x,|,Aesthetic Appreciation,0.84,1,1,2,3,4,5,5
-Never spend more than I can afford.,,,,x,,|,Immoderation,0.77,-1,5,4,3,2,1,2
-Make people feel welcome.,,,,x,,|,Altruism,0.77,1,1,2,3,4,5,4
-Seek quiet.,,,,x,,|,Gregariousness,0.79,-1,5,4,3,2,1,2
-Am not easily affected by my emotions.,,,,x,,|,Emotionality,0.81,-1,5,4,3,2,1,2
-Use flattery to get ahead.,,x,,,,|,Morality,0.75,-1,5,4,3,2,1,4
-Act wild and crazy.,x,,,,,|,Excitement-Seeking,0.78,1,1,2,3,4,5,1
-Laugh aloud.,,x,,,,|,Cheerfulness,0.81,1,1,2,3,4,5,2
-Don't like the idea of change.,x,,,,,|,Adventurousness,0.77,-1,5,4,3,2,1,5
-Cheer people up.,,x,,,,|,Friendliness,0.87,1,1,2,3,4,5,2
-Postpone decisions.,,x,,,,|,Self-Discipline,0.85,-1,5,4,3,2,1,4
-Jump into things without thinking.,,x,,,,|,Cautiousness,0.76,-1,5,4,3,2,1,4
-Seldom toot my own horn.,,,,x,,|,Modesty/Humility,0.77,1,1,2,3,4,5,4
-Excel in what I do.,,,,x,,|,Self-Efficacy,0.78,1,1,2,3,4,5,4
-Have a vivid imagination.,,,,,x,|,Imagination,0.83,1,1,2,3,4,5,5
-Go on binges.,x,,,,,|,Immoderation,0.77,1,1,2,3,4,5,1
-Believe laws should be strictly enforced.,,,,x,,|,Liberalism,0.86,-1,5,4,3,2,1,2
-Stick to the rules.,,,,x,,|,Morality,0.75,1,1,2,3,4,5,4
-Keep my promises.,,,,,x,|,Dutifulness,0.71,1,1,2,3,4,5,5
-Love to read challenging material.,,,,,x,|,Intellect,0.86,1,1,2,3,4,5,5
-Avoid crowds.,,,,,x,|,Gregariousness,0.79,-1,5,4,3,2,1,1
-Believe people should fend for themselves.,,,,x,,|,Sympathy,0.75,-1,5,4,3,2,1,2
-Have frequent mood swings.,,x,,,,|,Depression,0.88,1,1,2,3,4,5,2
-Think that all will be well.,,,,,x,|,Trust,0.82,1,1,2,3,4,5,5
-Rarely get irritated.,,,,x,,|,Anger,0.88,-1,5,4,3,2,1,2
-Do things according to a plan.,,,,x,,|,Orderliness,0.82,1,1,2,3,4,5,4
-Love a good fight.,x,,,,,|,Cooperation,0.73,-1,5,4,3,2,1,5
-Do a lot in my spare time.,,,,x,,|,Activity-Level,0.71,1,1,2,3,4,5,4
-Am afraid to draw attention to myself.,,,,,x,|,Self-consciousness,0.80,1,1,2,3,4,5,5
-Dislike changes.,x,,,,,|,Adventurousness,0.77,-1,5,4,3,2,1,5
-Waste my time.,x,,,,,|,Self-Discipline,0.85,-1,5,4,3,2,1,5
-Turn plans into actions.,,,,x,,|,Achievement-Striving,0.78,1,1,2,3,4,5,4
-Do not enjoy going to art museums.,,x,,,,|,Aesthetic Appreciation,0.84,-1,5,4,3,2,1,4
-Make people feel uncomfortable.,x,,,,,|,Altruism,0.77,-1,5,4,3,2,1,5
-Boast about my virtues.,x,,,,,|,Modesty/Humility,0.77,-1,5,4,3,2,1,5
-Enjoy being part of a loud crowd.,x,,,,,|,Excitement-Seeking,0.78,1,1,2,3,4,5,1
-Am not easily bothered by things.,,x,,,,|,Anxiety,0.83,-1,5,4,3,2,1,4
-Don't understand people who get emotional.,,x,,,,|,Emotionality,0.81,-1,5,4,3,2,1,4
-Can talk others into doing things.,x,,,,,|,Assertiveness,0.84,1,1,2,3,4,5,1
-Feel sympathy for those who are worse off than myself.,,,,,x,|,Sympathy,0.75,1,1,2,3,4,5,5
-Am easy to satisfy.,,,,x,,|,Cooperation,0.73,1,1,2,3,4,5,4
-Misjudge situations.,,x,,,,|,Self-Efficacy,0.78,-1,5,4,3,2,1,4
-Enjoy wild flights of fantasy.,,,,x,,|,Imagination,0.83,1,1,2,3,4,5,4
-Involve others in what I am doing.,,x,,,,|,Gregariousness,0.79,1,1,2,3,4,5,2
-Keep others at a distance.,,,,x,,|,Friendliness,0.87,-1,5,4,3,2,1,2
-Avoid mistakes.,,,,x,,|,Cautiousness,0.76,1,1,2,3,4,5,4
-Am easily intimidated.,,x,,,,|,Self-consciousness,0.80,1,1,2,3,4,5,2
-Tell the truth.,,,,,x,|,Dutifulness,0.71,1,1,2,3,4,5,5
-Remain calm under pressure.,,,,x,,|,Vulnerability,0.82,-1,5,4,3,2,1,2
-Lose my temper.,,x,,,,|,Anger,0.88,1,1,2,3,4,5,2
-Have difficulty starting tasks.,,x,,,,|,Self-Discipline,0.85,-1,5,4,3,2,1,4
-Do not enjoy watching dance performances.,x,,,,,|,Aesthetic Appreciation,0.84,-1,5,4,3,2,1,5
-Am often down in the dumps.,,x,,,,|,Depression,0.88,1,1,2,3,4,5,2
-Like to tidy up.,,,,x,,|,Orderliness,0.82,1,1,2,3,4,5,4
-Take no time for others.,,x,,,,|,Altruism,0.77,-1,5,4,3,2,1,4
-Can handle a lot of information.,,,,x,,|,Intellect,0.86,1,1,2,3,4,5,4
-Try to understand myself.,,,,,x,|,Emotionality,0.81,1,1,2,3,4,5,5
-Value cooperation over competition.,,,,,x,|,Sympathy,0.75,1,1,2,3,4,5,5
-Get caught up in my problems.,,,,x,,|,Anxiety,0.83,1,1,2,3,4,5,4
-Believe that people are basically moral.,,,,x,,|,Trust,0.82,1,1,2,3,4,5,4
-Easily resist temptations.,,,,x,,|,Immoderation,0.77,-1,5,4,3,2,1,2
-Make myself the center of attention.,,x,,,,|,Modesty/Humility,0.77,-1,5,4,3,2,1,4
-Like to get lost in thought.,,,,,x,|,Imagination,0.83,1,1,2,3,4,5,5
-Do crazy things.,x,,,,,|,Cautiousness,0.76,-1,5,4,3,2,1,5
-Feel that I'm unable to deal with things.,x,,,,,|,Vulnerability,0.82,1,1,2,3,4,5,1
-Am very pleased with myself.,,,,x,,|,Depression,0.88,-1,5,4,3,2,1,2
-Believe that we coddle criminals too much.,,x,,,,|,Liberalism,0.86,-1,5,4,3,2,1,4
-Want to be left alone.,,,,x,,|,Gregariousness,0.79,-1,5,4,3,2,1,2
-Like to take it easy.,,,,x,,|,Activity-Level,0.71,-1,5,4,3,2,1,2
-Love action.,,x,,,,|,Excitement-Seeking,0.78,1,1,2,3,4,5,2
-Rarely complain.,,,,x,,|,Anger,0.88,-1,5,4,3,2,1,2
-Am comfortable in unfamiliar situations.,,,,x,,|,Self-consciousness,0.80,-1,5,4,3,2,1,2
-Can't stand weak people.,,x,,,,|,Sympathy,0.75,-1,5,4,3,2,1,4
-Start tasks right away.,,,,x,,|,Self-Discipline,0.85,1,1,2,3,4,5,4
-Become overwhelmed by events.,,x,,,,|,Vulnerability,0.82,1,1,2,3,4,5,2
-Seldom get emotional.,,x,,,,|,Emotionality,0.81,-1,5,4,3,2,1,4
-Hold back my opinions.,,,,x,,|,Assertiveness,0.84,-1,5,4,3,2,1,2
-Prefer variety to routine.,,,,x,,|,Adventurousness,0.77,1,1,2,3,4,5,4
-Come up with good solutions.,,,,x,,|,Self-Efficacy,0.78,1,1,2,3,4,5,4
-Have a lot of fun.,,,,x,,|,Cheerfulness,0.81,1,1,2,3,4,5,4
-Seldom get lost in thought.,,x,,,,|,Imagination,0.83,-1,5,4,3,2,1,4
-Have a low opinion of myself.,,x,,,,|,Depression,0.88,1,1,2,3,4,5,2
-Do not like poetry.,,,,x,,|,Aesthetic Appreciation,0.84,-1,5,4,3,2,1,2
-Enjoy being reckless.,x,,,,,|,Excitement-Seeking,0.78,1,1,2,3,4,5,1
-Am not easily annoyed.,,,,x,,|,Anger,0.88,-1,5,4,3,2,1,2
-Pretend to be concerned for others.,,x,,,,|,Morality,0.75,-1,5,4,3,2,1,4
-Believe that others have good intentions.,,,,x,,|,Trust,0.82,1,1,2,3,4,5,4
-Have a sharp tongue.,x,,,,,|,Cooperation,0.73,-1,5,4,3,2,1,5
-Am not interested in abstract ideas.,x,,,,,|,Intellect,0.86,-1,5,4,3,2,1,5
-Feel others' emotions.,,,,x,,|,Emotionality,0.81,1,1,2,3,4,5,4
-Have a high opinion of myself.,,x,,,,|,Modesty/Humility,0.77,-1,5,4,3,2,1,4
-Often make last-minute plans.,,,,x,,|,Cautiousness,0.76,-1,5,4,3,2,1,2
-Am afraid of many things.,,x,,,,|,Anxiety,0.83,1,1,2,3,4,5,2
-Want everything to be just right.,,,,,x,|,Orderliness,0.82,1,1,2,3,4,5,5
-Have little to contribute.,x,,,,,|,Self-Efficacy,0.78,-1,5,4,3,2,1,5
-Have a good word for everyone.,,,,,x,|,Altruism,0.77,1,1,2,3,4,5,5
-Believe that too much tax money goes to support artists.,x,,,,,|,Liberalism,0.86,-1,5,4,3,2,1,5
-Put little time and effort into my work.,x,,,,,|,Achievement-Striving,0.78,-1,5,4,3,2,1,5
-Get to work at once.,,,,x,,|,Self-Discipline,0.85,1,1,2,3,4,5,4
-Enjoy being part of a group.,,,,x,,|,Gregariousness,0.79,1,1,2,3,4,5,4
-Am passionate about causes.,,x,,,,|,Emotionality,0.81,1,1,2,3,4,5,2
-Laugh my way through life.,,,,x,,|,Cheerfulness,0.81,1,1,2,3,4,5,4
-Feel comfortable with myself.,,,,x,,|,Depression,0.88,-1,5,4,3,2,1,2
-Try to follow the rules.,,,,x,,|,Dutifulness,0.71,1,1,2,3,4,5,4
-Am a creature of habit.,,,,x,,|,Adventurousness,0.77,-1,5,4,3,2,1,2
-Yell at people.,,x,,,,|,Cooperation,0.73,-1,5,4,3,2,1,4
-Avoid contacts with others.,,,,x,,|,Friendliness,0.87,-1,5,4,3,2,1,2
-Can handle complex problems.,,,,,x,|,Vulnerability,0.82,-1,5,4,3,2,1,1
-Do not like art.,x,,,,,|,Aesthetic Appreciation,0.84,-1,5,4,3,2,1,5
-Like order.,,,,x,,|,Orderliness,0.82,1,1,2,3,4,5,4
-Often eat too much.,,x,,,,|,Immoderation,0.77,1,1,2,3,4,5,2
-Believe that people are essentially evil.,x,,,,,|,Trust,0.82,-1,5,4,3,2,1,5
-Have a rich vocabulary.,,,,x,,|,Intellect,0.86,1,1,2,3,4,5,4
-Go straight for the goal.,,x,,,,|,Achievement-Striving,0.78,1,1,2,3,4,5,2
-Do not have a good imagination.,x,,,,,|,Imagination,0.83,-1,5,4,3,2,1,5
-Don't understand things.,x,,,,,|,Self-Efficacy,0.78,-1,5,4,3,2,1,5
-Let things proceed at their own pace.,,,,x,,|,Activity-Level,0.71,-1,5,4,3,2,1,2
-Am often in a bad mood.,,x,,,,|,Anger,0.88,1,1,2,3,4,5,2
-Am relaxed most of the time.,,,,x,,|,Anxiety,0.83,-1,5,4,3,2,1,2
-Use others for my own ends.,x,,,,,|,Morality,0.75,-1,5,4,3,2,1,5
-Express childlike joy.,,x,,,,|,Cheerfulness,0.81,1,1,2,3,4,5,2
-See beauty in things that others might not notice.,,,,,x,|,Aesthetic Appreciation,0.84,1,1,2,3,4,5,5
-Only feel comfortable with friends.,,,,x,,|,Self-consciousness,0.80,1,1,2,3,4,5,4
-Think highly of myself.,,x,,,,|,Modesty/Humility,0.77,-1,5,4,3,2,1,4
-Take control of things.,x,,,,,|,Assertiveness,0.84,1,1,2,3,4,5,1
-Warm up quickly to others.,,x,,,,|,Friendliness,0.87,1,1,2,3,4,5,2
-Seek danger.,x,,,,,|,Excitement-Seeking,0.78,1,1,2,3,4,5,1
-Am not interested in other people's problems.,,x,,,,|,Sympathy,0.75,-1,5,4,3,2,1,4
-Prefer to be alone.,,,,x,,|,Gregariousness,0.79,-1,5,4,3,2,1,2
-Find it difficult to get down to work.,,x,,,,|,Self-Discipline,0.85,-1,5,4,3,2,1,4
-Believe that there is no absolute right or wrong.,,,,x,,|,Liberalism,0.86,1,1,2,3,4,5,4
-Seldom daydream.,,x,,,,|,Imagination,0.83,-1,5,4,3,2,1,4
-Hold a grudge.,,,,x,,|,Cooperation,0.73,-1,5,4,3,2,1,2
-Like to act on a whim.,,x,,,,|,Cautiousness,0.76,-1,5,4,3,2,1,4
-Listen to my conscience.,,,,,x,|,Dutifulness,0.71,1,1,2,3,4,5,5
-Do just enough work to get by.,x,,,,,|,Achievement-Striving,0.78,-1,5,4,3,2,1,5
-Never splurge.,,,,x,,|,Immoderation,0.77,-1,5,4,3,2,1,2
-Feel desperate.,x,,,,,|,Depression,0.88,1,1,2,3,4,5,1
-Am not interested in theoretical discussions.,x,,,,,|,Intellect,0.86,-1,5,4,3,2,1,5
-Believe in human goodness.,,,,x,,|,Trust,0.82,1,1,2,3,4,5,4
-Put people under pressure.,x,,,,,|,Morality,0.75,-1,5,4,3,2,1,5
-Have little to say.,,,,x,,|,Assertiveness,0.84,-1,5,4,3,2,1,2
-Know the answers to many questions.,,,,x,,|,Modesty/Humility,0.77,-1,5,4,3,2,1,2
-Like a leisurely lifestyle.,,,,x,,|,Activity-Level,0.71,-1,5,4,3,2,1,2
-Get stressed out easily.,,x,,,,|,Anxiety,0.83,1,1,2,3,4,5,2
-Make friends easily.,,x,,,,|,Friendliness,0.87,1,1,2,3,4,5,2
-Know how to cope.,,,,x,,|,Vulnerability,0.82,-1,5,4,3,2,1,2
-Love to help others.,,x,,,,|,Altruism,0.77,1,1,2,3,4,5,2
-Don't like crowded events.,,,,x,,|,Gregariousness,0.79,-1,5,4,3,2,1,2
-Indulge in my fantasies.,,,,x,,|,Imagination,0.83,1,1,2,3,4,5,4
-Am attached to conventional ways.,,x,,,,|,Adventurousness,0.77,-1,5,4,3,2,1,4
-Carry out my plans.,,,,x,,|,Self-Discipline,0.85,1,1,2,3,4,5,4
-Dislike loud music.,,x,,,,|,Excitement-Seeking,0.78,-1,5,4,3,2,1,4
-Am afraid that I will do the wrong thing.,,,,,x,|,Self-consciousness,0.80,1,1,2,3,4,5,5
-Love order and regularity.,,,,x,,|,Orderliness,0.82,1,1,2,3,4,5,4
-Plunge into tasks with all my heart.,,,,x,,|,Achievement-Striving,0.78,1,1,2,3,4,5,4
-Keep my cool.,,,,x,,|,Anger,0.88,-1,5,4,3,2,1,2
-Tend to vote for conservative political candidates.,x,,,,,|,Liberalism,0.86,-1,5,4,3,2,1,5
-Panic easily.,,x,,,,|,Vulnerability,0.82,1,1,2,3,4,5,2
-Sympathize with the homeless.,,,,x,,|,Sympathy,0.75,1,1,2,3,4,5,4
-Break my promises.,x,,,,,|,Dutifulness,0.71,-1,5,4,3,2,1,5
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------,,,,,,|,---------------------------------------------------------------------------------------------------------------------------,,,,,,,,
-,,,,,,,,,,,,,,,
-"Items are from the TedoneItemAssignmentTable spreadsheet downloaded from the page at https://ipip.ori.org/ItemAssignmentTable.htm on May 23, 2020",,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-Score:,Facet,,Raw,Percent,Meaning,,,,,,,,,,
-Neuroticism ,,,134,34,Low,,,,,,,,,,
-,Anger,,22,34,Low,,,,,,,,,,
-,Anxiety,,23,36,Low,,,,,,,,,,
-,Depression,,18,26,Low,,,,,,,,,,
-,Immoderation,,19,28,Low,,,,,,,,,,
-,Self-consciousness,,32,54,Average,,,,,,,,,,
-,Vulnerability,,20,30,Low,,,,,,,,,,
-,,,,,,,,,,,,,,,
-Extraversion ,,,141,37,Low,,,,,,,,,,
-,Activity-Level,,24,38,Low,,,,,,,,,,
-,Assertiveness,,17,24,Low,,,,,,,,,,
-,Cheerfulness,,34,58,Average,,,,,,,,,,
-,Excitement-Seeking,,17,24,Low,,,,,,,,,,
-,Friendliness,,28,46,Average,,,,,,,,,,
-,Gregariousness,,21,32,Low,,,,,,,,,,
-,,,,,,,,,,,,,,,
-Openness ,,,245,71,High,,,,,,,,,,
-,Adventurousness,,36,62,High,,,,,,,,,,
-,Aesthetic Appreciation,,45,80,Very High,,,,,,,,,,
-,Emotionality,,35,60,High,,,,,,,,,,
-,Imagination,,44,78,High,,,,,,,,,,
-,Intellect,,47,84,Very High,,,,,,,,,,
-,Liberalism,,38,66,High,,,,,,,,,,
-,,,,,,,,,,,,,,,
-Agreeableness,,,246,72,High,,,,,,,,,,
-,Altruism,,37,64,High,,,,,,,,,,
-,Cooperation,,44,78,High,,,,,,,,,,
-,Modesty/Humility,,40,70,High,,,,,,,,,,
-,Morality,,46,82,Very High,,,,,,,,,,
-,Sympathy,,39,68,High,,,,,,,,,,
-,Trust,,40,70,High,,,,,,,,,,
-,,,,,,,,,,,,,,,
-Conscientiousness ,,,254,74,High,,,,,,,,,,
-,Achievement-Striving,,44,78,High,,,,,,,,,,
-,Cautiousness,,40,70,High,,,,,,,,,,
-,Dutifulness,,46,82,Very High,,,,,,,,,,
-,Orderliness,,40,70,High,,,,,,,,,,
-,Self-Discipline,,41,72,High,,,,,,,,,,
-,Self-Efficacy,,43,76,High,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-The sheet uses these values to validate the input:,x,X,y,Y,,,,,,,,,,,
+Score:,Facet,,Raw,Percent,Meaning
+Neuroticism ,,,134,30,Low
+,Anger,,22,30,Low
+,Anxiety,,23,32,Low
+,Depression,,18,20,Very Low
+,Immoderation,,19,22,Low
+,Self-consciousness,,32,55,A Little High
+,Vulnerability,,20,25,Low
+,,,,,
+Extraversion ,,,141,33,Low
+,Activity-Level,,24,35,A Little Low
+,Assertiveness,,17,17,Very Low
+,Cheerfulness,,34,60,A Little High
+,Excitement-Seeking,,17,17,Very Low
+,Friendliness,,28,45,A Little Low
+,Gregariousness,,21,27,Low
+,,,,,
+Openness ,,,245,77,High
+,Adventurousness,,36,65,High
+,Aesthetic Appreciation,,45,87,Very High
+,Emotionality,,35,62,A Little High
+,Imagination,,44,85,Very High
+,Intellect,,47,92,Very High
+,Liberalism,,38,70,High
+,,,,,
+Agreeableness,,,246,77,High
+,Altruism,,37,67,High
+,Cooperation,,44,85,Very High
+,Modesty/Humility,,40,75,High
+,Morality,,46,90,Very High
+,Sympathy,,39,72,High
+,Trust,,40,75,High
+,,,,,
+Conscientiousness ,,,254,80,Very High
+,Achievement-Striving,,44,85,Very High
+,Cautiousness,,40,75,High
+,Dutifulness,,46,90,Very High
+,Orderliness,,40,75,High
+,Self-Discipline,,41,77,High
+,Self-Efficacy,,43,82,Very High
