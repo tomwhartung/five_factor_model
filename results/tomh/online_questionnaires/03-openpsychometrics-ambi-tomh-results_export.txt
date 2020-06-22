@@ -1,0 +1,203 @@
+CPI: Socialization                      43
+CPI: Creative Temperament               43
+CPI: Self-control                       70
+CPI: Achievement via Conformance        83
+CPI: Tolerance                          37
+CPI: Dominance                          17
+CPI: Independence                       60
+CPI: Vector 1                           87
+CPI: Vector 3                           63
+CPI: Vector 2                           30
+CPI: Achievement via Independence       57
+CPI: Amicability                        70
+CPI: Good Impression                    33
+CPI: Femininity                         60
+CPI: Leadership                         53
+CPI: Capacity for Status                23
+CPI: Law Enforcement Orientation        70
+CPI: Communality                        73
+CPI: Empathy                            37
+CPI: Work Orientation                   60
+CPI: Tough-mindedness                   57
+CPI: Responsibility                     53
+CPI: Self-acceptance                    17
+CPI: Intellectual Efficiency            83
+CPI: Managerial Potential               53
+CPI: Psychological-mindedness           73
+CPI: Sociability                        17
+CPI: Flexibility                        27
+CPI: Well-being                         60
+CPI: Social Presence                    37
+6-FPQ: Self Reliance                    57
+6-FPQ: Seriousness                      37
+6-FPQ: Autonomy                         73
+6-FPQ: Abasement                        40
+6-FPQ: Achievement                      63
+6-FPQ: Endurance                        83
+6-FPQ: Order                            83
+6-FPQ: Even-tempered                    40
+6-FPQ: Affiliation                      43
+6-FPQ: Breadth of Interest              87
+6-FPQ: Good-natured                     53
+6-FPQ: Exhibition                       13
+6-FPQ: Deliberativeness                 80
+6-FPQ: Cognitive Structure              87
+6-FPQ: Understanding                    87
+6-FPQ: Dominance                        10
+6-FPQ: Change                           70
+6-FPQ: Individualism                    73
+HEXACO-PI: Gentleness                   63
+HEXACO-PI: Creativity                   87
+HEXACO-PI: Liveliness                   50
+HEXACO-PI: Forgiveness                  63
+HEXACO-PI: Fearfulness                  50
+HEXACO-PI: Diligence                    70
+HEXACO-PI: Inquisitiveness              83
+HEXACO-PI: Aesthetic Appreciation       77
+HEXACO-PI: Prudence                     83
+HEXACO-PI: Expressiveness               27
+HEXACO-PI: Social Boldness              17
+HEXACO-PI: Sentimentality               70
+HEXACO-PI: Anxiety                      37
+HEXACO-PI: Unconventionality            83
+HEXACO-PI: Dependence                   37
+HEXACO-PI: Perfectionism                83
+HEXACO-PI: Organization                 83
+HEXACO-PI: Modesty                      77
+HEXACO-PI: Greed Avoidance              87
+HEXACO-PI: Sociability                  37
+HEXACO-PI: Patience                     50
+HEXACO-PI: Flexibility                  63
+HEXACO-PI: Sincerity                    83
+HEXACO-PI: Fairness                     70
+MPQ: Control                            80
+MPQ: Social Closeness                   33
+MPQ: Absorption                         73
+MPQ: Stress Reaction                    33
+MPQ: Harm-avoidance                     77
+MPQ: Social Potency                     13
+MPQ: Traditionalism                     37
+MPQ: Well-being                         80
+MPQ: Achievement                        70
+MPQ: Alienation                         37
+MPQ: Aggression                         27
+HPI: Caring                             70
+HPI: Experience-seeking                 70
+HPI: Math ability                       83
+HPI: Easy to live with                  77
+HPI: Even-tempered                      63
+HPI: Not anxious                        77
+HPI: No hostility                       83
+HPI: Generates ideas                    43
+HPI: Not spontaneous                    43
+HPI: Virtuous                           57
+HPI: Reading                            87
+HPI: Science ability                    73
+HPI: No depression                      83
+HPI: Leadership                         13
+HPI: Curiosity                          70
+HPI: Avoids trouble                     33
+HPI: Self focus                         67
+HPI: Impression management              37
+HPI: Identity                           80
+HPI: Intellectual games                 83
+HPI: Empathy                            63
+HPI: Likes crowds                       20
+HPI: Mastery                            70
+HPI: Appearance                         42
+HPI: Good attachment                    47
+HPI: Sensitive                          73
+HPI: Calmness                           60
+HPI: Entertaining                       50
+HPI: No guilt                           60
+HPI: No social anxiety                  27
+HPI: Moralistic                         57
+HPI: Trusting                           53
+HPI: No somatic complaints              67
+HPI: Likes parties                      30
+HPI: Competitive                        40
+HPI: Likes people                       33
+HPI: Culture                            73
+HPI: Thrill-seeking                     37
+HPI: Good memory                        83
+HPI: Self confidence                    43
+HPI: Impulse control                    67
+HPI: Education                          67
+HPI: Exhibitionistic                    13
+HPI: Not autonomous                     37
+TCI: Work hardened                      83
+TCI: Resourcefulness                    60
+TCI: Eagerness of effort                63
+TCI: Shyness with strangers             77
+TCI: Self-forgetful                     70
+TCI: Spiritual acceptance               43
+TCI: Attachment                         20
+TCI: Ambitious                          47
+TCI: Impulsiveness                      17
+TCI: Idealistic                         43
+TCI: Compassion                         77
+TCI: Social acceptance                  63
+TCI: Helpfulness                        80
+TCI: Disorderliness                     27
+TCI: Exploratory Excitability           67
+TCI: Sentimentality                     73
+TCI: Empathy                            73
+TCI: Warm communication                 37
+TCI: Dependence                         20
+TCI: Fatigability & asthenia            37
+TCI: Perfectionist                      70
+TCI: Transpersonal identification       80
+TCI: Self-acceptance                    63
+TCI: Worry & pessimism                  23
+TCI: Enlightened                        43
+TCI: Enlightened second nature          57
+TCI: Fear of uncertainty                43
+TCI: Extravagance                       67
+TCI: Purposefulness                     73
+TCI: Responsibility                     60
+TCI: Pure-hearted conscience            40
+NEO PI-R: Straightforwardness           87
+NEO PI-R: Ideas                         83
+NEO PI-R: Dutifulness                   77
+NEO PI-R: Actions                       73
+NEO PI-R: Self-Discipline               77
+NEO PI-R: Warmth                        50
+NEO PI-R: Impulsiveness                 47
+NEO PI-R: Competence                    70
+NEO PI-R: Altruism                      83
+NEO PI-R: Anxiety                       33
+NEO PI-R: Achievement Striving          43
+NEO PI-R: Compliance                    57
+NEO PI-R: Values                        73
+NEO PI-R: Activity                      57
+NEO PI-R: Excitement-Seeking            30
+NEO PI-R: Order                         83
+NEO PI-R: Modesty                       80
+NEO PI-R: Aesthetics                    77
+NEO PI-R: Assertiveness                 17
+NEO PI-R: Deliberation                  70
+NEO PI-R: Tender-Mindedness             80
+NEO PI-R: Positive Emotions             50
+NEO PI-R: Gregariousness                17
+NEO PI-R: Vulnerability                 30
+NEO PI-R: Feelings                      57
+NEO PI-R: Fantasy                       80
+NEO PI-R: Angry Hostility               37
+NEO PI-R: Self-Consciousness            57
+NEO PI-R: Trust                         63
+NEO PI-R: Depression                    23
+JPI-R: Anxiety                          23
+JPI-R: Risk Taking                      13
+JPI-R: Energy Level                     63
+JPI-R: Cooperativeness                  27
+JPI-R: Breadth of Interest              90
+JPI-R: Sociability                      33
+JPI-R: Traditional Values               23
+JPI-R: Complexity                       83
+JPI-R: Empathy                          67
+JPI-R: Responsibility                   70
+JPI-R: Innovation                       87
+JPI-R: Organization                     70
+JPI-R: Tolerance                        63
+JPI-R: Social Confidence                27
+JPI-R: Social Astuteness                20
