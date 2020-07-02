@@ -1,0 +1,40 @@
+Score:,Facet,,Raw,Percent,Meaning
+Neuroticism ,,,131,29,Low
+,Anger,,32,55,A Little High
+,Anxiety,,21,27,Low
+,Depression,,19,22,Low
+,Immoderation,,22,30,Low
+,Self-consciousness,,19,22,Low
+,Vulnerability,,18,20,Very Low
+,,,,,
+Extraversion ,,,229,70,High
+,Activity-Level,,40,75,High
+,Assertiveness,,48,95,Very High
+,Cheerfulness,,31,52,Average
+,Excitement-Seeking,,34,60,A Little High
+,Friendliness,,38,70,High
+,Gregariousness,,38,70,High
+,,,,,
+Openness ,,,238,74,High
+,Adventurousness,,39,72,High
+,Aesthetic Appreciation,,42,80,Very High
+,Emotionality,,37,67,High
+,Imagination,,42,80,Very High
+,Intellect,,45,87,Very High
+,Liberalism,,33,57,A Little High
+,,,,,
+Agreeableness,,,167,44,A Little Low
+,Altruism,,31,52,Average
+,Cooperation,,23,32,Low
+,Modesty/Humility,,19,22,Low
+,Morality,,26,40,A Little Low
+,Sympathy,,32,55,A Little High
+,Trust,,36,65,High
+,,,,,
+Conscientiousness ,,,246,77,High
+,Achievement-Striving,,48,95,Very High
+,Cautiousness,,40,75,High
+,Dutifulness,,34,60,A Little High
+,Orderliness,,42,80,Very High
+,Self-Discipline,,41,77,High
+,Self-Efficacy,,41,77,High
