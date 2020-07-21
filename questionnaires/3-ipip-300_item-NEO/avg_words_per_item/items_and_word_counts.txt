@@ -1,0 +1,300 @@
+#1 -  7 words: Look at the bright side of life.
+#2 -  9 words: Believe that criminals should receive help rather than punishment.
+#3 -  5 words: Can't make up my mind.
+#4 -  4 words: Dislike talking about myself.
+#5 -  6 words: Am not bothered by messy people.
+#6 -  3 words: Obstruct others' plans.
+#7 -  3 words: Often feel blue.
+#8 -  2 words: Rarely overindulge.
+#9 -  8 words: Would never go hang gliding or bungee jumping.
+#10 -  4 words: Fear for the worst.
+#11 -  5 words: Turn my back on others.
+#12 -  4 words: Enjoy thinking about things.
+#13 -  2 words: Demand quality.
+#14 -  5 words: Like to take my time.
+#15 -  4 words: Trust what people say.
+#16 -  3 words: Handle tasks smoothly.
+#17 -  5 words: Stick to my chosen path.
+#18 -  4 words: Do not like concerts.
+#19 -  6 words: Need a push to get started.
+#20 -  3 words: Readily overcome setbacks.
+#21 -  3 words: Love surprise parties.
+#22 -  6 words: Am hard to get to know.
+#23 -  3 words: Get angry easily.
+#24 -  4 words: Interested in many things.
+#25 -  5 words: Rarely notice my emotional reactions.
+#26 -  6 words: Feel that my life lacks direction.
+#27 -  7 words: Do the opposite of what is asked.
+#28 -  2 words: Love excitement.
+#29 -  6 words: Find it difficult to approach others.
+#30 -  5 words: Anticipate the needs of others.
+#31 -  6 words: Leave a mess in my room.
+#32 -  3 words: Make rash decisions.
+#33 -  7 words: Tend to vote for liberal political candidates.
+#34 -  2 words: Love life.
+#35 -  7 words: Know how to get around the rules.
+#36 -  8 words: Don't worry about things that have already happened.
+#37 -  5 words: Spend time reflecting on things.
+#38 -  2 words: Distrust people.
+#39 -  6 words: Don't see the consequences of things.
+#40 -  5 words: Like to solve complex problems.
+#41 -  5 words: Like to visit new places.
+#42 -  2 words: Work hard.
+#43 -  5 words: Often feel uncomfortable around others.
+#44 -  3 words: Get irritated easily.
+#45 -  6 words: Am able to control my cravings.
+#46 -  8 words: Can manage many things at the same time.
+#47 -  4 words: Hate to seem pushy.
+#48 -  5 words: Enjoy the beauty of nature.
+#49 -  2 words: Seek adventure.
+#50 -  7 words: Try not to think about the needy.
+#51 -  4 words: Keep in the background.
+#52 -  4 words: Am concerned about others.
+#53 -  4 words: Get overwhelmed by emotions.
+#54 -  6 words: Dislike being the center of attention.
+#55 -  4 words: Experience my emotions intensely.
+#56 -  7 words: Like to stand during the national anthem.
+#57 -  9 words: Talk to a lot of different people at parties.
+#58 -  7 words: Am able to stand up for myself.
+#59 -  4 words: Leave my belongings around.
+#60 -  4 words: Act comfortably with others.
+#61 -  5 words: Suspect hidden motives in others.
+#62 -  3 words: Avoid philosophical discussions.
+#63 -  6 words: Am not easily disturbed by events.
+#64 -  4 words: Take advantage of others.
+#65 -  4 words: Am not easily amused.
+#66 -  5 words: Choose my words with care.
+#67 -  6 words: Am calm even in tense situations.
+#68 -  2 words: Take charge.
+#69 -  5 words: Do things I later regret.
+#70 -  7 words: Am indifferent to the feelings of others.
+#71 -  6 words: Am not highly motivated to succeed.
+#72 -  3 words: Can't stand confrontations.
+#73 -  3 words: Love to daydream.
+#74 -  3 words: Seldom feel blue.
+#75 -  6 words: Know how to get things done.
+#76 -  3 words: Am always busy.
+#77 -  5 words: Get chores done right away.
+#78 -  5 words: Pay my bills on time.
+#79 -  7 words: Believe in an eye for an eye.
+#80 -  3 words: Seldom joke around.
+#81 -  5 words: Consider myself an average person.
+#82 -  4 words: Try to lead others.
+#83 -  4 words: Feel comfortable around people.
+#84 -  3 words: Love to eat.
+#85 -  2 words: Trust others.
+#86 -  4 words: Look down on others.
+#87 -  4 words: Cheat to get ahead.
+#88 -  5 words: Am not bothered by disorder.
+#89 -  7 words: Set high standards for myself and others.
+#90 -  5 words: Willing to try anything once.
+#91 -  4 words: Stumble over my words.
+#92 -  5 words: Am always on the go.
+#93 -  3 words: Seldom get mad.
+#94 -  2 words: Like music.
+#95 -  5 words: Believe in one true religion.
+#96 -  6 words: Get others to do my duties.
+#97 -  4 words: Get back at others.
+#98 -  5 words: Adapt easily to new situations.
+#99 -  5 words: Like to begin new things.
+#100 -  3 words: Amuse my friends.
+#101 -  6 words: Enjoy examining myself and my life.
+#102 -  7 words: Wait for others to lead the way.
+#103 -  3 words: Complete tasks successfully.
+#104 -  3 words: Am always prepared.
+#105 -  3 words: Rush into things.
+#106 -  4 words: Avoid difficult reading material.
+#107 - 11 words: Don't know why I do some of the things I do.
+#108 -  2 words: React slowly.
+#109 -  3 words: Love large parties.
+#110 -  4 words: Have difficulty imagining things.
+#111 -  4 words: Am not embarrassed easily.
+#112 -  8 words: Believe that we should be tough on crime.
+#113 -  5 words: Am sure of my ground.
+#114 - 10 words: Often forget to put things back in their proper place.
+#115 -  2 words: Break rules.
+#116 -  3 words: Dislike new foods.
+#117 -  4 words: Suffer from others' sorrows.
+#118 -  7 words: Don't like to draw attention to myself.
+#119 -  2 words: Insult people.
+#120 -  7 words: Experience very few emotional highs and lows.
+#121 -  6 words: Would never cheat on my taxes.
+#122 -  6 words: Believe in the importance of art.
+#123 -  4 words: Am wary of others.
+#124 -  7 words: Am not bothered by difficult social situations.
+#125 -  2 words: React quickly.
+#126 -  3 words: Worry about things.
+#127 -  7 words: Believe that I am better than others.
+#128 -  2 words: Dislike myself.
+#129 -  3 words: Get upset easily.
+#130 -  7 words: Do more than what's expected of me.
+#131 -  2 words: Radiate joy.
+#132 -  4 words: Seek to influence others.
+#133 -  8 words: Prefer to stick with things that I know.
+#134 -  3 words: Act without thinking.
+#135 -  3 words: Misrepresent the facts.
+#136 -  6 words: Am not really interested in others.
+#137 -  5 words: Tend to dislike soft-hearted people.
+#138 -  2 words: Contradict others.
+#139 -  5 words: Have difficulty understanding abstract ideas.
+#140 -  2 words: Love flowers.
+#141 -  7 words: Never spend more than I can afford.
+#142 -  4 words: Make people feel welcome.
+#143 -  2 words: Seek quiet.
+#144 -  7 words: Am not easily affected by my emotions.
+#145 -  5 words: Use flattery to get ahead.
+#146 -  4 words: Act wild and crazy.
+#147 -  2 words: Laugh aloud.
+#148 -  6 words: Don't like the idea of change.
+#149 -  3 words: Cheer people up.
+#150 -  2 words: Postpone decisions.
+#151 -  5 words: Jump into things without thinking.
+#152 -  5 words: Seldom toot my own horn.
+#153 -  5 words: Excel in what I do.
+#154 -  4 words: Have a vivid imagination.
+#155 -  3 words: Go on binges.
+#156 -  6 words: Believe laws should be strictly enforced.
+#157 -  4 words: Stick to the rules.
+#158 -  3 words: Keep my promises.
+#159 -  5 words: Love to read challenging material.
+#160 -  2 words: Avoid crowds.
+#161 -  6 words: Believe people should fend for themselves.
+#162 -  4 words: Have frequent mood swings.
+#163 -  6 words: Think that all will be well.
+#164 -  3 words: Rarely get irritated.
+#165 -  6 words: Do things according to a plan.
+#166 -  4 words: Love a good fight.
+#167 -  7 words: Do a lot in my spare time.
+#168 -  7 words: Am afraid to draw attention to myself.
+#169 -  2 words: Dislike changes.
+#170 -  3 words: Waste my time.
+#171 -  4 words: Turn plans into actions.
+#172 -  7 words: Do not enjoy going to art museums.
+#173 -  4 words: Make people feel uncomfortable.
+#174 -  4 words: Boast about my virtues.
+#175 -  7 words: Enjoy being part of a loud crowd.
+#176 -  6 words: Am not easily bothered by things.
+#177 -  6 words: Don't understand people who get emotional.
+#178 -  6 words: Can talk others into doing things.
+#179 - 10 words: Feel sympathy for those who are worse off than myself.
+#180 -  4 words: Am easy to satisfy.
+#181 -  2 words: Misjudge situations.
+#182 -  5 words: Enjoy wild flights of fantasy.
+#183 -  7 words: Involve others in what I am doing.
+#184 -  5 words: Keep others at a distance.
+#185 -  2 words: Avoid mistakes.
+#186 -  3 words: Am easily intimidated.
+#187 -  3 words: Tell the truth.
+#188 -  4 words: Remain calm under pressure.
+#189 -  3 words: Lose my temper.
+#190 -  4 words: Have difficulty starting tasks.
+#191 -  6 words: Do not enjoy watching dance performances.
+#192 -  6 words: Am often down in the dumps.
+#193 -  4 words: Like to tidy up.
+#194 -  5 words: Take no time for others.
+#195 -  6 words: Can handle a lot of information.
+#196 -  4 words: Try to understand myself.
+#197 -  4 words: Value cooperation over competition.
+#198 -  6 words: Get caught up in my problems.
+#199 -  6 words: Believe that people are basically moral.
+#200 -  3 words: Easily resist temptations.
+#201 -  6 words: Make myself the center of attention.
+#202 -  6 words: Like to get lost in thought.
+#203 -  3 words: Do crazy things.
+#204 -  8 words: Feel that I'm unable to deal with things.
+#205 -  5 words: Am very pleased with myself.
+#206 -  7 words: Believe that we coddle criminals too much.
+#207 -  5 words: Want to be left alone.
+#208 -  5 words: Like to take it easy.
+#209 -  2 words: Love action.
+#210 -  2 words: Rarely complain.
+#211 -  5 words: Am comfortable in unfamiliar situations.
+#212 -  4 words: Can't stand weak people.
+#213 -  4 words: Start tasks right away.
+#214 -  4 words: Become overwhelmed by events.
+#215 -  3 words: Seldom get emotional.
+#216 -  4 words: Hold back my opinions.
+#217 -  4 words: Prefer variety to routine.
+#218 -  5 words: Come up with good solutions.
+#219 -  5 words: Have a lot of fun.
+#220 -  5 words: Seldom get lost in thought.
+#221 -  6 words: Have a low opinion of myself.
+#222 -  4 words: Do not like poetry.
+#223 -  3 words: Enjoy being reckless.
+#224 -  4 words: Am not easily annoyed.
+#225 -  6 words: Pretend to be concerned for others.
+#226 -  6 words: Believe that others have good intentions.
+#227 -  4 words: Have a sharp tongue.
+#228 -  6 words: Am not interested in abstract ideas.
+#229 -  3 words: Feel others' emotions.
+#230 -  6 words: Have a high opinion of myself.
+#231 -  4 words: Often make last-minute plans.
+#232 -  5 words: Am afraid of many things.
+#233 -  6 words: Want everything to be just right.
+#234 -  4 words: Have little to contribute.
+#235 -  6 words: Have a good word for everyone.
+#236 - 10 words: Believe that too much tax money goes to support artists.
+#237 -  8 words: Put little time and effort into my work.
+#238 -  5 words: Get to work at once.
+#239 -  6 words: Enjoy being part of a group.
+#240 -  4 words: Am passionate about causes.
+#241 -  5 words: Laugh my way through life.
+#242 -  4 words: Feel comfortable with myself.
+#243 -  5 words: Try to follow the rules.
+#244 -  5 words: Am a creature of habit.
+#245 -  3 words: Yell at people.
+#246 -  4 words: Avoid contacts with others.
+#247 -  4 words: Can handle complex problems.
+#248 -  4 words: Do not like art.
+#249 -  2 words: Like order.
+#250 -  4 words: Often eat too much.
+#251 -  6 words: Believe that people are essentially evil.
+#252 -  4 words: Have a rich vocabulary.
+#253 -  5 words: Go straight for the goal.
+#254 -  6 words: Do not have a good imagination.
+#255 -  3 words: Don't understand things.
+#256 -  7 words: Let things proceed at their own pace.
+#257 -  6 words: Am often in a bad mood.
+#258 -  6 words: Am relaxed most of the time.
+#259 -  6 words: Use others for my own ends.
+#260 -  3 words: Express childlike joy.
+#261 -  9 words: See beauty in things that others might not notice.
+#262 -  5 words: Only feel comfortable with friends.
+#263 -  4 words: Think highly of myself.
+#264 -  4 words: Take control of things.
+#265 -  5 words: Warm up quickly to others.
+#266 -  2 words: Seek danger.
+#267 -  7 words: Am not interested in other people's problems.
+#268 -  4 words: Prefer to be alone.
+#269 -  8 words: Find it difficult to get down to work.
+#270 -  9 words: Believe that there is no absolute right or wrong.
+#271 -  2 words: Seldom daydream.
+#272 -  3 words: Hold a grudge.
+#273 -  6 words: Like to act on a whim.
+#274 -  4 words: Listen to my conscience.
+#275 -  7 words: Do just enough work to get by.
+#276 -  2 words: Never splurge.
+#277 -  2 words: Feel desperate.
+#278 -  6 words: Am not interested in theoretical discussions.
+#279 -  4 words: Believe in human goodness.
+#280 -  4 words: Put people under pressure.
+#281 -  4 words: Have little to say.
+#282 -  6 words: Know the answers to many questions.
+#283 -  4 words: Like a leisurely lifestyle.
+#284 -  4 words: Get stressed out easily.
+#285 -  3 words: Make friends easily.
+#286 -  4 words: Know how to cope.
+#287 -  4 words: Love to help others.
+#288 -  4 words: Don't like crowded events.
+#289 -  4 words: Indulge in my fantasies.
+#290 -  5 words: Am attached to conventional ways.
+#291 -  4 words: Carry out my plans.
+#292 -  3 words: Dislike loud music.
+#293 -  9 words: Am afraid that I will do the wrong thing.
+#294 -  4 words: Love order and regularity.
+#295 -  7 words: Plunge into tasks with all my heart.
+#296 -  3 words: Keep my cool.
+#297 -  7 words: Tend to vote for conservative political candidates.
+#298 -  2 words: Panic easily.
+#299 -  4 words: Sympathize with the homeless.
+#300 -  3 words: Break my promises.
