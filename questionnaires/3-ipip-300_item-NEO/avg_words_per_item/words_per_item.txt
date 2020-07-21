@@ -1,0 +1,10 @@
+
+ $ wc -l all_items.txt
+300 all_items.txt
+ $ wc -w all_items.txt
+1404 all_items.txt
+
+1404/300 = 4.68
+
+Each item has an average of 4-5 words.
+
