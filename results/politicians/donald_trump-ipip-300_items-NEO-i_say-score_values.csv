@@ -1,40 +1,40 @@
-Score:,Facet,,Raw,Percent,Meaning
-Neuroticism ,,,166,44,A Little Low
-,Anger,,40,75,High
-,Anxiety,,28,45,A Little Low
-,Depression,,17,17,Very Low
-,Immoderation,,38,70,High
-,Self-consciousness,,19,22,Low
-,Vulnerability,,24,35,Low
-,,,,,
-Extraversion ,,,228,70,High
-,Activity-Level,,33,57,A Little High
-,Assertiveness,,49,97,Very High
-,Cheerfulness,,32,55,A Little High
-,Excitement-Seeking,,34,60,A Little High
-,Friendliness,,37,67,High
-,Gregariousness,,43,82,Very High
-,,,,,
-Openness ,,,143,34,Low
-,Adventurousness,,28,45,A Little Low
-,Aesthetic Appreciation,,24,35,Low
-,Emotionality,,28,45,A Little Low
-,Imagination,,30,50,Average
-,Intellect,,18,20,Very Low
-,Liberalism,,15,12,Very Low
-,,,,,
-Agreeableness,,,95,14,Very Low
-,Altruism,,18,20,Very Low
-,Cooperation,,11,2,Very Low
-,Modesty/Humility,,12,5,Very Low
-,Morality,,14,10,Very Low
-,Sympathy,,16,15,Very Low
-,Trust,,24,35,Low
-,,,,,
-Conscientiousness ,,,189,53,Average
-,Achievement-Striving,,43,82,Very High
-,Cautiousness,,18,20,Very Low
-,Dutifulness,,21,27,Low
-,Orderliness,,29,47,Average
-,Self-Discipline,,41,77,High
-,Self-Efficacy,,37,67,High
+Score:,Facet,Raw,Percent,Meaning
+Neuroticism ,,166,44,A Little Low
+,Anger,40,75,High
+,Anxiety,28,45,A Little Low
+,Depression,17,17,Very Low
+,Immoderation,38,70,High
+,Self-consciousness,19,22,Low
+,Vulnerability,24,35,Low
+,,,,
+Extraversion ,,228,70,High
+,Activity-Level,33,57,A Little High
+,Assertiveness,49,97,Very High
+,Cheerfulness,32,55,A Little High
+,Excitement-Seeking,34,60,A Little High
+,Friendliness,37,67,High
+,Gregariousness,43,82,Very High
+,,,,
+Openness ,,143,34,Low
+,Adventurousness,28,45,A Little Low
+,Aesthetic Appreciation,24,35,Low
+,Emotionality,28,45,A Little Low
+,Imagination,30,50,Average
+,Intellect,18,20,Very Low
+,Liberalism,15,12,Very Low
+,,,,
+Agreeableness,,95,14,Very Low
+,Altruism,18,20,Very Low
+,Cooperation,11,2,Very Low
+,Modesty/Humility,12,5,Very Low
+,Morality,14,10,Very Low
+,Sympathy,16,15,Very Low
+,Trust,24,35,Low
+,,,,
+Conscientiousness ,,189,53,Average
+,Achievement-Striving,43,82,Very High
+,Cautiousness,18,20,Very Low
+,Dutifulness,21,27,Low
+,Orderliness,29,47,Average
+,Self-Discipline,41,77,High
+,Self-Efficacy,37,67,High
