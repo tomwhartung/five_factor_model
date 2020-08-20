@@ -1,19 +1,20 @@
-Score:,Facet,Raw,Percent,Meaning
+Donald Trump,,,,
+Factor/NEO-PI-R Facet¹,IPIP Facet²,Raw,Percent,Meaning
 Neuroticism ,,166,44,A Little Low
-,Anger,40,75,High
-,Anxiety,28,45,A Little Low
-,Depression,17,17,Very Low
-,Immoderation,38,70,High
-,Self-consciousness,19,22,Low
-,Vulnerability,24,35,Low
+N2: Angry Hostility,Anger,40,75,High
+N1: Anxiety,Anxiety,28,45,A Little Low
+N3: Depression,Depression,17,17,Very Low
+N5: Impulsiveness,Immoderation,38,70,High
+N4: Self-consciousness,Self-consciousness,19,22,Low
+N6: Vulnerability,Vulnerability,24,35,Low
 ,,,,
 Extraversion ,,228,70,High
-,Activity-Level,33,57,A Little High
-,Assertiveness,49,97,Very High
-,Cheerfulness,32,55,A Little High
-,Excitement-Seeking,34,60,A Little High
-,Friendliness,37,67,High
-,Gregariousness,43,82,Very High
+E4: Activity,Activity-Level,33,57,A Little High
+E3: Assertiveness,Assertiveness,49,97,Very High
+E6: Positive Emotions,Cheerfulness,32,55,A Little High
+E5: Excitement-Seeking,Excitement-Seeking,34,60,A Little High
+E1: Warmth,Friendliness,37,67,High
+E2: Gregariousness,Gregariousness,43,82,Very High
 ,,,,
 Openness ,,143,34,Low
 ,Adventurousness,28,45,A Little Low
