@@ -17,25 +17,25 @@ E1: Warmth,Friendliness,37,67,High
 E2: Gregariousness,Gregariousness,43,82,Very High
 ,,,,
 Openness ,,143,34,Low
-,Adventurousness,28,45,A Little Low
-,Aesthetic Appreciation,24,35,Low
-,Emotionality,28,45,A Little Low
-,Imagination,30,50,Average
-,Intellect,18,20,Very Low
-,Liberalism,15,12,Very Low
+O4: Actions,Adventurousness,28,45,A Little Low
+O2: Aesthetics,Aesthetic Appreciation,24,35,Low
+O3: Feelings,Emotionality,28,45,A Little Low
+O1: Fantasy,Imagination,30,50,Average
+O5: Ideas,Intellect,18,20,Very Low
+O6: Values,Liberalism,15,12,Very Low
 ,,,,
 Agreeableness,,95,14,Very Low
-,Altruism,18,20,Very Low
-,Cooperation,11,2,Very Low
-,Modesty/Humility,12,5,Very Low
-,Morality,14,10,Very Low
-,Sympathy,16,15,Very Low
-,Trust,24,35,Low
+A3: Altruism,Altruism,18,20,Very Low
+A4: Compliance,Cooperation,11,2,Very Low
+A5: Modesty,Modesty/Humility,12,5,Very Low
+A2: Straightforwardness,Morality,14,10,Very Low
+A6: Tender- Mindedness,Sympathy,16,15,Very Low
+A1: Trust,Trust,24,35,Low
 ,,,,
 Conscientiousness ,,189,53,Average
-,Achievement-Striving,43,82,Very High
-,Cautiousness,18,20,Very Low
-,Dutifulness,21,27,Low
-,Orderliness,29,47,Average
-,Self-Discipline,41,77,High
-,Self-Efficacy,37,67,High
+C4: Achievement-Striving,Achievement-Striving,43,82,Very High
+C6: Deliberation,Cautiousness,18,20,Very Low
+C3: Dutifulness,Dutifulness,21,27,Low
+C2: Order,Orderliness,29,47,Average
+C5: Self-Discipline,Self-Discipline,41,77,High
+C1: Competence,Self-Efficacy,37,67,High
