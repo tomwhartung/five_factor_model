@@ -1,40 +1,40 @@
-Score:,Facet,,Raw,Percent,Meaning
-Neuroticism ,,,134,30,Low
-,Anger,,22,30,Low
-,Anxiety,,23,32,Low
-,Depression,,18,20,Very Low
-,Immoderation,,19,22,Low
-,Self-consciousness,,32,55,A Little High
-,Vulnerability,,20,25,Low
-,,,,,
-Extraversion ,,,141,33,Low
-,Activity-Level,,24,35,Low
-,Assertiveness,,17,17,Very Low
-,Cheerfulness,,34,60,A Little High
-,Excitement-Seeking,,17,17,Very Low
-,Friendliness,,28,45,A Little Low
-,Gregariousness,,21,27,Low
-,,,,,
-Openness ,,,245,77,High
-,Adventurousness,,36,65,High
-,Aesthetic Appreciation,,45,87,Very High
-,Emotionality,,35,62,A Little High
-,Imagination,,44,85,Very High
-,Intellect,,47,92,Very High
-,Liberalism,,38,70,High
-,,,,,
-Agreeableness,,,246,77,High
-,Altruism,,37,67,High
-,Cooperation,,44,85,Very High
-,Modesty/Humility,,40,75,High
-,Morality,,46,90,Very High
-,Sympathy,,39,72,High
-,Trust,,40,75,High
-,,,,,
-Conscientiousness ,,,254,80,Very High
-,Achievement-Striving,,44,85,Very High
-,Cautiousness,,40,75,High
-,Dutifulness,,46,90,Very High
-,Orderliness,,40,75,High
-,Self-Discipline,,41,77,High
-,Self-Efficacy,,43,82,Very High
+Tom Hartung,,,,
+Neuroticism ,,134,30,Low
+,Anger,22,30,Low
+,Anxiety,23,32,Low
+,Depression,18,20,Very Low
+,Immoderation,19,22,Low
+,Self-consciousness,32,55,A Little High
+,Vulnerability,20,25,Low
+,,,,
+Extraversion ,,141,33,Low
+,Activity-Level,24,35,Low
+,Assertiveness,17,17,Very Low
+,Cheerfulness,34,60,A Little High
+,Excitement-Seeking,17,17,Very Low
+,Friendliness,28,45,A Little Low
+,Gregariousness,21,27,Low
+,,,,
+Openness ,,245,77,High
+,Adventurousness,36,65,High
+,Aesthetic Appreciation,45,87,Very High
+,Emotionality,35,62,A Little High
+,Imagination,44,85,Very High
+,Intellect,47,92,Very High
+,Liberalism,38,70,High
+,,,,
+Agreeableness,,246,77,High
+,Altruism,37,67,High
+,Cooperation,44,85,Very High
+,Modesty/Humility,40,75,High
+,Morality,46,90,Very High
+,Sympathy,39,72,High
+,Trust,40,75,High
+,,,,
+Conscientiousness ,,254,80,Very High
+,Achievement-Striving,44,85,Very High
+,Cautiousness,40,75,High
+,Dutifulness,46,90,Very High
+,Orderliness,40,75,High
+,Self-Discipline,41,77,High
+,Self-Efficacy,43,82,Very High
