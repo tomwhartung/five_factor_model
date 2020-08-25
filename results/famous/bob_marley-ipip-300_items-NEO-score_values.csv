@@ -1,40 +1,41 @@
-Score:,Facet,,Raw,Percent,Meaning
-Neuroticism ,,,134,30,Low
-,Anger,,20,25,Low
-,Anxiety,,23,32,Low
-,Depression,,20,25,Low
-,Immoderation,,27,42,A Little Low
-,Self-consciousness,,22,30,Low
-,Vulnerability,,22,30,Low
-,,,,,
-Extraversion ,,,223,67,High
-,Activity-Level,,32,55,A Little High
-,Assertiveness,,40,75,High
-,Cheerfulness,,41,77,High
-,Excitement-Seeking,,32,55,A Little High
-,Friendliness,,41,77,High
-,Gregariousness,,37,67,High
-,,,,,
-Openness ,,,247,77,High
-,Adventurousness,,37,67,High
-,Aesthetic Appreciation,,47,92,Very High
-,Emotionality,,39,72,High
-,Imagination,,41,77,High
-,Intellect,,44,85,Very High
-,Liberalism,,39,72,High
-,,,,,
-Agreeableness,,,229,70,High
-,Altruism,,45,87,Very High
-,Cooperation,,35,62,A Little High
-,Modesty/Humility,,31,52,Average
-,Morality,,36,65,High
-,Sympathy,,43,82,Very High
-,Trust,,39,72,High
-,,,,,
-Conscientiousness ,,,213,63,A Little High
-,Achievement-Striving,,40,75,High
-,Cautiousness,,34,60,A Little High
-,Dutifulness,,40,75,High
-,Orderliness,,28,45,A Little Low
-,Self-Discipline,,34,60,A Little High
-,Self-Efficacy,,37,67,High
+Score:,Facet,Raw,Percent,Meaning
+
+Neuroticism ,,134,30,Low
+,Anger,20,25,Low
+,Anxiety,23,32,Low
+,Depression,20,25,Low
+,Immoderation,27,42,A Little Low
+,Self-consciousness,22,30,Low
+,Vulnerability,22,30,Low
+,,,,
+Extraversion ,,223,67,High
+,Activity-Level,32,55,A Little High
+,Assertiveness,40,75,High
+,Cheerfulness,41,77,High
+,Excitement-Seeking,32,55,A Little High
+,Friendliness,41,77,High
+,Gregariousness,37,67,High
+,,,,
+Openness ,,247,77,High
+,Adventurousness,37,67,High
+,Aesthetic Appreciation,47,92,Very High
+,Emotionality,39,72,High
+,Imagination,41,77,High
+,Intellect,44,85,Very High
+,Liberalism,39,72,High
+,,,,
+Agreeableness,,229,70,High
+,Altruism,45,87,Very High
+,Cooperation,35,62,A Little High
+,Modesty/Humility,31,52,Average
+,Morality,36,65,High
+,Sympathy,43,82,Very High
+,Trust,39,72,High
+,,,,
+Conscientiousness ,,213,63,A Little High
+,Achievement-Striving,40,75,High
+,Cautiousness,34,60,A Little High
+,Dutifulness,40,75,High
+,Orderliness,28,45,A Little Low
+,Self-Discipline,34,60,A Little High
+,Self-Efficacy,37,67,High
