@@ -1,41 +1,41 @@
- Score:,Facet,,Raw,Percent,Meaning
+ Score:,Facet,Raw,Percent,Meaning
 Factor/NEO-PI-R Facet¹,IPIP Facet²,Raw,Percent,Meaning
- Neuroticism ,,,118,24,Low
-N2: Angry Hostility ,Anger,,20,25,Low
-N1: Anxiety ,Anxiety,,17,17,Very Low
-N3: Depression ,Depression,,20,25,Low
-N5: Impulsiveness ,Immoderation,,24,35,Low
-N4: Self-Consciousness ,Self-consciousness,,22,30,Low
-N6: Vulnerability ,Vulnerability,,15,12,Very Low
- ,,,,,
- Extraversion ,,,189,53,Average
-E4: Activity ,Activity-Level,,34,60,A Little High
-E3: Assertiveness ,Assertiveness,,35,62,A Little High
-E6: Positive Emotions ,Cheerfulness,,30,50,Average
-E5: Excitement-Seeking ,Excitement-Seeking,,26,40,A Little Low
-E1: Warmth ,Friendliness,,34,60,A Little High
-E2: Gregariousness ,Gregariousness,,30,50,Average
- ,,,,,
- Openness ,,,182,50,Average
-O4: Actions ,Adventurousness,,33,57,A Little High
-O2: Aesthetics ,Aesthetic Appreciation,,36,65,High
-O3: Feelings ,Emotionality,,21,27,Low
-O1: Fantasy ,Imagination,,28,45,A Little Low
-O5: Ideas ,Intellect,,39,72,High
-O6: Values ,Liberalism,,25,37,A Little Low
- ,,,,,
- Agreeableness,,,199,57,A Little High
-A3: Altruism ,Altruism,,38,70,High
-A4: Compliance ,Cooperation,,34,60,A Little High
-A5: Modesty ,Modesty/Humility,,32,55,A Little High
-A2: Straightforwardness ,Morality,,32,55,A Little High
-A6: Tender- Mindedness ,Sympathy,,27,42,A Little Low
-A1: Trust ,Trust,,36,65,High
- ,,,,,
- Conscientiousness ,,,230,70,High
-C4: Achievement-Striving ,Achievement-Striving,,38,70,High
-C6: Deliberation ,Cautiousness,,38,70,High
-C3: Dutifulness ,Dutifulness,,36,65,High
-C2: Order ,Orderliness,,38,70,High
-C5: Self-Discipline ,Self-Discipline,,40,75,High
-C1: Competence,Self-Efficacy,40,75,High ,Self-Efficacy,,40,75,High
+ Neuroticism ,,118,24,Low
+N2: Angry Hostility ,Anger,20,25,Low
+N1: Anxiety ,Anxiety,17,17,Very Low
+N3: Depression ,Depression,20,25,Low
+N5: Impulsiveness ,Immoderation,24,35,Low
+N4: Self-Consciousness ,Self-consciousness,22,30,Low
+N6: Vulnerability ,Vulnerability,15,12,Very Low
+ ,,,,
+ Extraversion ,,189,53,Average
+E4: Activity ,Activity-Level,34,60,A Little High
+E3: Assertiveness ,Assertiveness,35,62,A Little High
+E6: Positive Emotions ,Cheerfulness,30,50,Average
+E5: Excitement-Seeking ,Excitement-Seeking,26,40,A Little Low
+E1: Warmth ,Friendliness,34,60,A Little High
+E2: Gregariousness ,Gregariousness,30,50,Average
+ ,,,,
+ Openness ,,182,50,Average
+O4: Actions ,Adventurousness,33,57,A Little High
+O2: Aesthetics ,Aesthetic Appreciation,36,65,High
+O3: Feelings ,Emotionality,21,27,Low
+O1: Fantasy ,Imagination,28,45,A Little Low
+O5: Ideas ,Intellect,39,72,High
+O6: Values ,Liberalism,25,37,A Little Low
+ ,,,,
+ Agreeableness,,199,57,A Little High
+A3: Altruism ,Altruism,38,70,High
+A4: Compliance ,Cooperation,34,60,A Little High
+A5: Modesty ,Modesty/Humility,32,55,A Little High
+A2: Straightforwardness ,Morality,32,55,A Little High
+A6: Tender- Mindedness ,Sympathy,27,42,A Little Low
+A1: Trust ,Trust,36,65,High
+ ,,,,
+ Conscientiousness ,,230,70,High
+C4: Achievement-Striving ,Achievement-Striving,38,70,High
+C6: Deliberation ,Cautiousness,38,70,High
+C3: Dutifulness ,Dutifulness,36,65,High
+C2: Order ,Orderliness,38,70,High
+C5: Self-Discipline ,Self-Discipline,40,75,High
+C1: Competence,Self-Efficacy,40,75,High ,Self-Efficacy,40,75,High
