@@ -1,41 +1,41 @@
-Susan Fowler,Facet,,Raw,Percent,Meaning
-
-Neuroticism ,,,137,32,Low
-,Anger,,20,25,Low
-,Anxiety,,24,35,Low
-,Depression,,22,30,Low
-,Immoderation,,21,27,Low
-,Self-consciousness,,29,47,Average
-,Vulnerability,,21,27,Low
-,,,,,
-Extraversion ,,,174,47,Average
-,Activity-Level,,28,45,A Little Low
-,Assertiveness,,26,40,A Little Low
-,Cheerfulness,,35,62,A Little High
-,Excitement-Seeking,,22,30,Low
-,Friendliness,,38,70,High
-,Gregariousness,,25,37,A Little Low
-,,,,,
-Openness ,,,236,73,High
-,Adventurousness,,38,70,High
-,Aesthetic Appreciation,,41,77,High
-,Emotionality,,39,72,High
-,Imagination,,41,77,High
-,Intellect,,47,92,Very High
-,Liberalism,,30,50,Average
-,,,,,
-Agreeableness,,,233,72,High
-,Altruism,,41,77,High
-,Cooperation,,40,75,High
-,Modesty/Humility,,35,62,A Little High
-,Morality,,40,75,High
-,Sympathy,,39,72,High
-,Trust,,38,70,High
-,,,,,
-Conscientiousness ,,,247,77,High
-,Achievement-Striving,,43,82,Very High
-,Cautiousness,,42,80,Very High
-,Dutifulness,,44,85,Very High
-,Orderliness,,41,77,High
-,Self-Discipline,,38,70,High
-,Self-Efficacy,,39,72,High
+ Susan Fowler,Facet,,Raw,Percent,Meaning
+Factor/NEO-PI-R Facet¹,IPIP Facet²,Raw,Percent,Meaning
+ Neuroticism ,,,137,32,Low
+N2: Angry Hostility ,Anger,,20,25,Low
+N1: Anxiety ,Anxiety,,24,35,Low
+N3: Depression ,Depression,,22,30,Low
+N5: Impulsiveness ,Immoderation,,21,27,Low
+N4: Self-Consciousness ,Self-consciousness,,29,47,Average
+N6: Vulnerability ,Vulnerability,,21,27,Low
+ ,,,,,
+ Extraversion ,,,174,47,Average
+E4: Activity ,Activity-Level,,28,45,A Little Low
+E3: Assertiveness ,Assertiveness,,26,40,A Little Low
+E6: Positive Emotions ,Cheerfulness,,35,62,A Little High
+E5: Excitement-Seeking ,Excitement-Seeking,,22,30,Low
+E1: Warmth ,Friendliness,,38,70,High
+E2: Gregariousness ,Gregariousness,,25,37,A Little Low
+ ,,,,,
+ Openness ,,,236,73,High
+O4: Actions ,Adventurousness,,38,70,High
+O2: Aesthetics ,Aesthetic Appreciation,,41,77,High
+O3: Feelings ,Emotionality,,39,72,High
+O1: Fantasy ,Imagination,,41,77,High
+O5: Ideas ,Intellect,,47,92,Very High
+O6: Values ,Liberalism,,30,50,Average
+ ,,,,,
+ Agreeableness,,,233,72,High
+A3: Altruism ,Altruism,,41,77,High
+A4: Compliance ,Cooperation,,40,75,High
+A5: Modesty ,Modesty/Humility,,35,62,A Little High
+A2: Straightforwardness ,Morality,,40,75,High
+A6: Tender-Mindedness ,Sympathy,,39,72,High
+A1: Trust ,Trust,,38,70,High
+ ,,,,,
+ Conscientiousness ,,,247,77,High
+C4: Achievement-Striving ,Achievement-Striving,,43,82,Very High
+C6: Deliberation ,Cautiousness,,42,80,Very High
+C3: Dutifulness ,Dutifulness,,44,85,Very High
+C2: Order ,Orderliness,,41,77,High
+C5: Self-Discipline ,Self-Discipline,,38,70,High
+C1: Competence ,Self-Efficacy,,39,72,High
