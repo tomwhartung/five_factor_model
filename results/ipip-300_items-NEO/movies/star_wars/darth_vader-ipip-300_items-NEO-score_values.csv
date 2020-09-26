@@ -1,0 +1,44 @@
+Darth Vader,,,,
+Factor/NEO-PI-R Facet¹,IPIP Facet²,Raw,Percent,Meaning
+Neuroticism ,,163,42,A Little Low
+N2: Angry Hostility ,Anger,45,87,Very High
+N1: Anxiety ,Anxiety,28,45,A Little Low
+N3: Depression ,Depression,21,27,Low
+N5: Impulsiveness ,Immoderation,25,37,A Little Low
+N4: Self-Consciousness ,Self-consciousness,20,25,Low
+N6: Vulnerability ,Vulnerability,24,35,Low
+,,,,
+Extraversion ,,185,52,Average
+E4: Activity ,Activity-Level,38,70,High
+E3: Assertiveness ,Assertiveness,46,90,Very High
+E6: Positive Emotions ,Cheerfulness,18,20,Very Low
+E5: Excitement-Seeking ,Excitement-Seeking,28,45,A Little Low
+E1: Warmth ,Friendliness,28,45,A Little Low
+E2: Gregariousness ,Gregariousness,27,42,A Little Low
+,,,,
+Openness ,,148,36,Low
+O4: Actions ,Adventurousness,25,37,A Little Low
+O2: Aesthetics ,Aesthetic Appreciation,23,32,Low
+O3: Feelings ,Emotionality,28,45,A Little Low
+O1: Fantasy ,Imagination,28,45,A Little Low
+O5: Ideas ,Intellect,25,37,A Little Low
+O6: Values ,Liberalism,19,22,Low
+,,,,
+Agreeableness,,103,17,Very Low
+A3: Altruism ,Altruism,12,5,Very Low
+A4: Compliance ,Cooperation,13,7,Very Low
+A5: Modesty ,Modesty/Humility,18,20,Very Low
+A2: Straightforwardness ,Morality,23,32,Low
+A6: Tender-Mindedness ,Sympathy,15,12,Very Low
+A1: Trust ,Trust,22,30,Low
+,,,,
+Conscientiousness ,,210,62,A Little High
+C4: Achievement-Striving ,Achievement-Striving,42,80,Very High
+C6: Deliberation ,Cautiousness,31,52,Average
+C3: Dutifulness ,Dutifulness,25,37,A Little Low
+C2: Order ,Orderliness,37,67,High
+C5: Self-Discipline ,Self-Discipline,40,75,High
+C1: Competence,Self-Efficacy,35,62,A Little High
+,,,,
+"¹ NEO-PI-R Facets come from Personality in Adulthood by Costa and McRae, 2003.",,,,
+² IPIP Facets come from the TedoneItemAssignmentTable spreadsheet containing these items.,,,,
