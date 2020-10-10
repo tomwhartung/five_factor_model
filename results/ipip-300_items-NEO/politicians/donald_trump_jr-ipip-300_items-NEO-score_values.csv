@@ -1,0 +1,44 @@
+Donald Trump Jr.,,,,
+Factor/NEO-PI-R Facet¹,IPIP Facet²,Raw,Percent,Meaning
+Neuroticism ,,129,28,Low
+N2: Angry Hostility ,Anger,32,55,A Little High
+N1: Anxiety ,Anxiety,17,17,Very Low
+N3: Depression ,Depression,17,17,Very Low
+N5: Impulsiveness ,Immoderation,28,45,A Little Low
+N4: Self-Consciousness ,Self-consciousness,15,12,Very Low
+N6: Vulnerability ,Vulnerability,20,25,Low
+,,,,
+Extraversion ,,240,75,High
+E4: Activity ,Activity-Level,34,60,A Little High
+E3: Assertiveness ,Assertiveness,49,97,Very High
+E6: Positive Emotions ,Cheerfulness,37,67,High
+E5: Excitement-Seeking ,Excitement-Seeking,39,72,High
+E1: Warmth ,Friendliness,40,75,High
+E2: Gregariousness ,Gregariousness,41,77,High
+,,,,
+Openness ,,144,35,Low
+O4: Actions ,Adventurousness,25,37,A Little Low
+O2: Aesthetics ,Aesthetic Appreciation,33,57,A Little High
+O3: Feelings ,Emotionality,20,25,Low
+O1: Fantasy ,Imagination,30,50,Average
+O5: Ideas ,Intellect,26,40,A Little Low
+O6: Values ,Liberalism,10,0,Very Low
+,,,,
+Agreeableness,,116,23,Low
+A3: Altruism ,Altruism,21,27,Low
+A4: Compliance ,Cooperation,17,17,Very Low
+A5: Modesty ,Modesty/Humility,15,12,Very Low
+A2: Straightforwardness ,Morality,26,40,A Little Low
+A6: Tender-Mindedness ,Sympathy,11,2,Very Low
+A1: Trust ,Trust,26,40,A Little Low
+,,,,
+Conscientiousness ,,232,71,High
+C4: Achievement-Striving ,Achievement-Striving,43,82,Very High
+C6: Deliberation ,Cautiousness,37,67,High
+C3: Dutifulness ,Dutifulness,34,60,A Little High
+C2: Order ,Orderliness,37,67,High
+C5: Self-Discipline ,Self-Discipline,40,75,High
+C1: Competence,Self-Efficacy,41,77,High
+,,,,
+"¹ NEO-PI-R Facets come from Personality in Adulthood by Costa and McRae, 2003.",,,,
+² IPIP Facets come from the TedoneItemAssignmentTable spreadsheet containing these items.,,,,
