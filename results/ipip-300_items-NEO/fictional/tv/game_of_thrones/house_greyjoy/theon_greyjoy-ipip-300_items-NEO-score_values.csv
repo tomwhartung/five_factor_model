@@ -1,0 +1,44 @@
+Theon Greyjoy,,,,
+Factor/NEO-PI-R Facet¹,IPIP Facet²,Raw,Percent,Meaning
+Neuroticism ,,160,41,A Little Low
+N2: Angry Hostility ,Anger,38,70,High
+N1: Anxiety ,Anxiety,26,40,A Little Low
+N3: Depression ,Depression,17,17,Very Low
+N5: Impulsiveness ,Immoderation,31,52,Average
+N4: Self-Consciousness ,Self-consciousness,23,32,Low
+N6: Vulnerability ,Vulnerability,25,37,A Little Low
+,,,,
+Extraversion ,,202,59,A Little High
+E4: Activity ,Activity-Level,28,45,A Little Low
+E3: Assertiveness ,Assertiveness,45,87,Very High
+E6: Positive Emotions ,Cheerfulness,26,40,A Little Low
+E5: Excitement-Seeking ,Excitement-Seeking,37,67,High
+E1: Warmth ,Friendliness,31,52,Average
+E2: Gregariousness ,Gregariousness,35,62,A Little High
+,,,,
+Openness ,,151,37,A Little Low
+O4: Actions ,Adventurousness,25,37,A Little Low
+O2: Aesthetics ,Aesthetic Appreciation,25,37,A Little Low
+O3: Feelings ,Emotionality,23,32,Low
+O1: Fantasy ,Imagination,33,57,A Little High
+O5: Ideas ,Intellect,22,30,Low
+O6: Values ,Liberalism,23,32,Low
+,,,,
+Agreeableness,,114,22,Low
+A3: Altruism ,Altruism,17,17,Very Low
+A4: Compliance ,Cooperation,17,17,Very Low
+A5: Modesty ,Modesty/Humility,15,12,Very Low
+A2: Straightforwardness ,Morality,22,30,Low
+A6: Tender-Mindedness ,Sympathy,16,15,Very Low
+A1: Trust ,Trust,27,42,A Little Low
+,,,,
+Conscientiousness ,,182,50,Average
+C4: Achievement-Striving ,Achievement-Striving,34,60,A Little High
+C6: Deliberation ,Cautiousness,26,40,A Little Low
+C3: Dutifulness ,Dutifulness,26,40,A Little Low
+C2: Order ,Orderliness,27,42,A Little Low
+C5: Self-Discipline ,Self-Discipline,36,65,High
+C1: Competence,Self-Efficacy,33,57,A Little High
+,,,,
+"¹ NEO-PI-R Facets come from Personality in Adulthood by Costa and McRae, 2003.",,,,
+² IPIP Facets come from the TedoneItemAssignmentTable spreadsheet containing these items.,,,,
