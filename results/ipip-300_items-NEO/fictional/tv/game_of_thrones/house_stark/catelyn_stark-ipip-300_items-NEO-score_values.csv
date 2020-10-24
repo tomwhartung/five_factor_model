@@ -1,0 +1,44 @@
+Catelyn Stark,,,,
+Factor/NEO-PI-R Facet¹,IPIP Facet²,Raw,Percent,Meaning
+Neuroticism ,,161,42,A Little Low
+N2: Angry Hostility ,Anger,39,72,High
+N1: Anxiety ,Anxiety,32,55,A Little High
+N3: Depression ,Depression,19,22,Low
+N5: Impulsiveness ,Immoderation,24,35,Low
+N4: Self-Consciousness ,Self-consciousness,24,35,Low
+N6: Vulnerability ,Vulnerability,23,32,Low
+,,,,
+Extraversion ,,192,55,A Little High
+E4: Activity ,Activity-Level,33,57,A Little High
+E3: Assertiveness ,Assertiveness,39,72,High
+E6: Positive Emotions ,Cheerfulness,22,30,Low
+E5: Excitement-Seeking ,Excitement-Seeking,23,32,Low
+E1: Warmth ,Friendliness,38,70,High
+E2: Gregariousness ,Gregariousness,37,67,High
+,,,,
+Openness ,,153,38,A Little Low
+O4: Actions ,Adventurousness,22,30,Low
+O2: Aesthetics ,Aesthetic Appreciation,31,52,Average
+O3: Feelings ,Emotionality,32,55,A Little High
+O1: Fantasy ,Imagination,24,35,Low
+O5: Ideas ,Intellect,22,30,Low
+O6: Values ,Liberalism,22,30,Low
+,,,,
+Agreeableness,,173,47,Average
+A3: Altruism ,Altruism,32,55,A Little High
+A4: Compliance ,Cooperation,24,35,Low
+A5: Modesty ,Modesty/Humility,28,45,A Little Low
+A2: Straightforwardness ,Morality,32,55,A Little High
+A6: Tender-Mindedness ,Sympathy,31,52,Average
+A1: Trust ,Trust,26,40,A Little Low
+,,,,
+Conscientiousness ,,238,74,High
+C4: Achievement-Striving ,Achievement-Striving,40,75,High
+C6: Deliberation ,Cautiousness,40,75,High
+C3: Dutifulness ,Dutifulness,40,75,High
+C2: Order ,Orderliness,40,75,High
+C5: Self-Discipline ,Self-Discipline,38,70,High
+C1: Competence,Self-Efficacy,40,75,High
+,,,,
+"¹ NEO-PI-R Facets come from Personality in Adulthood by Costa and McRae, 2003.",,,,
+² IPIP Facets come from the TedoneItemAssignmentTable spreadsheet containing these items.,,,,
