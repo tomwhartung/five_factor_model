@@ -1,0 +1,44 @@
+Shae:,,,,
+Factor/NEO-PI-R Facet¹,IPIP Facet²,Raw,Percent,Meaning
+Neuroticism ,,160,41,A Little Low
+N2: Angry Hostility ,Anger,29,47,Average
+N1: Anxiety ,Anxiety,20,25,Low
+N3: Depression ,Depression,34,60,A Little High
+N5: Impulsiveness ,Immoderation,26,40,A Little Low
+N4: Self-Consciousness ,Self-consciousness,26,40,A Little Low
+N6: Vulnerability ,Vulnerability,25,37,A Little Low
+,,,,
+Extraversion ,,197,57,A Little High
+E4: Activity ,Activity-Level,26,40,A Little Low
+E3: Assertiveness ,Assertiveness,29,47,Average
+E6: Positive Emotions ,Cheerfulness,40,75,High
+E5: Excitement-Seeking ,Excitement-Seeking,40,75,High
+E1: Warmth ,Friendliness,36,65,High
+E2: Gregariousness ,Gregariousness,26,40,A Little Low
+,,,,
+Openness ,,186,52,Average
+O4: Actions ,Adventurousness,31,52,Average
+O2: Aesthetics ,Aesthetic Appreciation,36,65,High
+O3: Feelings ,Emotionality,28,45,A Little Low
+O1: Fantasy ,Imagination,33,57,A Little High
+O5: Ideas ,Intellect,20,25,Low
+O6: Values ,Liberalism,38,70,High
+,,,,
+Agreeableness,,184,51,Average
+A3: Altruism ,Altruism,34,60,A Little High
+A4: Compliance ,Cooperation,26,40,A Little Low
+A5: Modesty ,Modesty/Humility,40,75,High
+A2: Straightforwardness ,Morality,30,50,Average
+A6: Tender-Mindedness ,Sympathy,28,45,A Little Low
+A1: Trust ,Trust,26,40,A Little Low
+,,,,
+Conscientiousness ,,184,51,Average
+C4: Achievement-Striving ,Achievement-Striving,30,50,Average
+C6: Deliberation ,Cautiousness,26,40,A Little Low
+C3: Dutifulness ,Dutifulness,30,50,Average
+C2: Order ,Orderliness,30,50,Average
+C5: Self-Discipline ,Self-Discipline,38,70,High
+C1: Competence,Self-Efficacy,30,50,Average
+,,,,
+"¹ NEO-PI-R Facets come from Personality in Adulthood by Costa and McRae, 2003.",,,,
+² IPIP Facets come from the TedoneItemAssignmentTable spreadsheet containing these items.,,,,
