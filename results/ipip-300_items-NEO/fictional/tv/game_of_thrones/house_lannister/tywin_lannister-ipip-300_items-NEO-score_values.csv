@@ -1,0 +1,44 @@
+Tywin Lannister,,,,
+Factor/NEO-PI-R Facet¹,IPIP Facet²,Raw,Percent,Meaning
+Neuroticism ,,128,28,Low
+N2: Angry Hostility ,Anger,35,62,A Little High
+N1: Anxiety ,Anxiety,16,15,Very Low
+N3: Depression ,Depression,14,10,Very Low
+N5: Impulsiveness ,Immoderation,27,42,A Little Low
+N4: Self-Consciousness ,Self-consciousness,20,25,Low
+N6: Vulnerability ,Vulnerability,16,15,Very Low
+,,,,
+Extraversion ,,165,43,A Little Low
+E4: Activity ,Activity-Level,30,50,Average
+E3: Assertiveness ,Assertiveness,43,82,Very High
+E6: Positive Emotions ,Cheerfulness,20,25,Low
+E5: Excitement-Seeking ,Excitement-Seeking,19,22,Low
+E1: Warmth ,Friendliness,31,52,Average
+E2: Gregariousness ,Gregariousness,22,30,Low
+,,,,
+Openness ,,123,26,Low
+O4: Actions ,Adventurousness,22,30,Low
+O2: Aesthetics ,Aesthetic Appreciation,23,32,Low
+O3: Feelings ,Emotionality,19,22,Low
+O1: Fantasy ,Imagination,19,22,Low
+O5: Ideas ,Intellect,24,35,Low
+O6: Values ,Liberalism,16,15,Very Low
+,,,,
+Agreeableness,,100,16,Very Low
+A3: Altruism ,Altruism,16,15,Very Low
+A4: Compliance ,Cooperation,12,5,Very Low
+A5: Modesty ,Modesty/Humility,26,40,A Little Low
+A2: Straightforwardness ,Morality,17,17,Very Low
+A6: Tender-Mindedness ,Sympathy,16,15,Very Low
+A1: Trust ,Trust,13,7,Very Low
+,,,,
+Conscientiousness ,,231,71,High
+C4: Achievement-Striving ,Achievement-Striving,42,80,Very High
+C6: Deliberation ,Cautiousness,42,80,Very High
+C3: Dutifulness ,Dutifulness,29,47,Average
+C2: Order ,Orderliness,39,72,High
+C5: Self-Discipline ,Self-Discipline,40,75,High
+C1: Competence,Self-Efficacy,39,72,High
+,,,,
+"¹ NEO-PI-R Facets come from Personality in Adulthood by Costa and McRae, 2003.",,,,
+² IPIP Facets come from the TedoneItemAssignmentTable spreadsheet containing these items.,,,,
