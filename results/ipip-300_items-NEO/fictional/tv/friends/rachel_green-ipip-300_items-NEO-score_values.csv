@@ -1,0 +1,44 @@
+Rachel Green,,,,
+Factor/NEO-PI-R Facet¹,IPIP Facet²,Raw,Percent,Meaning
+Neuroticism ,,161,42,A Little Low
+N2: Angry Hostility ,Anger,26,40,A Little Low
+N1: Anxiety ,Anxiety,26,40,A Little Low
+N3: Depression ,Depression,21,27,Low
+N5: Impulsiveness ,Immoderation,26,40,A Little Low
+N4: Self-Consciousness ,Self-consciousness,32,55,A Little High
+N6: Vulnerability ,Vulnerability,30,50,Average
+,,,,
+Extraversion ,,195,56,A Little High
+E4: Activity ,Activity-Level,28,45,A Little Low
+E3: Assertiveness ,Assertiveness,30,50,Average
+E6: Positive Emotions ,Cheerfulness,36,65,High
+E5: Excitement-Seeking ,Excitement-Seeking,24,35,Low
+E1: Warmth ,Friendliness,38,70,High
+E2: Gregariousness ,Gregariousness,39,72,High
+,,,,
+Openness ,,169,45,A Little Low
+O4: Actions ,Adventurousness,27,42,A Little Low
+O2: Aesthetics ,Aesthetic Appreciation,37,67,High
+O3: Feelings ,Emotionality,28,45,A Little Low
+O1: Fantasy ,Imagination,26,40,A Little Low
+O5: Ideas ,Intellect,20,25,Low
+O6: Values ,Liberalism,31,52,Average
+,,,,
+Agreeableness,,208,61,A Little High
+A3: Altruism ,Altruism,38,70,High
+A4: Compliance ,Cooperation,36,65,High
+A5: Modesty ,Modesty/Humility,26,40,A Little Low
+A2: Straightforwardness ,Morality,38,70,High
+A6: Tender-Mindedness ,Sympathy,30,50,Average
+A1: Trust ,Trust,40,75,High
+,,,,
+Conscientiousness ,,175,47,Average
+C4: Achievement-Striving ,Achievement-Striving,28,45,A Little Low
+C6: Deliberation ,Cautiousness,24,35,Low
+C3: Dutifulness ,Dutifulness,38,70,High
+C2: Order ,Orderliness,24,35,Low
+C5: Self-Discipline ,Self-Discipline,31,52,Average
+C1: Competence,Self-Efficacy,30,50,Average
+,,,,
+"¹ NEO-PI-R Facets come from Personality in Adulthood by Costa and McRae, 2003.",,,,
+² IPIP Facets come from the TedoneItemAssignmentTable spreadsheet containing these items.,,,,
