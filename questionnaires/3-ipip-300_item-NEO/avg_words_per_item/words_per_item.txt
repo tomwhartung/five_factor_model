@@ -1,4 +1,8 @@
 
+Average
+-------
+Each item has an average of 4-5 words.
+
  $ wc -l all_items.txt
 300 all_items.txt
  $ wc -w all_items.txt
@@ -6,5 +10,10 @@
 
 1404/300 = 4.68
 
-Each item has an average of 4-5 words.
+Extremes
+--------
+
+- 33 items contain 2 words
+- 1 item, the longest, contains 11 words
+- All other items contain 3-10 words
 
