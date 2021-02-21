@@ -1,0 +1,44 @@
+Homer Hartung,,,,
+Factor/NEO-PI-R Facet¹,IPIP Facet²,Raw,Percent,Meaning
+Neuroticism ,,154,39,A Little Low
+N2: Angry Hostility ,Anger,24,35,Low
+N1: Anxiety ,Anxiety,28,45,A Little Low
+N3: Depression ,Depression,21,27,Low
+N5: Impulsiveness ,Immoderation,29,47,Average
+N4: Self-Consciousness ,Self-consciousness,26,40,A Little Low
+N6: Vulnerability ,Vulnerability,26,40,A Little Low
+,,,,
+Extraversion ,,188,53,Average
+E4: Activity ,Activity-Level,25,37,A Little Low
+E3: Assertiveness ,Assertiveness,29,47,Average
+E6: Positive Emotions ,Cheerfulness,32,55,A Little High
+E5: Excitement-Seeking ,Excitement-Seeking,28,45,A Little Low
+E1: Warmth ,Friendliness,38,70,High
+E2: Gregariousness ,Gregariousness,36,65,High
+,,,,
+Openness ,,206,60,A Little High
+O4: Actions ,Adventurousness,32,55,A Little High
+O2: Aesthetics ,Aesthetic Appreciation,40,75,High
+O3: Feelings ,Emotionality,30,50,Average
+O1: Fantasy ,Imagination,38,70,High
+O5: Ideas ,Intellect,42,80,Very High
+O6: Values ,Liberalism,24,35,Low
+,,,,
+Agreeableness,,206,60,A Little High
+A3: Altruism ,Altruism,38,70,High
+A4: Compliance ,Cooperation,36,65,High
+A5: Modesty ,Modesty/Humility,29,47,Average
+A2: Straightforwardness ,Morality,36,65,High
+A6: Tender- Mindedness ,Sympathy,34,60,A Little High
+A1: Trust ,Trust,33,57,A Little High
+,,,,
+Conscientiousness ,,202,59,A Little High
+C4: Achievement-Striving ,Achievement-Striving,32,55,A Little High
+C6: Deliberation ,Cautiousness,31,52,Average
+C3: Dutifulness ,Dutifulness,40,75,High
+C2: Order ,Orderliness,33,57,A Little High
+C5: Self-Discipline ,Self-Discipline,31,52,Average
+C1: Competence,Self-Efficacy,35,62,A Little High
+,,,,
+"¹ NEO-PI-R Facets come from Personality in Adulthood by Costa and McRae, 2003.",,,,
+² IPIP Facets come from the TedoneItemAssignmentTable spreadsheet containing these items.,,,,
