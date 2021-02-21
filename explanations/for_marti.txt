@@ -1,0 +1,49 @@
+
+Explanation emailed to Marti, that might be useful for others someday.
+
+The acronym OCEAN makes it easy to remember the Big Five Factors:
+
+    Openness
+    Conscientiousness
+    Extraversion
+    Agreeableness and
+    Neuroticism
+
+For historical reasons, they appear in a different sequence in the score: originally their focus was on problems, so Neuroticism is first.  Almost all of these personality assessments have Extraversion, so that was a big one at first as well.  An early questionnaire added Openness, which gave them NEO-Personality Inventory or NEO-PI.
+
+Agreeableness and Conscientiousness came some time later, and they're "represented" by the "R" for Revised in the NEO-PI-R, which is the "gold standard" for Big Five/Five Factor Model assessments.  It costs about $80 to take that one, but the one I am using is an open source version that I can use for free.  The open source free version is one of many questionnaires available on the International Personality Item Pool (IPIP) site, https://ipip.ori.org/ .
+
+Each of these five factors has six facets, making a total of 30 traits.  That's probably one thing that's confusing.  So the 300 items questionnaire has 10 items for each trait.
+
+The facets for the NEO-PI-R are slightly different from the facets in the open source IPIP version.  I just think it's cool to match them up, so I put both of them in the score tables.
+
+The OCEAN Factors and the six NEO-PI-R facets for each of them appear in the first column of the table, and the six IPIP facets for each factor appear in the second column of the table. 
+
+One of the things that makes the FFM better than the Jungian questionnaire is that these traits really require no "translation."  So these first two columns should be self-explanatory.
+
+The third column, the Raw score, is pretty much irrelevant.  That's another thing that might be confusing, but I keep it because there's a slight chance the program I eventually write might use the Raw score, I don't know.  It's easier to ignore it than to maybe have to add it later.
+
+The score is really in the fourth column, Percentages.  These range from 0-100 percent, BUT they are relevant to the questionnaire, not the population as a whole.
+
+If you are curious where you score relative to the population as a whole, we'd have to figure out how to get everyone to answer the questionnaire!  And lol good luck with that!!  If that doesn't make sense, it's a bit complicated, so I'd want to try to explain it on a call. 
+
+The only questionnaire I found that shows you where you score relative to other people is the hexaco questionnaire at http://hexaco.org/ ,  and it's not a Big Five questionnaire per se.  It adds Honesty and so has six factors in all, and has some different facets, and is pretty cool, but there's a lot more information (books, etc.) available about the FFM. The wikipedia has some info about the HEXACO factors here: https://en.wikipedia.org/wiki/HEXACO_model_of_personality_structure.  We can consider Honesty as being related to the Morality facet of Agreeableness.
+
+The fifth column, Meaning, is something I added to help understand the results more easily.  Since 50% is not exactly in the middle of how the general population might score, I assigned a range to Average, A Little Low, A Little High, etc. scores.
+
+I'm starting to think a person's most extreme score -- the highest or lowest, the closest to 100% or 0% -- is like their Super Power!  Depending on how extreme your personality is, these will have either "Very Low" or "Very High" in the Meaning column.
+
+So your "Super Power" would be the Dutifulness facet of Conscientiousness, because you got 85% on that one.  Runners-up for your Super Power would be the Feelings/Emotionalism and Values/Liberalism facets under Openness, because you got 80% on those.  Your other scores are all closer to Average, 50%.
+
+My Super Power is the Ideas/Intellect facet of Openness, because I scored 92% on that one.  In general my scores are pretty extreme, which explains why I sometimes feel like I'm on the wrong planet -- and why I feel compelled to work on this project.  I also have very high Straightforwardness/Morality (under Agreeableness) and Dutifulness (under Conscientiousness).
+
+Very Low scores can also indicate a "Super Power."  A good example is Donald Trump.  His base loves him because he is unapologetic and doesn't care what people think.  His score at https://github.com/tomwhartung/five_factor_model/blob/master/results/real/politicians/donald_trump-ipip-300_items-NEO-i_say-score_values.csv reflects that: his most extreme scores are on the Compliance/Cooperation facet (just 2%!) and Modesty/Humility (5%!) facet of Agreeableness.
+
+FYI when I posted that DJT was very low in Agreeableness (just 14% for all of the facets!) on Fb, Johnny Martin commented that I was "very funny."  After thinking about that, and some of the messages he'd sent me (e.g., about birtherism) for a few days, I decided he had to go, so I deleted and blocked him from my Fb.
+
+I'm curious why you and he are no longer friends on Fb?
+
+Anyway, I hope that helps!  If not, let me know and I'll try again!
+
+Thanks again!
+
