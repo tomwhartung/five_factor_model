@@ -1,0 +1,44 @@
+Diana Smith,,,,
+Factor/NEO-PI-R Facet¹,IPIP Facet²,Raw,Percent,Meaning
+Neuroticism ,,144,35,Low
+N2: Angry Hostility ,Anger,24,35,Low
+N1: Anxiety ,Anxiety,29,47,Average
+N3: Depression ,Depression,20,25,Low
+N5: Impulsiveness ,Immoderation,32,55,A Little High
+N4: Self-Consciousness ,Self-consciousness,18,20,Very Low
+N6: Vulnerability ,Vulnerability,21,27,Low
+,,,,
+Extraversion ,,224,68,High
+E4: Activity ,Activity-Level,33,57,A Little High
+E3: Assertiveness ,Assertiveness,34,60,A Little High
+E6: Positive Emotions ,Cheerfulness,43,82,Very High
+E5: Excitement-Seeking ,Excitement-Seeking,37,67,High
+E1: Warmth ,Friendliness,42,80,Very High
+E2: Gregariousness ,Gregariousness,35,62,A Little High
+,,,,
+Openness ,,240,75,High
+O4: Actions ,Adventurousness,26,40,A Little Low
+O2: Aesthetics ,Aesthetic Appreciation,47,92,Very High
+O3: Feelings ,Emotionality,46,90,Very High
+O1: Fantasy ,Imagination,48,95,Very High
+O5: Ideas ,Intellect,48,95,Very High
+O6: Values ,Liberalism,25,37,A Little Low
+,,,,
+Agreeableness,,195,56,A Little High
+A3: Altruism ,Altruism,41,77,High
+A4: Compliance ,Cooperation,39,72,High
+A5: Modesty ,Modesty/Humility,21,27,Low
+A2: Straightforwardness ,Morality,39,72,High
+A6: Tender- Mindedness ,Sympathy,24,35,Low
+A1: Trust ,Trust,31,52,Average
+,,,,
+Conscientiousness ,,276,90,Very High
+C4: Achievement-Striving ,Achievement-Striving,50,100,Very High
+C6: Deliberation ,Cautiousness,44,85,Very High
+C3: Dutifulness ,Dutifulness,44,85,Very High
+C2: Order ,Orderliness,44,85,Very High
+C5: Self-Discipline ,Self-Discipline,45,87,Very High
+C1: Competence,Self-Efficacy,49,97,Very High
+,,,,
+"¹ NEO-PI-R Facets come from Personality in Adulthood by Costa and McRae, 2003.",,,,
+² IPIP Facets come from the TedoneItemAssignmentTable spreadsheet containing these items.,,,,
