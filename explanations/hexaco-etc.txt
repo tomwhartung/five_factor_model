@@ -1,0 +1,15 @@
+
+One thing to note about these scores is that they are relative to the questionnaire rather than to the population as a whole.  If you are curious where you stand on these traits relative to others, the best site I've found is hexaco.org:- https://en.wikipedia.org/wiki/HEXACO_model_of_personality_structure- http://hexaco.org/
+
+It's similar to the FFM, but considers Honesty to be a sixth factor.
+
+Also, you can help them out by answering their questionnaire and allowing them to use your results.  At the end you get to see your absolute score along with where it lies within the range of other scores in the site's database.  It makes more sense to see a picture, so here's the first page of my results when I took it:
+
+https://github.com/tomwhartung/five_factor_model/blob/master/preliminary_research/sampling_search_results/10-hexaco-results-screenshot_1.png (also attached)
+
+ Anyway, you mentioned being interested in this sort of thing so I thought I'd let you know about Hexaco!
+
+Last but not least, here's the link to an article I wrote on medium.com entitled The Top Five Big Five "OCEAN" Free Online Questionnaires:- https://medium.com/@tomwhartung/the-top-five-big-five-ocean-free-online-questionnaires-47b9c184fa3b?sk=fc6ea797c793a270d2bb6b0f712e35a8
+
+That's a free "friend" link that will get you past medium's paywall.
+
