@@ -1,0 +1,44 @@
+Michael Scott,,,,
+Factor/NEO-PI-R Facet¹,IPIP Facet²,Raw,Percent,Meaning
+Neuroticism ,,159,41,A Little Low
+N2: Angry Hostility ,Anger,29,47,Average
+N1: Anxiety ,Anxiety,26,40,A Little Low
+N3: Depression ,Depression,19,22,Low
+N5: Impulsiveness ,Immoderation,32,55,A Little High
+N4: Self-Consciousness ,Self-consciousness,20,25,Low
+N6: Vulnerability ,Vulnerability,33,57,A Little High
+,,,,
+Extraversion ,,244,76,High
+E4: Activity ,Activity-Level,29,47,Average
+E3: Assertiveness ,Assertiveness,43,82,Very High
+E6: Positive Emotions ,Cheerfulness,47,92,Very High
+E5: Excitement-Seeking ,Excitement-Seeking,39,72,High
+E1: Warmth ,Friendliness,43,82,Very High
+E2: Gregariousness ,Gregariousness,43,82,Very High
+,,,,
+Openness ,,191,54,A Little High
+O4: Actions ,Adventurousness,31,52,Average
+O2: Aesthetics ,Aesthetic Appreciation,36,65,High
+O3: Feelings ,Emotionality,32,55,A Little High
+O1: Fantasy ,Imagination,38,70,High
+O5: Ideas ,Intellect,24,35,Low
+O6: Values ,Liberalism,30,50,Average
+,,,,
+Agreeableness,,192,55,A Little High
+A3: Altruism ,Altruism,41,77,High
+A4: Compliance ,Cooperation,32,55,A Little High
+A5: Modesty ,Modesty/Humility,22,30,Low
+A2: Straightforwardness ,Morality,24,35,Low
+A6: Tender-Mindedness ,Sympathy,32,55,A Little High
+A1: Trust ,Trust,41,77,High
+,,,,
+Conscientiousness ,,169,45,A Little Low
+C4: Achievement-Striving ,Achievement-Striving,34,60,A Little High
+C6: Deliberation ,Cautiousness,18,20,Very Low
+C3: Dutifulness ,Dutifulness,34,60,A Little High
+C2: Order ,Orderliness,23,32,Low
+C5: Self-Discipline ,Self-Discipline,27,42,A Little Low
+C1: Competence,Self-Efficacy,33,57,A Little High
+,,,,
+"¹ NEO-PI-R Facets come from Personality in Adulthood by Costa and McRae, 2003.",,,,
+² IPIP Facets come from the TedoneItemAssignmentTable spreadsheet containing these items.,,,,
