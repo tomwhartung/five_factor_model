@@ -24,7 +24,7 @@ This questionnaire contains 300 items but I want to try to alleviate any relucta
 - There is a middle "Neutral" option which the Jungian/MBTI questionnaires do not have, which makes things much easier.
 - It's best to do them quickly, without thinking much.  Get on a roll and it can be hard to stop!
 
-if you're interested in learning more about the various ffm questionnaires out there, i wrote an article entitled "The Top Five Big Five 'OCEAN' Free Online Questionnaires," which is posted on medium.com here: https://bit.ly/mdm-t5b5 .
+If you're interested in learning more about the various ffm questionnaires out there, i wrote an article entitled "The Top Five Big Five 'OCEAN' Free Online Questionnaires," which is posted on medium.com here: https://bit.ly/mdm-t5b5 .
 
 Thanks for taking the time to do this!
 
